@@ -12534,7 +12534,7 @@ i.bg-color-secondary {
 }
 h2.slider-title{
   font-size: 78px;
-  letter-spacing: -5px;
+  /*letter-spacing: -5px;*/
 }
 p.slider-teaser{
   color: rgba(255, 255, 255, .75);
