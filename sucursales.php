@@ -80,8 +80,11 @@
                         <div class="swiper-pagination"></div>
 
                         <!-- If we need navigation buttons -->
-                        <div class="swiper-button-prev"></div>
-                        <div class="swiper-button-next"></div>
+                        <!-- <div class="swiper-button-prev d-block d-lg-none" style="margin-top: 60%"></div>
+                        <div class="swiper-button-next d-block d-lg-none" style="margin-top: 60%"></div>
+
+                        <div class="swiper-button-prev d-none d-lg-block"></div>
+                        <div class="swiper-button-next d-none d-lg-block"></div> -->
 
                         <!-- If we need scrollbar -->
                         <div class="swiper-scrollbar"></div>

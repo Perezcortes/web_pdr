@@ -23,50 +23,7 @@
 
 <body>
     <div id="wrapper">
-        <!-- page preloader begin -->
-        <!--div id="de-loader"></div-->
-        <!-- page preloader close -->
-
-        <!-- header begin -->
-        <!-- <header class="header-full transparent">
-            <div class="container-fluid">
-                <div class="row">
-                    <div class="col-md-12">
-                        <div class="de-flex sm-pt10">
-                            <div class="de-flex-col">
-                                <div class="de-flex-col">
-                                    <div id="logo">
-                                        <a href="index.html">
-                                            <img class="logo-main" src="images/logo.png" alt="" width="143">
-                                            <img class="logo-mobile" src="images/logo.png" alt="" width="100">
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="de-flex-col header-col-mid">
-                                <ul id="mainmenu">
-                                    <li><a class="menu-item" href="index.html">Inicio</a></li>
-                                    <li><a class="menu-item" href="#">Nosotros</a></li>
-                                    <li><a class="menu-item" href="#">Servicios</a></li>
-                                    <li><a class="menu-item" href="sucursales.html">Sucursales</a></li>
-                                    <li><a class="menu-item" href="#">Blog</a></li>
-                                    <li><a class="menu-item" href="#">Contacto</a></li>
-                                </ul>
-                            </div>
-                            <div class="de-flex-col">
-                                <div class="menu_side_area">
-                                    <a href="#" class="btn-main">Franquicias</a>
-                                    <span id="menu-btn"></span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </header> -->
         <?php include 'menu.php'; ?>
-        <!-- header close -->
-        <!-- content begin -->
         <div class="no-bottom no-top" id="content">
 
             <div id="top"></div>
@@ -74,7 +31,6 @@
             <section class="text-light no-top no-bottom position-relative z-1000">
                 <div class="v-center">
                     <div class="swiper">
-                        <!-- Additional required wrapper -->
                         <div class="swiper-wrapper">
                             <!-- Slides -->
                             <div class="swiper-slide" data-jarallax-element="150">
@@ -149,56 +105,16 @@
                                 </div>
                             </div>
 
-                            <!-- Slides 
-                        <div class="swiper-slide" data-jarallax-element="150">
-                            <div class="swiper-inner" data-bgimage="url(images/slider/4.webp)">
-                                <div class="sw-caption">
-                                    <div class="container">
-                                        <div class="row gx-5 align-items-center">
-                                            <div class="col-lg-12">
-                                                <div class="subtitle s2 mb-4">Trusted IT Solutions</div>
-                                            </div>
-                                            <div class="col-lg-8 mb-sm-30">
-                                                <h2 class="slider-title">We crafting digital solutions with cutting-edge technology.</h2>
-                                            </div>
-                                            <div class="col-lg-4">
-                                                <div class="slider-teaser">
-                                                    <div class="row">
-                                                        <div class="col-lg-6">
-                                                            <div class="de_count wow fadeInUp">
-                                                                <h3><span>875</span>+</h3>
-                                                                <h4>Projects Completed</h4>
-                                                            </div>
-                                                        </div>
-
-                                                        <div class="col-lg-6">
-                                                            <div class="de_count wow fadeInUp">
-                                                                <h3><span>99</span>%</h3>
-                                                                <h4>Customer Satisfication</h4>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <hr class="s2">
-                                                    <div class="spacer-10"></div>
-                                                    <a class="btn-main" href="#">Free Consultation</a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="sw-overlay s2"></div>
-                            </div>                            
-                        </div>-->
-
-
-
                         </div>
                         <!-- If we need pagination -->
                         <div class="swiper-pagination"></div>
 
                         <!-- If we need navigation buttons -->
-                        <div class="swiper-button-prev"></div>
-                        <div class="swiper-button-next"></div>
+                        <div class="swiper-button-prev d-block d-lg-none" style="margin-top: 60%"></div>
+                        <div class="swiper-button-next d-block d-lg-none" style="margin-top: 60%"></div>
+
+                        <div class="swiper-button-prev d-none d-lg-block"></div>
+                        <div class="swiper-button-next d-none d-lg-block"></div>
 
                         <!-- If we need scrollbar -->
                         <div class="swiper-scrollbar"></div>
