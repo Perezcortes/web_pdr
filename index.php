@@ -6,7 +6,9 @@
     <link rel="icon" href="images/icon.png" type="image/gif" sizes="16x16">
     <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="UpTech — IT Solutions and Services Website Template" name="description">
+    <meta content="Nuestra tecnología revoluciona la protección jurídica en el
+                                                        arrendamiento inmobiliario. Forma parte del futuro de la
+                                                        seguridad para propietarios e inquilinos." name="description">
     <meta content="" name="keywords">
     <meta content="" name="author">
     <!-- CSS Files
@@ -64,7 +66,7 @@
                 </div>
             </div>
         </header> -->
-        <?php  include 'menu.php'; ?>
+        <?php include 'menu.php'; ?>
         <!-- header close -->
         <!-- content begin -->
         <div class="no-bottom no-top" id="content">
@@ -308,11 +310,7 @@
                                     </div>
 
                                     <div class="col-lg-6">
-                                        <iframe width="100%" class="wow fadeInUp rounded-4 my-4" height="300"
-                                            src="https://www.youtube.com/embed/Ckos_FerhOc?si=YJSheoxMIaFaBdkG"
-                                            title="YouTube video player" frameborder="0" style="border-radius:16px"
-                                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                                            referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                                        <iframe width="100%" class="wow fadeInUp rounded-4 my-4" height="300" src="https://www.youtube.com/embed/Ckos_FerhOc?si=YJSheoxMIaFaBdkG" title="YouTube video player" frameborder="0" style="border-radius:16px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                                     </div>
 
 
@@ -390,10 +388,8 @@
                         <div class="col-lg-6 mb-sm-20 position-relative">
                             <div class="images-deco-1">
                                 <img src="images/misc/1.jpg" class="d-img-1 wow zoomIn" data-wow-delay="0s" alt="">
-                                <img src="images/misc/2.png" class="shadow-sm d-img-2 wow zoomIn" data-wow-delay=".5s"
-                                    data-jarallax-element="100" alt="">
-                                <div class="d-img-3 bg-color wow zoomIn" data-wow-delay=".6s"
-                                    data-jarallax-element="-50"></div>
+                                <img src="images/misc/2.png" class="shadow-sm d-img-2 wow zoomIn" data-wow-delay=".5s" data-jarallax-element="100" alt="">
+                                <div class="d-img-3 bg-color wow zoomIn" data-wow-delay=".6s" data-jarallax-element="-50"></div>
                             </div>
                         </div>
 

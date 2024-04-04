@@ -6,7 +6,9 @@
     <link rel="icon" href="images/icon.png" type="image/gif" sizes="16x16">
     <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="UpTech — IT Solutions and Services Website Template" name="description">
+    <meta content="Nuestra tecnología revoluciona la protección jurídica en el
+                                                        arrendamiento inmobiliario. Forma parte del futuro de la
+                                                        seguridad para propietarios e inquilinos." name="description">
     <meta content="" name="keywords">
     <meta content="" name="author">
     <!-- CSS Files
@@ -283,7 +285,7 @@
                         <select class="form-select" aria-label="Default select example" id="filtroEstados" style="display: none;">
                             <option selected>Selecciona un estado...</option>
                             <option value="mexico">Méxio</option>
-                            <option value="pebla">Púebla</option>
+                            <option value="puebla">Puebla</option>
                             <option value="veracruz">Veracruz</option>
                         </select>
                     </div>
@@ -897,6 +899,7 @@
                         var sucursales = document.querySelectorAll("[data-estado]");
 
                         botonMostrar.addEventListener("click", function() {
+                            selectEstados.style.display = "none";
                             seccionEstados.style.display = "block";
                         });
 
@@ -908,9 +911,9 @@
 
 
                             var estadoSeleccionado = filtroEstados.value;
-                            mostrarEstado(estadoSeleccionado);
+                            mostrarEstado(sucursales);
                             seccionEstados.style.display = 'block';
-                            
+
                         });
 
                         function mostrarEstado(sucursales) {
