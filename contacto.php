@@ -179,8 +179,8 @@
                                 inmuebles que buscan dar sus propiedades en arrendamiento.</p>
                             <hr class="s2">
                             <div class="spacer-10"></div>
-                            <a class="btn-main mb10" href="services.html">Conoce más</a>
-                            <a class="btn-main mb10" href="services.html">Nuestras sucursales</a>
+                            <a class="btn-main mb10" href="#">Conoce más</a>
+                            <a class="btn-main mb10" href="#">Nuestras sucursales</a>
                         </div>
                     </div>
                 </div>
@@ -216,7 +216,7 @@
                                     <div class="widget">
                                         <h5>Enlaces</h5>
                                         <ul>
-                                            <li><a href="nosotros.html">Nosotros</a></li>
+                                            <li><a href="nosotros.php">Nosotros</a></li>
                                             <li><a href="#">Servicios Jurídicos</a></li>
                                             <li><a href="#">Póliza Jurídica</a></li>
                                             <li><a href="#">Convenio de Prevención de Conflictos</a></li>
@@ -224,7 +224,7 @@
                                             <li><a href="#">Investigación de Inquilinos</a></li>
                                             <li><a href="#">Sucursales</a></li>
                                             <li><a href="#">Blog</a></li>
-                                            <li><a href="contacto.html">Contacto</a></li>
+                                            <li><a href="#">Contacto</a></li>
                                         </ul>
 
                                         <!-- <h5>Accesos</h5>
@@ -232,11 +232,11 @@
                                         <div class="row">
 
                                             <div class="col-lg-12">
-                                                <a class="btn-main mb10" href="contact.html">Genera tu solicitud</a>
+                                                <a class="btn-main mb10" href="#">Genera tu solicitud</a>
                                                 </a>
                                             </div>
                                             <div class="col-lg-12">
-                                                <a class="btn-main mb10" href="contact.html">Sistema Polizas
+                                                <a class="btn-main mb10" href="#">Sistema Polizas
                                                 </a>
                                             </div>
 
@@ -288,9 +288,9 @@
                             <div class="row">
 
                                 <div class="col-lg-4">
-                                    <a class="btn-main mb10" href="contact.html">Genera tu solicitud</a>
+                                    <a class="btn-main mb10" href="#">Genera tu solicitud</a>
                                     </a>
-                                    <a class="btn-main mb10" href="contact.html">Sistema Polizas
+                                    <a class="btn-main mb10" href="#">Sistema Polizas
                                     </a>
                                 </div>
 
