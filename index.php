@@ -28,29 +28,27 @@
         <!-- page preloader close -->
 
         <!-- header begin -->
-        <header class="header-full transparent">
+        <!-- <header class="header-full transparent">
             <div class="container-fluid">
                 <div class="row">
                     <div class="col-md-12">
                         <div class="de-flex sm-pt10">
                             <div class="de-flex-col">
                                 <div class="de-flex-col">
-                                    <!-- logo begin -->
                                     <div id="logo">
                                         <a href="index.html">
                                             <img class="logo-main" src="images/logo.png" alt="" width="143">
                                             <img class="logo-mobile" src="images/logo.png" alt="" width="100">
                                         </a>
                                     </div>
-                                    <!-- logo close -->
                                 </div>
                             </div>
                             <div class="de-flex-col header-col-mid">
                                 <ul id="mainmenu">
                                     <li><a class="menu-item" href="index.html">Inicio</a></li>
-                                    <li><a class="menu-item" href="nosotros.html">Nosotros</a></li>
+                                    <li><a class="menu-item" href="#">Nosotros</a></li>
                                     <li><a class="menu-item" href="#">Servicios</a></li>
-                                    <li><a class="menu-item" href="#">Sucursales</a></li>
+                                    <li><a class="menu-item" href="sucursales.html">Sucursales</a></li>
                                     <li><a class="menu-item" href="#">Blog</a></li>
                                     <li><a class="menu-item" href="contacto.html">Contacto</a></li>
                                 </ul>
@@ -65,7 +63,8 @@
                     </div>
                 </div>
             </div>
-        </header>
+        </header> -->
+        <?php  include 'menu.php'; ?>
         <!-- header close -->
         <!-- content begin -->
         <div class="no-bottom no-top" id="content">
@@ -88,9 +87,12 @@
                                                     <h2 class="slider-title">Innovación en Protección Patrimonial
                                                     </h2>
                                                     <p class="fs-4 wow fadeInRight">
-                                                        Nuestra tecnología revoluciona la protección jurídica en el arrendamiento inmobiliario. Forma parte del futuro de la seguridad para propietarios e inquilinos.
+                                                        Nuestra tecnología revoluciona la protección jurídica en el
+                                                        arrendamiento inmobiliario. Forma parte del futuro de la
+                                                        seguridad para propietarios e inquilinos.
                                                     </p>
-                                                    <a class="btn-main mb10 mt20" href="contacto.html">Contrata ahora</a>
+                                                    <a class="btn-main mb10 mt20" href="contacto.html">Contrata
+                                                        ahora</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -110,9 +112,12 @@
                                                     <h2 class="slider-title">Únete a Nuestra Red de Franquicias
                                                     </h2>
                                                     <p class="fs-4 wow fadeInRight">
-                                                        Conviértete en parte de una marca líder en protección de patrimonios. Descubre las ventajas de ser franquiciado de Póliza de Rentas.
+                                                        Conviértete en parte de una marca líder en protección de
+                                                        patrimonios. Descubre las ventajas de ser franquiciado de Póliza
+                                                        de Rentas.
                                                     </p>
-                                                    <a class="btn-main mb10" href="contacto.html">Conoce el programa de Franquicias</a>
+                                                    <a class="btn-main mb10" href="contacto.html">Conoce el programa de
+                                                        Franquicias</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -132,7 +137,8 @@
                                                     <h2 class="slider-title">Confía en Nuestra Experiencia
                                                     </h2>
                                                     <p class="fs-4 wow fadeInRight">
-                                                        Nuestros clientes confían en nosotros para asegurar su tranquilidad. Descubre por qué somos la opción de confianza.
+                                                        Nuestros clientes confían en nosotros para asegurar su
+                                                        tranquilidad. Descubre por qué somos la opción de confianza.
                                                     </p>
                                                     <a class="btn-main mb10" href="contacto.html">Contrata tu póliza</a>
                                                 </div>
@@ -285,7 +291,8 @@
                                 <div class="row">
                                     <div class="col-lg-6">
                                         <div class="subtitle s2 wow fadeInUp mb-3">Cómo lo hacemos</div>
-                                        <h2 class="mb20 wow fadeInUp" data-wow-delay=".2s">ADQUIERE TU FRANQUICIA DE PÓLIZA DE RENTAS</h2>
+                                        <h2 class="mb20 wow fadeInUp" data-wow-delay=".2s">ADQUIERE TU FRANQUICIA DE
+                                            PÓLIZA DE RENTAS</h2>
 
                                         <div class=" s2 mb-4">
                                             En Póliza de Rentas te ofrecemos tecnología de protección <br>
@@ -301,7 +308,11 @@
                                     </div>
 
                                     <div class="col-lg-6">
-                                        <iframe width="100%" class="wow fadeInUp rounded-4 my-4" height="300" src="https://www.youtube.com/embed/Ckos_FerhOc?si=YJSheoxMIaFaBdkG" title="YouTube video player" frameborder="0" style="border-radius:16px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                                        <iframe width="100%" class="wow fadeInUp rounded-4 my-4" height="300"
+                                            src="https://www.youtube.com/embed/Ckos_FerhOc?si=YJSheoxMIaFaBdkG"
+                                            title="YouTube video player" frameborder="0" style="border-radius:16px"
+                                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                            referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                                     </div>
 
 
@@ -366,7 +377,7 @@
                         </div>
                     </div>
 
-                    
+
                     <div class="col-lg-12 d-flex justify-content-center">
                         <a class="btn-main mt-5" href="contacto.html">Contrata ahora</a>
                     </div>
@@ -673,7 +684,7 @@
                                             <li><a href="#">Convenio de Prevención de Conflictos</a></li>
                                             <li><a href="#">Convenio de Transacción</a></li>
                                             <li><a href="#">Investigación de Inquilinos</a></li>
-                                            <li><a href="#">Sucursales</a></li>
+                                            <li><a href="sucursales.html">Sucursales</a></li>
                                             <li><a href="#">Blog</a></li>
                                             <li><a href="contacto.html">Contacto</a></li>
                                         </ul>

@@ -28,44 +28,7 @@
         <!-- page preloader close -->
 
         <!-- header begin -->
-        <header class="header-full transparent">
-            <div class="container-fluid">
-                <div class="row">
-                    <div class="col-md-12">
-                        <div class="de-flex sm-pt10">
-                            <div class="de-flex-col">
-                                <div class="de-flex-col">
-                                    <!-- logo begin -->
-                                    <div id="logo">
-                                        <a href="index.html">
-                                            <img class="logo-main" src="images/logo.png" alt="" width="143">
-                                            <img class="logo-mobile" src="images/logo.png" alt="" width="100">
-                                        </a>
-                                    </div>
-                                    <!-- logo close -->
-                                </div>
-                            </div>
-                            <div class="de-flex-col header-col-mid">
-                                <ul id="mainmenu">
-                                    <li><a class="menu-item" href="index.html">Inicio</a></li>
-                                    <li><a class="menu-item" href="nosotros.html">Nosotros</a></li>
-                                    <li><a class="menu-item" href="#">Servicios</a></li>
-                                    <li><a class="menu-item" href="#">Sucursales</a></li>
-                                    <li><a class="menu-item" href="#">Blog</a></li>
-                                    <li><a class="menu-item" href="contacto.html">Contacto</a></li>
-                                </ul>
-                            </div>
-                            <div class="de-flex-col">
-                                <div class="menu_side_area">
-                                    <a href="contact.html" class="btn-main">Franquicias</a>
-                                    <span id="menu-btn"></span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </header>
+        <?php include 'menu.php'; ?>
         <!-- header close -->
         <!-- content begin -->
         <div class="no-bottom no-top" id="content">
@@ -97,11 +60,9 @@
                 <div class="container">
                     <div class="row text-center">
                         <div class="col-lg-8 offset-lg-2">
-                            <h2 class="wow fadeInUp mb20" data-wow-delay=".2s"> Póliza de Rentas <br>
-                                CDMX Platino
+                            <h2 class="wow fadeInUp mb20" data-wow-delay=".2s"> Contactanos
                             </h2>
-                            <div class="subtitle wow fadeInUp mb-3">Ciudad de México</div>
-
+                            <br><br>
                         </div>
                     </div>
                 </div>
@@ -111,7 +72,7 @@
             <section>
                 <div class="container">
                     <div class="row">
-                        <div class="col-md-7 wow fadeInRight" data-wow-delay="0s">
+                        <!-- <div class="col-md-7 wow fadeInRight" data-wow-delay="0s">
 
                             <p>
                                 Somos una empresa dedicada a proteger el patrimonio de las personas,
@@ -154,24 +115,11 @@
 
                             </div>
 
-                        </div>
+                        </div> -->
 
-                        <div class="col-lg-5 col-md-6" data-wow-delay="0s">
-                            <div class="p-4 pb-2 bg-grey">
-                                <div class="subtitle wow fadeInUp mb-3" style="background-color: grey; color: white;">
-                                    Ciudad de México</div>
-                                <h4>Póliza de Rentas CdMx Capital</h4>
-                                <hr class="s2">
-                                <p>Moliere, No. 310, Polanco II sección, Miguel Hidalgo. Ciudad de México <br><br>
+                        <div class="row col-lg-12 col-md-6" data-wow-delay="0s">
 
-                                    55 3760 0883 <br><br>
-
-                                    capital@polizaderentas.com
-                                </p>
-                            </div>
-
-                            <br><br>
-                            <div class="p-4 pb-2 bg-grey">
+                            <div class="col-lg-6 p-4 pb-2 bg-grey">
                                 <h4>Envía tus datos y un asesor se pondrá en contacto contigo</h4>
 
                                 <form>
@@ -193,23 +141,14 @@
                                     </div>
                                     <button type="submit" class="btn btn-primary">Enviar</button>
                                 </form>
-                                <!-- <script charset="utf-8" type="text/javascript"
-                                    src="//js.hsforms.net/forms/embed/v2.js"></script>
-                                <script>
-                                    hbspt.forms.create({
-                                        region: "na1",
-                                        portalId: "43815744",
-                                        formId: "d7a41e60-70ed-41bf-b250-37f9889295d6"
-                                    });
-                                </script> -->
                             </div>
 
                             <br><br>
 
-                            <iframe
-                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3762.4002200013833!2d-99.2094382889982!3d19.43830404042254!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d2021965d6cd41%3A0xbae0eb331a021324!2sSears%20Polanco!5e0!3m2!1ses-419!2smx!4v1711477157778!5m2!1ses-419!2smx"
-                                width="450" height="450" style="border:0;" allowfullscreen="" loading="lazy"
-                                referrerpolicy="no-referrer-when-downgrade"></iframe>
+                            <div class="col-lg-6">
+                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3762.4002200013833!2d-99.2094382889982!3d19.43830404042254!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d2021965d6cd41%3A0xbae0eb331a021324!2sSears%20Polanco!5e0!3m2!1ses-419!2smx!4v1711477157778!5m2!1ses-419!2smx" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+                            </div>
 
 
                         </div>
@@ -227,10 +166,8 @@
                         <div class="col-lg-6 mb-sm-20 position-relative">
                             <div class="images-deco-1">
                                 <img src="images/misc/1.png" class="d-img-1 wow zoomIn" data-wow-delay="0s" alt="">
-                                <img src="images/misc/2.png" class="d-img-2 wow zoomIn" data-wow-delay=".5s"
-                                    data-jarallax-element="100" alt="">
-                                <div class="d-img-3 bg-color wow zoomIn" data-wow-delay=".6s"
-                                    data-jarallax-element="-50"></div>
+                                <img src="images/misc/2.png" class="d-img-2 wow zoomIn" data-wow-delay=".5s" data-jarallax-element="100" alt="">
+                                <div class="d-img-3 bg-color wow zoomIn" data-wow-delay=".6s" data-jarallax-element="-50"></div>
                             </div>
                         </div>
 
