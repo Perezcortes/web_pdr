@@ -1,0 +1,62 @@
+.map-container {
+    width: 100%;
+    /* Opcional: ajusta el ancho del contenedor */
+    max-width: 600px;
+    /* Opcional: establece un ancho máximo */
+    margin: 0 auto;
+    /* Centra el contenedor horizontalmente */
+    overflow: hidden;
+    /* Evita que los elementos salgan del contenedor */
+}
+
+#mexico-map path {
+    fill: #ccc;
+    /* Color de relleno para todos los estados */
+    stroke: #fff;
+    /* Color de borde */
+    stroke-width: 1;
+    /* Grosor del borde */
+    transition: fill 0.3s;
+    /* Transición suave del cambio de color */
+}
+
+#MX-BCN,
+#MX-CHH,
+#MX-SIN,
+#MX-DUR,
+#MX-NEL,
+#MX-SLP,
+#MX-GUA,
+#MX-JAL,
+#MX-QUE,
+#MX-VER,
+#MX-PUE,
+#MX-DIF,
+#MX-MEX,
+#MX-MOR,
+#MX-GRO,
+#MX-TAB,
+#MX-YUC {
+    fill: rgb(163, 135, 78) !important;
+    cursor: pointer;
+}
+
+#MX-BCN:hover,
+#MX-CHH:hover,
+#MX-SIN:hover,
+#MX-DUR:hover,
+#MX-NEL:hover,
+#MX-SLP:hover,
+#MX-GUA:hover,
+#MX-JAL:hover,
+#MX-QUE:hover,
+#MX-VER:hover,
+#MX-PUE:hover,
+#MX-DIF:hover,
+#MX-MEX:hover,
+#MX-MOR:hover,
+#MX-GRO:hover,
+#MX-TAB:hover,
+#MX-YUC:hover {
+    fill: rgb(211, 185, 134) !important;
+}
