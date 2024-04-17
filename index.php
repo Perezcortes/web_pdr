@@ -16,6 +16,7 @@
     <link href="css/swiper.css" rel="stylesheet" type="text/css">
     <link href="css/style.css" rel="stylesheet" type="text/css">
     <link href="css/coloring.css" rel="stylesheet" type="text/css">
+    <link href="css/estilos.css" rel="stylesheet" type="text/css">
     <!-- color scheme -->
     <link id="colors" href="css/colors/scheme-01.css" rel="stylesheet" type="text/css">
 
@@ -39,16 +40,13 @@
                                         <div class="container">
                                             <div class="row gx-5 align-items-center">
 
-                                                <div class="col-lg-7 mb-sm-30">
-                                                    <h2 class="slider-title">Innovación en Protección Patrimonial
+                                                <div class="col-lg-7 mb-sm-30 offset-lg-1">
+                                                    <h2 class="slider-title font-50">Póliza de Rentas
                                                     </h2>
                                                     <p class="fs-4 wow fadeInRight">
-                                                        Nuestra tecnología revoluciona la protección jurídica en el
-                                                        arrendamiento inmobiliario. Forma parte del futuro de la
-                                                        seguridad para propietarios e inquilinos.
+                                                        ¡Prevenir problemas, preveer riesgos y proteger a nuestros clientes! Descubre cómo convertimos la <b>seguridad de tus rentas</b> en una experiencia excepcional para ti.
                                                     </p>
-                                                    <a class="btn-main mb10 mt20" href="#">Contrata
-                                                        ahora</a>
+                                                    <a class="btn-main mb10 mt20" href="servicios.php">Nuestras Coberturas</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -64,16 +62,15 @@
                                         <div class="container">
                                             <div class="row gx-5 align-items-center">
 
-                                                <div class="col-lg-7 mb-sm-30">
-                                                    <h2 class="slider-title">Únete a Nuestra Red de Franquicias
-                                                    </h2>
+                                                <div class="col-lg-7 mb-sm-30 offset-lg-1">
+                                                    <h2 class="slider-title font-50">La Red de Abogados más GRANDE de México</h2>
                                                     <p class="fs-4 wow fadeInRight">
-                                                        Conviértete en parte de una marca líder en protección de
-                                                        patrimonios. Descubre las ventajas de ser franquiciado de Póliza
-                                                        de Rentas.
+                                                        Investigación profesional al inquilino, contrato de arrendamiento profesional y acompañamiento desde la firma y en toda la vigencia del contrato.
+                                                        <br>
+                                                        <br>
+                                                        ¡Encuentra tu sucursal más cercana y haz de tus rentas un negocio tranquilo!
                                                     </p>
-                                                    <a class="btn-main mb10" href="#">Conoce el programa de
-                                                        Franquicias</a>
+                                                    <a class="btn-main mb10" href="sucursales.php">Ubica tu sucursa</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -89,14 +86,12 @@
                                         <div class="container">
                                             <div class="row gx-5 align-items-center">
 
-                                                <div class="col-lg-7 mb-sm-30">
-                                                    <h2 class="slider-title">Confía en Nuestra Experiencia
-                                                    </h2>
+                                                <div class="col-lg-7 mb-sm-30 offset-lg-1">
+                                                    <h2 class="slider-title font-50">¡Únete a nuestro éxito y haz crecer tu negocio con una franquicia de Póliza de Rentas!</h2>
                                                     <p class="fs-4 wow fadeInRight">
-                                                        Nuestros clientes confían en nosotros para asegurar su
-                                                        tranquilidad. Descubre por qué somos la opción de confianza.
+                                                        Se líder en protección jurídico inmobiliaria en tu Ciudad, genera ingresos con un negocio probado y exitoso en todo México
                                                     </p>
-                                                    <a class="btn-main mb10" href="#">Contrata tu póliza</a>
+                                                    <a class="btn-main mb10" href="#">Regístrate</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -126,7 +121,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-3">
-                            <div class="subtitle s2 wow fadeInUp mb-3">Conoce más</div>
+                            <div class="subtitle s2 wow fadeInUp mb-3 bg-dorado">Conoce más</div>
                             <h2 class="wow fadeInUp" data-wow-delay=".2s">¿Cómo me protege Póliza de Rentas?</h2>
                         </div>
 
@@ -135,8 +130,7 @@
                                 <img src="images/svg/collaboration-svgrepo-com.svg" class="w-80px mb20" alt="">
                                 <h4>Prevenir problemas</h4>
                                 <hr class="s2">
-                                <p>Todos los servicios de Protección Jurídica en tu Arrendamiento Inmobiliario. Nuestro
-                                    equipo de abogados te dará el mejor servicio a un precio justo.</p>
+                                <p>La prevención es pilar fundamental en nuestros servicios, ya que es la garantía de seguridad y confianza con cada cliente, por ello contamos con la <b>investigación de inquilinos</b> más completa de todo México.</p>
                             </div>
                         </div>
 
@@ -145,8 +139,7 @@
                                 <img src="images/svg/embedded-live-content-svgrepo-com.svg" class="w-80px mb20" alt="">
                                 <h4>Preveer riesgos</h4>
                                 <hr class="s2">
-                                <p>Firmado ante Mediador Certificado con Fé Pública e Inscrito en el Tribunal Superior
-                                    de Justicia Alternativa. Obtén Máxima Protección jurídica.</p>
+                                <p>El análisis minucioso a través nuestro <b>sistema de evaluación de riesgo</b>, nos permite blindar a nuestros clientes jurídicamente, además que todas nuestras coberturas incluyen la protección contra <b>la ley de extinción de dominio.</b></p>
                             </div>
                         </div>
 
@@ -155,8 +148,7 @@
                                 <img src="images/svg/lock-svgrepo-com.svg" class="w-80px mb20" alt="">
                                 <h4>Proteger la inversión</h4>
                                 <hr class="s2">
-                                <p>Acuerdo de desalojo anticipado firmado ante Notario Público o Escribano, de tal forma
-                                    que no requieras de un juicio para recuperar tu inmueble.</p>
+                                <p>Te acompañamos desde la firma del contrato y durante toda la vigencia del mismo, protegiendo tu patrimonio con atención a incidencias 24/7 a través de nuestra app.</p>
                             </div>
                         </div>
                     </div>
@@ -166,31 +158,32 @@
             <section>
                 <div class="container">
                     <div class="row">
-                        <div class="col-lg-3 col-md-6 mb-sm-20 position-relative">
-                            <div class="de_count wow fadeInUp">
-                                <h3><span class="timer" data-to="10800" data-speed="3000"></span>+</h3>
-                                <h4>Pólizas activas</h4>
-                            </div>
-                        </div>
 
                         <div class="col-lg-3 col-md-6 mb-sm-20 position-relative">
                             <div class="de_count wow fadeInUp">
-                                <h3><span class="timer" data-to="20" data-speed="3000"></span>+</h3>
-                                <h4>Sucursales</h4>
-                            </div>
-                        </div>
-
-                        <div class="col-lg-3 col-md-6 mb-sm-20 position-relative">
-                            <div class="de_count wow fadeInUp">
-                                <h3><span class="timer" data-to="300" data-speed="3000"></span>%</h3>
+                                <h3>+<span class="timer" data-to="300" data-speed="3000"></span>%</h3>
                                 <h4>De crecimiento anual</h4>
                             </div>
                         </div>
 
                         <div class="col-lg-3 col-md-6 mb-sm-20 position-relative">
                             <div class="de_count wow fadeInUp">
-                                <h3><span class="timer" data-to="15" data-speed="3000"></span>+</h3>
-                                <h4>Años de experiencia</h4>
+                                <h3><span class="timer" data-to="40" data-speed="3000"></span>+</h3>
+                                <h4>Sucursales</h4>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-3 col-md-6 mb-sm-20 position-relative">
+                            <div class="de_count wow fadeInUp">
+                                <h3><span class="timer" data-to="23" data-speed="3000"></span></h3>
+                                <h4>Estados donde tenemos presencia</h4>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-3 col-md-6 mb-sm-20 position-relative">
+                            <div class="de_count wow fadeInUp">
+                                <h3><span class="timer" data-to="4" data-speed="3000"></span> - <span class="timer" data-to="2" data-speed="3000"></span></h3>
+                                <h4>Años sin juicio</h4>
                             </div>
                         </div>
 
@@ -211,15 +204,10 @@
                                             PÓLIZA DE RENTAS</h2>
 
                                         <div class=" s2 mb-4">
-                                            En Póliza de Rentas te ofrecemos tecnología de protección <br>
-                                            jurídica de arrendamiento inmobiliario cobrando de manera <br>
-                                            justa sólo lo que necesitas.
+                                            Con nuestro probado Triángulo de la Seguridad, que se basa en prevenir, prever y proteger, tendrás las herramientas para construir un negocio sólido y rentable. Además, nuestra rigurosa <b>investigación del inquilino</b> garantiza la prevención de problemas y la tranquilidad para todas nuestras franquicias.
                                         </div>
 
-                                        <a class="btn-main" href="#l">Conoce más</a>
-
-                                        <a class="btn-main" href="#">Nuestras sucursales</a>
-
+                                        <a class="btn-main" href="#l">Registrate</a>
 
                                     </div>
 
@@ -264,7 +252,7 @@
                     <div class="row">
                         <div class="col-lg-4 col-sm-6 mb-sm-20 wow fadeInRight" data-wow-delay=".2s">
                             <div class="de-step-s1 text-dark">
-                                <div class="d-number wow rotateIn" data-wow-delay=".2s">1</div>
+                                <div class="d-number wow rotateIn font-50" data-wow-delay=".2s">1</div>
                                 <h4>Ubica tu sucursal</h4>
                                 <p class="">Contamos con una amplia red de Abogados Especialistas en todo el país.
                                     Encuentra tu sucursal más cercana.
@@ -273,18 +261,16 @@
                         </div>
                         <div class="col-lg-4 col-sm-6 mb-sm-20 wow fadeInRight" data-wow-delay=".4s">
                             <div class="de-step-s1 text-dark">
-                                <div class="d-number wow rotateIn" data-wow-delay=".4s">2</div>
-                                <h4>Selecciona el plan</h4>
-                                <p class="">Nuestros planes están diseñados para protegerte. Selecciona el plan que se
-                                    adapte mejor a tu caso.</p>
+                                <div class="d-number wow rotateIn font-50" data-wow-delay=".4s">2</div>
+                                <h4>Selecciona tu Póliza</h4>
+                                <p class="">Selecciona entre nuestras Pólizas la que más se adapte a tus necesidades.</p>
                             </div>
                         </div>
                         <div class="col-lg-4 col-sm-6 mb-sm-20 wow fadeInRight" data-wow-delay=".6s">
                             <div class="de-step-s1 text-dark">
-                                <div class="d-number wow rotateIn" data-wow-delay=".6s">3</div>
-                                <h4>Envía tus documentos</h4>
-                                <p class="">Nuestra tecnología permite analizar los documentos de manera automatizada
-                                    para agilizar la emisión de tu Póliza de Rentas</p>
+                                <div class="d-number wow rotateIn font-50" data-wow-delay=".6s">3</div>
+                                <h4>Genera tu Póliza</h4>
+                                <p class="">Envía los documentos, espera el resultado de la investigación y listo.</p>
                             </div>
                         </div>
                     </div>

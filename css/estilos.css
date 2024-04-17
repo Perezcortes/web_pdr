@@ -60,3 +60,40 @@
 #MX-YUC:hover {
     fill: rgb(211, 185, 134) !important;
 }
+
+.font-20 {
+    font-size: 20px !important;
+    /*letter-spacing: -5px;*/
+}
+.font-30 {
+    font-size: 30px !important;
+    /*letter-spacing: -5px;*/
+}
+.font-40 {
+    font-size: 40px !important;
+    /*letter-spacing: -5px;*/
+}
+.font-50 {
+    font-size: 50px !important;
+    /*letter-spacing: -5px;*/
+}
+.font-60 {
+    font-size: 60px !important;
+    /*letter-spacing: -5px;*/
+}
+.font-70 {
+    font-size: 70px !important;
+    /*letter-spacing: -5px;*/
+}
+.font-80 {
+    font-size: 80px !important;
+    /*letter-spacing: -5px;*/
+}
+
+.dorado {
+    color: rgb(211, 185, 134) !important;
+}
+
+.bg-dorado {
+    background-color: rgba(187,161,85) !important;
+}

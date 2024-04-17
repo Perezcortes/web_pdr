@@ -49,7 +49,7 @@
                                             <div class="row gx-5 align-items-center">
 
                                                 <div class="col-lg-10 mb-sm-30">
-                                                    <h2 class="slider-title">
+                                                    <h2 class="slider-title font-60">
                                                         La red legal más grande <br>
                                                         de México
                                                     </h2>
@@ -66,8 +66,6 @@
                                                 <div class="col-lg-4">
                                                     <div class="spacer-10"></div>
                                                     <a class="btn-main mb10" href="">Ubica tu sucursal</a>
-                                                    <a class="btn-main mb10" href="">Contrata ahora
-                                                    </a>
                                                 </div>
                                             </div>
                                         </div>
@@ -123,7 +121,7 @@
                             <option value="veracruz">Veracruz</option>
                             <option value="puebla">Puebla</option>
                             <option value="distrito">Distrito Federal</option>
-                            <option value="mexico">Méxio</option>
+                            <option value="mexico">Ciudad de Méxio</option>
                             <option value="morelos">Morelos</option>
                             <option value="guerrero">Guerrero</option>
                             <option value="tabasco">Tabasco</option>
@@ -138,7 +136,7 @@
                                 <div class="p-4 pb-2 bg-grey h-100">
                                     <div class="subtitle wow fadeInUp mb-3" style="background-color: grey; color: white;">
                                         Ciudad de México</div>
-                                    <h4>Póliza de Rentas CdMx Capital</h4>
+                                    <h4>Póliza de Rentas <span class="dorado">CdMx Capital</span></h4>
                                     <hr class="s2">
                                     <p>Moliere, No. 310, Polanco II sección, Miguel Hidalgo. Ciudad de México <br><br>
 
@@ -158,7 +156,7 @@
                                 <div class="p-4 pb-2 bg-grey h-100">
                                     <div class="subtitle wow fadeInUp mb-3" style="background-color: grey; color: white;">
                                         Ciudad de México</div>
-                                    <h4>Póliza de Rentas CdMx Capital</h4>
+                                    <h4>Póliza de Rentas <span class="dorado">CdMx Capital</span></h4>
                                     <hr class="s2">
                                     <p>Moliere, No. 310, Polanco II sección, Miguel Hidalgo. Ciudad de México <br><br>
 
@@ -178,7 +176,7 @@
                                 <div class="p-4 pb-2 bg-grey h-100">
                                     <div class="subtitle wow fadeInUp mb-3" style="background-color: grey; color: white;">
                                         Veracruz</div>
-                                    <h4>Póliza de Rentas Veracruz Jurista</h4>
+                                    <h4>Póliza de Rentas <span class="dorado">Veracruz Jurista</span></h4>
                                     <hr class="s2">
                                     <p>Antón de Alaminos, No. 626, Reforma, Veracruz. Veracruz <br><br>
 
@@ -197,7 +195,7 @@
                                 <div class="p-4 pb-2 bg-grey h-100">
                                     <div class="subtitle wow fadeInUp mb-3" style="background-color: grey; color: white;">
                                         Veracruz</div>
-                                    <h4>Póliza de Rentas Xalapa Jurista</h4>
+                                    <h4>Póliza de Rentas <span class="dorado">Xalapa Jurista</span></h4>
                                     <hr class="s2">
                                     <p>Av. Araucarias, No. 190, Fracc. Indeco Ánimas, Xalapa. Veracruz <br><br>
 
@@ -216,7 +214,7 @@
                                 <div class="p-4 pb-2 bg-grey h-100">
                                     <div class="subtitle wow fadeInUp mb-3" style="background-color: grey; color: white;">
                                         Puebla</div>
-                                    <h4>Póliza de Rentas de los Ángeles</h4>
+                                    <h4>Póliza de Rentas <span class="dorado">de los Ángeles</span></h4>
                                     <hr class="s2">
                                     <p>Camino Real a Cholula, No. 4405, Exhacienda Concepción Buena Vista, San Andrés
                                         Cholula. Puebla<br><br>
@@ -236,7 +234,7 @@
                                 <div class="p-4 pb-2 bg-grey h-100">
                                     <div class="subtitle wow fadeInUp mb-3" style="background-color: grey; color: white;">
                                         Puebla</div>
-                                    <h4>Póliza de Rentas Puebla Capital</h4>
+                                    <h4>Póliza de Rentas <span class="dorado">Puebla Capital</span></h4>
                                     <hr class="s2">
                                     <p>Olivos, No. 506, Santa Cruz Buenavista, Puebla. Puebla<br><br>
 
@@ -256,7 +254,7 @@
                                 <div class="p-4 pb-2 bg-grey h-100">
                                     <div class="subtitle wow fadeInUp mb-3" style="background-color: grey; color: white;">
                                         Ciudad de México</div>
-                                    <h4>Póliza de Rentas CdMx Capital</h4>
+                                    <h4>Póliza de Rentas <span class="dorado">CdMx Capital</span></h4>
                                     <hr class="s2">
                                     <p>Moliere, No. 310, Polanco II sección, Miguel Hidalgo. Ciudad de México<br><br>
 
@@ -275,7 +273,7 @@
                                 <div class="p-4 pb-2 bg-grey h-100">
                                     <div class="subtitle wow fadeInUp mb-3" style="background-color: grey; color: white;">
                                         Ciudad de México</div>
-                                    <h4>Póliza de Rentas CdMx Capital</h4>
+                                    <h4>Póliza de Rentas <span class="dorado">CdMx Capital</span></h4>
                                     <hr class="s2">
                                     <p>Moliere, No. 310, Polanco II sección, Miguel Hidalgo. Ciudad de México<br><br>
 
@@ -294,7 +292,7 @@
                                 <div class="p-4 pb-2 bg-grey h-100">
                                     <div class="subtitle wow fadeInUp mb-3" style="background-color: grey; color: white;">
                                         Baja California Norte</div>
-                                    <h4>Póliza de Rentas Baja California Norte</h4>
+                                    <h4>Póliza de Rentas <span class="dorado">Baja California Norte</span></h4>
                                     <hr class="s2">
                                     <p>Moliere, No. 310, Polanco II sección, Miguel Hidalgo. Ciudad de México<br><br>
 
@@ -313,7 +311,7 @@
                                 <div class="p-4 pb-2 bg-grey h-100">
                                     <div class="subtitle wow fadeInUp mb-3" style="background-color: grey; color: white;">
                                         Baja California Norte</div>
-                                    <h4>Póliza de Rentas Baja California Norte</h4>
+                                    <h4>Póliza de Rentas <span class="dorado">Baja California Norte</span></h4>
                                     <hr class="s2">
                                     <p>Moliere, No. 310, Polanco II sección, Miguel Hidalgo. Baja California Norte<br><br>
 
@@ -332,7 +330,7 @@
                                 <div class="p-4 pb-2 bg-grey h-100">
                                     <div class="subtitle wow fadeInUp mb-3" style="background-color: grey; color: white;">
                                         Chihuahua</div>
-                                    <h4>Póliza de Rentas Chihuahua</h4>
+                                    <h4>Póliza de Rentas <span class="dorado">Chihuahua</span></h4>
                                     <hr class="s2">
                                     <p>Moliere, No. 310, Polanco II sección, Miguel Hidalgo. Ciudad de México<br><br>
 
@@ -351,7 +349,7 @@
                                 <div class="p-4 pb-2 bg-grey h-100">
                                     <div class="subtitle wow fadeInUp mb-3" style="background-color: grey; color: white;">
                                         Chihuahua</div>
-                                    <h4>Póliza de Rentas Chihuahua</h4>
+                                    <h4>Póliza de Rentas <span class="dorado">Chihuahua</span></h4>
                                     <hr class="s2">
                                     <p>Moliere, No. 310, Polanco II sección, Miguel Hidalgo. Chihuahua<br><br>
 
@@ -370,7 +368,7 @@
                                 <div class="p-4 pb-2 bg-grey h-100">
                                     <div class="subtitle wow fadeInUp mb-3" style="background-color: grey; color: white;">
                                         Sinaloa</div>
-                                    <h4>Póliza de Rentas Sinaloa</h4>
+                                    <h4>Póliza de Rentas <span class="dorado">Sinaloa</span></h4>
                                     <hr class="s2">
                                     <p>Moliere, No. 310, Polanco II sección, Miguel Hidalgo. Ciudad de México<br><br>
 
@@ -389,7 +387,7 @@
                                 <div class="p-4 pb-2 bg-grey h-100">
                                     <div class="subtitle wow fadeInUp mb-3" style="background-color: grey; color: white;">
                                         Sinaloa</div>
-                                    <h4>Póliza de Rentas Sinaloa</h4>
+                                    <h4>Póliza de Rentas <span class="dorado">Sinaloa</span></h4>
                                     <hr class="s2">
                                     <p>Moliere, No. 310, Polanco II sección, Miguel Hidalgo. Sinaloa<br><br>
 
@@ -408,7 +406,7 @@
                                 <div class="p-4 pb-2 bg-grey h-100">
                                     <div class="subtitle wow fadeInUp mb-3" style="background-color: grey; color: white;">
                                         Durango</div>
-                                    <h4>Póliza de Rentas Durango</h4>
+                                    <h4>Póliza de Rentas <span class="dorado">Durango</span></h4>
                                     <hr class="s2">
                                     <p>Moliere, No. 310, Polanco II sección, Miguel Hidalgo. Durango<br><br>
 
@@ -427,7 +425,7 @@
                                 <div class="p-4 pb-2 bg-grey h-100">
                                     <div class="subtitle wow fadeInUp mb-3" style="background-color: grey; color: white;">
                                         Nuevo Leon</div>
-                                    <h4>Póliza de Rentas Nuevo Leon</h4>
+                                    <h4>Póliza de Rentas <span class="dorado">Nuevo Leon</span></h4>
                                     <hr class="s2">
                                     <p>Moliere, No. 310, Polanco II sección, Miguel Hidalgo. Durango<br><br>
 
@@ -446,7 +444,7 @@
                                 <div class="p-4 pb-2 bg-grey h-100">
                                     <div class="subtitle wow fadeInUp mb-3" style="background-color: grey; color: white;">
                                         Nuevo Leon</div>
-                                    <h4>Póliza de Rentas Nuevo Leon</h4>
+                                    <h4>Póliza de Rentas <span class="dorado">Nuevo Leon</span></h4>
                                     <hr class="s2">
                                     <p>Moliere, No. 310, Polanco II sección, Miguel Hidalgo. NUevo Leon<br><br>
 
@@ -465,7 +463,7 @@
                                 <div class="p-4 pb-2 bg-grey h-100">
                                     <div class="subtitle wow fadeInUp mb-3" style="background-color: grey; color: white;">
                                         San Luis Potosi</div>
-                                    <h4>Póliza de Rentas San Luis Potosi</h4>
+                                    <h4>Póliza de Rentas <span class="dorado">San Luis Potosi</span></h4>
                                     <hr class="s2">
                                     <p>Moliere, No. 310, Polanco II sección, Miguel Hidalgo. San Luis<br><br>
 
@@ -484,7 +482,7 @@
                                 <div class="p-4 pb-2 bg-grey h-100">
                                     <div class="subtitle wow fadeInUp mb-3" style="background-color: grey; color: white;">
                                         San Luis Potosi</div>
-                                    <h4>Póliza de Rentas San Luis Potosi</h4>
+                                    <h4>Póliza de Rentas <span class="dorado">San Luis Potosi</span></h4>
                                     <hr class="s2">
                                     <p>Moliere, No. 310, Polanco II sección, Miguel Hidalgo. San Luis<br><br>
 
@@ -503,7 +501,7 @@
                                 <div class="p-4 pb-2 bg-grey h-100">
                                     <div class="subtitle wow fadeInUp mb-3" style="background-color: grey; color: white;">
                                         Guanajuato</div>
-                                    <h4>Póliza de Rentas Guanajuato</h4>
+                                    <h4>Póliza de Rentas <span class="dorado">Guanajuato</span></h4>
                                     <hr class="s2">
                                     <p>Moliere, No. 310, Polanco II sección, Miguel Hidalgo. Guanajuato<br><br>
 
@@ -522,7 +520,7 @@
                                 <div class="p-4 pb-2 bg-grey h-100">
                                     <div class="subtitle wow fadeInUp mb-3" style="background-color: grey; color: white;">
                                         Jalisco</div>
-                                    <h4>Póliza de Rentas Jalisco</h4>
+                                    <h4>Póliza de Rentas <span class="dorado">Jalisco</span></h4>
                                     <hr class="s2">
                                     <p>Moliere, No. 310, Polanco II sección, Miguel Hidalgo. Jalisco<br><br>
 
@@ -541,7 +539,7 @@
                                 <div class="p-4 pb-2 bg-grey h-100">
                                     <div class="subtitle wow fadeInUp mb-3" style="background-color: grey; color: white;">
                                         Queretaro</div>
-                                    <h4>Póliza de Rentas Queretaro</h4>
+                                    <h4>Póliza de Rentas <span class="dorado">Queretaro</span></h4>
                                     <hr class="s2">
                                     <p>Moliere, No. 310, Polanco II sección, Miguel Hidalgo. Queretaro<br><br>
 
@@ -560,7 +558,7 @@
                                 <div class="p-4 pb-2 bg-grey h-100">
                                     <div class="subtitle wow fadeInUp mb-3" style="background-color: grey; color: white;">
                                         Queretaro</div>
-                                    <h4>Póliza de Rentas Queretaro</h4>
+                                    <h4>Póliza de Rentas <span class="dorado">Queretaro</span></h4>
                                     <hr class="s2">
                                     <p>Moliere, No. 310, Polanco II sección, Miguel Hidalgo. Queretaro<br><br>
 
@@ -579,7 +577,7 @@
                                 <div class="p-4 pb-2 bg-grey h-100">
                                     <div class="subtitle wow fadeInUp mb-3" style="background-color: grey; color: white;">
                                         Distrito Federal</div>
-                                    <h4>Póliza de Rentas Distrito Federal</h4>
+                                    <h4>Póliza de Rentas <span class="dorado">Distrito Federal</span></h4>
                                     <hr class="s2">
                                     <p>Moliere, No. 310, Polanco II sección, Miguel Hidalgo. Distrito Federal<br><br>
 
@@ -598,7 +596,7 @@
                                 <div class="p-4 pb-2 bg-grey h-100">
                                     <div class="subtitle wow fadeInUp mb-3" style="background-color: grey; color: white;">
                                         Distrito Federal</div>
-                                    <h4>Póliza de Rentas Distrito Federal</h4>
+                                    <h4>Póliza de Rentas <span class="dorado">Distrito Federal</span></h4>
                                     <hr class="s2">
                                     <p>Moliere, No. 310, Polanco II sección, Miguel Hidalgo. Distrito Federal<br><br>
 
@@ -617,7 +615,7 @@
                                 <div class="p-4 pb-2 bg-grey h-100">
                                     <div class="subtitle wow fadeInUp mb-3" style="background-color: grey; color: white;">
                                         Morelos</div>
-                                    <h4>Póliza de Rentas Morelos</h4>
+                                    <h4>Póliza de Rentas <span class="dorado">Morelos</span></h4>
                                     <hr class="s2">
                                     <p>Moliere, No. 310, Polanco II sección, Miguel Hidalgo. Morelos<br><br>
 
@@ -636,7 +634,7 @@
                                 <div class="p-4 pb-2 bg-grey h-100">
                                     <div class="subtitle wow fadeInUp mb-3" style="background-color: grey; color: white;">
                                         Morelos</div>
-                                    <h4>Póliza de Rentas Morelos</h4>
+                                    <h4>Póliza de Rentas <span class="dorado">Morelos</span></h4>
                                     <hr class="s2">
                                     <p>Moliere, No. 310, Polanco II sección, Miguel Hidalgo. Morelos<br><br>
 
@@ -655,7 +653,7 @@
                                 <div class="p-4 pb-2 bg-grey h-100">
                                     <div class="subtitle wow fadeInUp mb-3" style="background-color: grey; color: white;">
                                         Guerrero</div>
-                                    <h4>Póliza de Rentas Guerrero</h4>
+                                    <h4>Póliza de Rentas <span class="dorado">Guerrero</span></h4>
                                     <hr class="s2">
                                     <p>Moliere, No. 310, Polanco II sección, Miguel Hidalgo. Guerrero<br><br>
 
@@ -674,7 +672,7 @@
                                 <div class="p-4 pb-2 bg-grey h-100">
                                     <div class="subtitle wow fadeInUp mb-3" style="background-color: grey; color: white;">
                                         Tabasco</div>
-                                    <h4>Póliza de Rentas Tabasco</h4>
+                                    <h4>Póliza de Rentas <span class="dorado">Tabasco</span></h4>
                                     <hr class="s2">
                                     <p>Moliere, No. 310, Polanco II sección, Miguel Hidalgo. Tabasco<br><br>
 
@@ -693,7 +691,7 @@
                                 <div class="p-4 pb-2 bg-grey h-100">
                                     <div class="subtitle wow fadeInUp mb-3" style="background-color: grey; color: white;">
                                         Tabasco</div>
-                                    <h4>Póliza de Rentas Tabasco</h4>
+                                    <h4>Póliza de Rentas <span class="dorado">Tabasco</span></h4>
                                     <hr class="s2">
                                     <p>Moliere, No. 310, Polanco II sección, Miguel Hidalgo. Tabasco<br><br>
 
@@ -712,7 +710,7 @@
                                 <div class="p-4 pb-2 bg-grey h-100">
                                     <div class="subtitle wow fadeInUp mb-3" style="background-color: grey; color: white;">
                                         Yucatán</div>
-                                    <h4>Póliza de Rentas Yucatán</h4>
+                                    <h4>Póliza de Rentas <span class="dorado">Yucatán</span></h4>
                                     <hr class="s2">
                                     <p>Moliere, No. 310, Polanco II sección, Miguel Hidalgo. Yucatán<br><br>
 
@@ -772,7 +770,7 @@
                             if (estadoSeleccionado === 'todos') {
                                 var elementosEstado = document.querySelectorAll('.row > .col-lg-3');
                                 elementosEstado.forEach(function(elemento) {
-                                    elemento.style.display = 'block';
+                                    elemento.style.display = 'none';
                                 });
                             } else {
                                 // Ocultar todos los elementos de estado
@@ -822,8 +820,7 @@
                                 inmuebles que buscan dar sus propiedades en arrendamiento.</p>
                             <hr class="s2">
                             <div class="spacer-10"></div>
-                            <a class="btn-main mb10" href="">Conoce más</a>
-                            <a class="btn-main mb10" href="">Nuestras sucursales</a>
+                            <a class="btn-main mb10" href="nosotros.php">Conoce más</a>
                         </div>
                     </div>
                 </div>
