@@ -60,7 +60,7 @@
                 <div class="container">
                     <div class="row text-center">
                         <div class="col-lg-8 offset-lg-2">
-                            <h2 class="wow fadeInUp mb20" data-wow-delay=".2s"> Contactanos
+                            <h2 class="wow fadeInUp mb20" data-wow-delay=".2s"> Contacto
                             </h2>
                             <br><br>
                         </div>
