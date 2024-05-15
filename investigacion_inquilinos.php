@@ -44,7 +44,7 @@
                                                 <h2 class="slider-title">Investigación de inquilinos
                                                 </h2>
                                                 <p class="fs-4 wow fadeInRight">
-                                                    Nosotros te ayudamos a crear un convenio de prevención de conflictos. Este acuerdo es firmado ante un mediar certificado con fé pública y se inscribe en el Tribunal Superior de Justicia Alternativa.
+                                                    Nosotros te ayudamos a crear una investigación de inquilinos. Este acuerdo es firmado ante un mediar certificado con fé pública y se inscribe en el Tribunal Superior de Justicia Alternativa.
                                                 </p>
                                                 <a class="btn-main mb10 mt20" href="#">Contrata ahora</a>
                                             </div>
