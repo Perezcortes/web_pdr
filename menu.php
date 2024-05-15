@@ -22,11 +22,11 @@
                             <li><a class="menu-item" href="index.php">Inicio</a></li>
                             <li><a class="menu-item" href="nosotros.php">Nosotros</a></li>
                             <li><a class="menu-item" href="servicios.php">Servicios</a>
-                                <ul class="sub-menu">
-                                    <li><a href="poliza_juridica.php">Póliza Jurídica</a></li>
-                                    <li><a href="convenio_prevencion.php">Convenio de Prevención de Conflictos</a></li>
-                                    <li><a href="convenio_transaccion.php">Convenio de Transacción</a></li>
-                                    <li><a href="investigacios_inquilinos.php">Investigación de Inquilinos</a></li>
+                                <ul class="sub-menu" style="background-color: #1E1E1E; border-color: #1E1E1E;">
+                                    <li><a style="color: white;" href="poliza_juridica.php">Póliza Jurídica</a></li>
+                                    <li><a style="color: white;" href="convenio_prevencion.php">Convenio de Prevención de Conflictos</a></li>
+                                    <li><a style="color: white;" href="convenio_transaccion.php">Convenio de Transacción</a></li>
+                                    <li><a style="color: white;" href="investigacios_inquilinos.php">Investigación de Inquilinos</a></li>
                                 </ul>
                             </li>
                             <li><a class="menu-item" href="sucursales.php">Sucursales</a></li>
