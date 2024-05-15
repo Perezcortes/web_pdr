@@ -43,7 +43,7 @@
                         <div class="swiper-wrapper">
                             <!-- Slides -->
                             <div class="swiper-slide" data-jarallax-element="150">
-                                <div class="swiper-inner" data-bgimage="url(images/slider/banner-2.jpg)">
+                                <div class="swiper-inner" data-bgimage="url(images/slider/banner-sucursales.jpg)">
                                     <div class="sw-caption">
                                         <div class="container">
                                             <div class="row gx-5 align-items-center">
@@ -56,16 +56,16 @@
                                                 </div>
                                                 <div class="col-lg-12">
                                                     <div class="subtitle s2 mb-4">
-                                                        Póliza de Rentas cuenta con más de 30 sucursales al rededor <br>
+                                                        <p>Póliza de Rentas cuenta con más de 30 sucursales alrededor <br>
                                                         de todo México, trabajando de la mano con las mejores <br>
                                                         inmobiliarias y asesores en la contratación de pólizas jurídicas
                                                         <br>
-                                                        de arrendamiento.
+                                                        de arrendamiento.</p>
                                                     </div>
                                                 </div>
                                                 <div class="col-lg-4">
                                                     <div class="spacer-10"></div>
-                                                    <a class="btn-main mb10" href="">Ubica tu sucursal</a>
+                                                    <a class="btn-main mb10" href="#mapa">Ubica tu sucursal</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -90,7 +90,7 @@
                 </div>
             </section>
 
-            <section>
+            <section id="mapa">
                 <div class="container">
                     <div class="row">
                         <div class="map-container d-flex justify-content-center">
