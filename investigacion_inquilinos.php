@@ -41,7 +41,7 @@
 
                                             <div class="col-lg-7 mb-sm-30">
                                             <div class="subtitle s2 wow fadeInUp mb-3">Nuestros Servicios</div>
-                                                <h2 class="slider-title">Convenio de prevención de conflictos
+                                                <h2 class="slider-title">Investigación de inquilinos
                                                 </h2>
                                                 <p class="fs-4 wow fadeInRight">
                                                     Nosotros te ayudamos a crear un convenio de prevención de conflictos. Este acuerdo es firmado ante un mediar certificado con fé pública y se inscribe en el Tribunal Superior de Justicia Alternativa.

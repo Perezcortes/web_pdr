@@ -26,7 +26,7 @@
                                     <li><a style="color: white;" href="poliza_juridica.php">Póliza Jurídica</a></li>
                                     <li><a style="color: white;" href="convenio_prevencion.php">Convenio de Prevención de Conflictos</a></li>
                                     <li><a style="color: white;" href="convenio_transaccion.php">Convenio de Transacción</a></li>
-                                    <li><a style="color: white;" href="investigacios_inquilinos.php">Investigación de Inquilinos</a></li>
+                                    <li><a style="color: white;" href="investigacion_inquilinos.php">Investigación de Inquilinos</a></li>
                                 </ul>
                             </li>
                             <li><a class="menu-item" href="sucursales.php">Sucursales</a></li>
