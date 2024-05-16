@@ -40,7 +40,7 @@
                                         <div class="row gx-5 align-items-center">
 
                                             <div class="col-lg-7 mb-sm-30">
-                                            <div class="subtitle s2 wow fadeInUp mb-3">Nuestros Servicios</div>
+                                                <div class="subtitle s2 wow fadeInUp mb-3">Nuestros Servicios</div>
                                                 <h2 class="slider-title">Póliza jurídica
                                                 </h2>
                                                 <p class="fs-4 wow fadeInRight">
@@ -158,8 +158,8 @@
                                     <h2 class="mb20 wow fadeInUp" data-wow-delay=".2s">Máxima confianza</h2>
                                     <p>El convenio se firma ante un Mediador Certificado y se inscribe en el Tribunal Superior de Justicia Alternativa.
 
-Agiliza el proceso judicial
-En caso de incumplimiento, el trámite judicial es </p>
+                                        Agiliza el proceso judicial
+                                        En caso de incumplimiento, el trámite judicial es </p>
                                 </div>
                             </div>
                         </div>
@@ -177,7 +177,8 @@ En caso de incumplimiento, el trámite judicial es </p>
                 </div>
             </div>
         </section>
-
+        
+        <?php include 'footer.php';?>
 
         <!-- Javascript Files
     ================================================== -->

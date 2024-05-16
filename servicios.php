@@ -40,7 +40,9 @@
                                         <div class="row gx-5 align-items-center">
 
                                             <div class="col-lg-7 mb-sm-30">
-                                                <h2 class="slider-title">Servicios Jurídicos</h2>
+                                                <div class="subtitle s2 wow fadeInUp mb-3">Nuestros Servicios</div>
+                                                <h2 class="slider-title">Convenio de prevención de conflictos
+                                                </h2>
                                                 <p class="fs-4 wow fadeInRight">
                                                     Nuestro equipo de abogados altamente capacitados ha diseñado cuatro soluciones efectivas para garantizar la seguridad y tranquilidad de tu patrimonio.
                                                 </p>
@@ -105,19 +107,33 @@
                             <a class="btn-main mb10 mt20" href="#">Ver más</a>
                         </div>
                     </div>
+                    <div class="col-lg-4 wow fadeInLeft">
+                        <div class="padding60 sm-padding40 rounded-30 bg-color h-100 text-light">
+                            <div class="row">
+                                <div class="col-lg-12">
+                                    <h2 class="mb20 wow fadeInUp" data-wow-delay=".2s">Máxima confianza</h2>
+                                    <p>El convenio se firma ante un Mediador Certificado y se inscribe en el Tribunal Superior de Justicia Alternativa.
 
-                    <div class="col-lg-3 col-md-6 wow fadeInRight" data-wow-delay=".6s">
-                        <div class="p-4 pb-2 bg-grey h-100">
-                            <img src="images/svg/data-check-svgrepo-com.svg" class="w-80px mb20" alt="">
-                            <h4>Investigación de Inquilinos</h4>
-                            <hr class="s2">
-                            <p>Procesos de investigación diseñados para determinar el grado de confianza de una persona para afrontar un compromiso de pago mensual.</p>
-                            <a class="btn-main mb10 mt20" href="#">Ver más</a>
+                                        Agiliza el proceso judicial
+                                        En caso de incumplimiento, el trámite judicial es </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 wow fadeInLeft">
+                        <div class="padding60 sm-padding40 rounded-30 bg-color h-100 text-light">
+                            <div class="row">
+                                <div class="col-lg-12">
+                                    <h2 class="mb20 wow fadeInUp" data-wow-delay=".2s">Agiliza el proceso judicial</h2>
+                                    <p>En caso de incumplimiento, el trámite judicial es mucho más ágil, lo que te permitirá recuperar tu inmueble rápidamente.</p>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
         </section>
+
 
         <!-- Javascript Files
     ================================================== -->

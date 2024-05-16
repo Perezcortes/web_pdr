@@ -36,7 +36,7 @@
                     </div>
                     <div class="de-flex-col">
                         <div class="menu_side_area">
-                            <a href="franquicias.php" class="btn-main">Franquicias</a>
+                            <a href="franquicias.php" class="btn-main">Adquiere tus franquicias</a>
                             <span id="menu-btn"></span>
                         </div>
                     </div>

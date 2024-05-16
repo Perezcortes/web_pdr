@@ -118,6 +118,8 @@
             </div>
         </section>
 
+        <?php include 'footer.php';?>
+
         <!-- Javascript Files
     ================================================== -->
         <script src="js/plugins.js"></script>

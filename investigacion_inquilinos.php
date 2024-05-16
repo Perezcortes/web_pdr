@@ -178,6 +178,7 @@ En caso de incumplimiento, el trámite judicial es </p>
             </div>
         </section>
 
+        <?php include 'footer.php';?>
 
         <!-- Javascript Files
     ================================================== -->
