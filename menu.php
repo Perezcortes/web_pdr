@@ -33,13 +33,17 @@
                             <li><a class="menu-item" href="blog.php">Blog</a></li>
                             <li><a class="menu-item" href="contacto.php">Contacto</a></li>
                         </ul>
+                        <div class="menu_side_area">
+                            <a href="franquicias.php" class="btn-main">franquicias</a>
+                            <span id="menu-btn"></span>
+                        </div>
                     </div>
-                    <div class="de-flex-col">
+                    <!-- <div class="de-flex-col">
                         <div class="menu_side_area">
                             <a href="franquicias.php" class="btn-main">Adquiere tus franquicias</a>
                             <span id="menu-btn"></span>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>

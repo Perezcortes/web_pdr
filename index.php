@@ -207,7 +207,7 @@
                                             Con nuestro probado Triángulo de la Seguridad, que se basa en prevenir, prever y proteger, tendrás las herramientas para construir un negocio sólido y rentable. Además, nuestra rigurosa <b>investigación del inquilino</b> garantiza la prevención de problemas y la tranquilidad para todas nuestras franquicias.
                                         </div>
 
-                                        <a class="btn-main" href="#l">Registrate</a>
+                                        <a class="btn-main" href="franquicias.php">Registrate</a>
 
                                     </div>
 
