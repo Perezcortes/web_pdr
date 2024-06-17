@@ -149,7 +149,7 @@
             </div>
         </section>
 
-        <div class="row" style="background-color: #595959;">
+        <div class="row container-fluid" style="background-color: #595959;">
             <div class="col-lg-12 col-md-12 col-sm-12" ALIGN='center'>
                 <div class="image-container" style="position: relative; display: inline-block;">
                     <img src="images/franquicias/img-6.png" alt="" class="img-fluid">
