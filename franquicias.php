@@ -35,7 +35,28 @@
                     <div class="swiper">
                         <div class="swiper-wrapper">
                             <div class="swiper-slide" data-jarallax-element="150">
-                                <div class="swiper-inner" data-bgimage="url(images/slider/franquicias.png)">
+                                <div class="swiper-inner d-none d-sm-block" data-bgimage="url(images/slider/franquicias.png)">
+                                    <div class="sw-caption">
+                                        <div class="container">
+                                            <div class="row gx-5 align-items-center">
+
+                                                <div class="col-lg-7 mb-sm-30">
+                                                    <h2 class="slider-title">Invierte en el servicio jurídico de mayor
+                                                        crecimiento en México.
+                                                    </h2>
+                                                    <p class="fs-4 wow fadeInRight">
+                                                        Agenda una sesión Informativa personalizada con nuestro Director de Expansión y conoce los detalles de nuestro modelo de negocio.
+                                                    </p>
+                                                    <a class="btn-main mb10 mt20" href="#">Regístrate ahora</a>
+                                                    <a class="btn-line mb10" href="generar-poliza.php">Conoce más</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="sw-overlay s2"></div>
+                                </div>
+
+                                <div class="swiper-inner d-block d-sm-none" data-bgimage="url(images/slider/franquicias-movil.png)">
                                     <div class="sw-caption">
                                         <div class="container">
                                             <div class="row gx-5 align-items-center">
