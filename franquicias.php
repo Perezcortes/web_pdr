@@ -47,8 +47,8 @@
                                                     <p class="fs-4 wow fadeInRight">
                                                         Agenda una sesión Informativa personalizada con nuestro Director de Expansión y conoce los detalles de nuestro modelo de negocio.
                                                     </p>
-                                                    <a class="btn-main mb10 mt20" href="#">Regístrate ahora</a>
-                                                    <a class="btn-line mb10" href="generar-poliza.php">Conoce más</a>
+                                                    <a class="btn-main mb10 mt20" href="https://formulario.franquicias.polizaderentas.com/">Inicia tu proceso</a>
+                                                    <a class="btn-line mb10" href="franquicias.php">Conoce más</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -68,8 +68,8 @@
                                                     <p class="fs-4 wow fadeInRight">
                                                         Agenda una sesión Informativa personalizada con nuestro Director de Expansión y conoce los detalles de nuestro modelo de negocio.
                                                     </p>
-                                                    <a class="btn-main mb10 mt20" href="#">Regístrate ahora</a>
-                                                    <a class="btn-line mb10" href="generar-poliza.php">Conoce más</a>
+                                                    <a class="btn-main mb10 mt20" href="https://formulario.franquicias.polizaderentas.com/">Inicia tu proceso</a>
+                                                    <a class="btn-line mb10" href="franquicias.php">Conoce más</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -88,14 +88,14 @@
                 </div>
             </section>
 
-            <section class="no-top mt-5">
+            <section class="no-top mt-5" id="conoce">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-6 col-md-6 col-sm-12 mt-5" ALIGN='justify'>
                             <h2>¿Qué es una Póliza Jurídica?</h2>
                             <p>Es un contrato de prestación de servicios jurídicos que protege a un propietario e inquilino en un proceso de arrendamiento.</p>
                             <p>Contamos con presencia en todo el país. Regístrate para conocer los detalles sobre nuestras franquicias y únete hoy mismo.</p>
-                            <a class="btn-main mb10 mt20" href="#">Regístrate ahora</a>
+                            <a class="btn-main mb10 mt20" href="https://formulario.franquicias.polizaderentas.com/">Inicia tu proceso</a>
                         </div>
                         <div class="col-lg-6 col-md-6 col-sm-12">
                             <img src="images/franquicias/img-1.png" alt="" class="img-fluid">
@@ -110,7 +110,7 @@
                         <div class="col-lg-12 col-md-12 col-sm-12 mt-5" ALIGN='center'>
                             <h2>¿Porqué es un modelo de negocio de crecimiento exponencial?</h2>
                             <img src="images/franquicias/img-2.png" alt="" class="img-fluid">
-                            <a class="btn-main mb10 mt20" href="#">Regístrate ahora</a>
+                            <a class="btn-main mb10 mt20" href="https://formulario.franquicias.polizaderentas.com/">Inicia tu proceso</a>
                         </div>
                     </div>
                 </div>
@@ -133,7 +133,7 @@
                             </ul>
                             <!-- <hr class="s2"> -->
                             <div class="spacer-10"></div>
-                            <a class="btn-main mb10 mt20" href="#">Regístrate ahora</a>
+                            <a class="btn-main mb10 mt20" href="https://formulario.franquicias.polizaderentas.com/">Inicia tu proceso</a>
                         </div>
                         <div class="col-lg-6 mb-sm-20 position-relative">
                             <div class="images-deco-1">
@@ -161,7 +161,7 @@
                                     <br>Aplicación digital para las inmobiliarias
                                     <br>Herramientas digitales para investigación de <br>inquilinos.
                                 </p>
-                                <a class="btn-main mb10 mt20" href="#">Regístrate ahora</a>
+                                <a class="btn-main mb10 mt20" href="https://formulario.franquicias.polizaderentas.com/">Inicia tu proceso</a>
                             </div>
                             <div class="col-lg-6 col-md-6 col-sm-6">
                                 <img src="images/franquicias/img-5.png" alt="" class="img-fluid">
@@ -175,7 +175,7 @@
                 <div class="col-lg-12 col-md-12 col-sm-12" ALIGN='center'>
                     <div class="image-container" style="position: relative; display: inline-block;">
                         <img src="images/franquicias/img-6.png" alt="" class="img-fluid">
-                        <a class="btn-main mb10 mt20" href="#" style="position: absolute; top: 80%; left: 80%; transform: translate(-50%, -50%);">Regístrate ahora</a>
+                        <a class="btn-main mb10 mt20" href="https://formulario.franquicias.polizaderentas.com/" style="position: absolute; top: 80%; left: 80%; transform: translate(-50%, -50%);">Inicia tu proceso</a>
                     </div>
                 </div>
             </div>

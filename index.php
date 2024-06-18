@@ -91,7 +91,8 @@
                                                     <p class="fs-4 wow fadeInRight">
                                                         Se líder en protección jurídico inmobiliaria en tu Ciudad, genera ingresos con un negocio probado y exitoso en todo México
                                                     </p>
-                                                    <a class="btn-main mb10" href="#">Regístrate</a>
+                                                    <a class="btn-main mb10" href="https://formulario.franquicias.polizaderentas.com/">Inicia tu proceso</a>
+                                                    <a class="btn-line mb10" href="franquicias.php">Conoce más</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -207,7 +208,8 @@
                                             Con nuestro probado Triángulo de la Seguridad, que se basa en prevenir, prever y proteger, tendrás las herramientas para construir un negocio sólido y rentable. Además, nuestra rigurosa <b>investigación del inquilino</b> garantiza la prevención de problemas y la tranquilidad para todas nuestras franquicias.
                                         </div>
 
-                                        <a class="btn-main" href="franquicias.php">Registrate</a>
+                                        <a class="btn-main" href="https://formulario.franquicias.polizaderentas.com/">Inicia tu proceso</a>
+                                        <a class="btn-line mb10" href="franquicias.php">Conoce más</a>
 
                                     </div>
 
@@ -301,7 +303,7 @@
                                 inmuebles que buscan dar sus propiedades en arrendamiento.</p>
                             <hr class="s2">
                             <div class="spacer-10"></div>
-                            <a class="btn-main mb10" href="#">Conoce más</a>
+                            <a class="btn-main mb10" href="franquicias.php">Conoce más</a>
                             <a class="btn-main mb10" href="#">Nuestras sucursales</a>
                         </div>
                     </div>
