@@ -45,8 +45,7 @@
                                                 <p class="fs-4 wow fadeInRight">
                                                     
                                                 </p>
-                                                <a class="btn-main mb10 mt20" href="#">Contrata
-                                                    ahora</a>
+                                                <a class="btn-main mb10 mt20" href="https://formulario.franquicias.polizaderentas.com/">Inicia tu proceso</a>
                                             </div>
                                         </div>
                                     </div>
@@ -69,7 +68,7 @@
                                                     patrimonios. Descubre las ventajas de ser franquiciado de Póliza
                                                     de Rentas.
                                                 </p>
-                                                <a class="btn-main mb10" href="#">Conoce el programa de
+                                                <a class="btn-main mb10" href="franquicias.php">Conoce el programa de
                                                     Franquicias</a>
                                             </div>
                                         </div>
@@ -92,7 +91,7 @@
                                                     Nuestros clientes confían en nosotros para asegurar su
                                                     tranquilidad. Descubre por qué somos la opción de confianza.
                                                 </p>
-                                                <a class="btn-main mb10" href="#">Contrata tu póliza</a>
+                                                <a class="btn-main mb10 mt20" href="https://formulario.franquicias.polizaderentas.com/">Inicia tu proceso</a>
                                             </div>
                                         </div>
                                     </div>

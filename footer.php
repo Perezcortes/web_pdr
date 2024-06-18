@@ -13,10 +13,11 @@
                 <div class="widget">
                     <h5>Síguenos</h5>
                     <div class="social-icons">
-                        <a href="#"><i class="fa-brands fa-facebook-f"></i></a>
-                        <a href="#"><i class="fa-brands fa-instagram"></i></a>
-                        <a href="#"><i class="fa-brands fa-youtube"></i></a>
-                        <a href="#"><i class="fa-brands fa-whatsapp"></i></a>
+                        <a href="https://www.facebook.com/polizaderentas" target="_blank"><i class="fa-brands fa-facebook-f"></i></a>
+                        <!-- <a href="#"><i class="fa-brands fa-instagram"></i></a> -->
+                        <a href="https://www.youtube.com/channel/UCSx4fSPOdmPcksm2639Mmdg/featured" target="_blank"><i class="fa-brands fa-youtube"></i></a>
+                        <a href="https://www.linkedin.com/company/42311672/admin/" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
+                        <!-- <a href="#"><i class="fa-brands fa-whatsapp"></i></a> -->
                     </div>
                     <div class="mt-4">
                         <a href="franquicias.php" class="btn-main">Adquiere tus franquicias</a>
@@ -101,9 +102,8 @@
                 <div class="row">
 
                     <div class="col-lg-4">
-                        <a class="btn-main mb10" href="#">Genera tu solicitud</a>
-                        </a>
-                        <a class="btn-main mb10" href="#">Sistema Polizas
+                        <a class="btn-main mb10 mt20" href="https://formulario.franquicias.polizaderentas.com/">Inicia tu proceso</a>
+                        <a class="btn-main mb10" href="poliza_juridica.php">Sistema Polizas
                         </a>
                     </div>
 
@@ -115,7 +115,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12 d-flex justify-content-center">
-                    2024 Póliza de Rentas |<a href="#" class="mx-1">Aviso de privacidad</a>
+                    2024 Póliza de Rentas |<a href="https://polizaderentas.com/aviso-de-privacidad/" class="mx-1">Aviso de privacidad</a>
                 </div>
             </div>
         </div>

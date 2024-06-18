@@ -46,7 +46,7 @@
                                                 <p class="fs-4 wow fadeInRight">
                                                     Nosotros te ayudamos a crear una investigación de inquilinos. Este acuerdo es firmado ante un mediar certificado con fé pública y se inscribe en el Tribunal Superior de Justicia Alternativa.
                                                 </p>
-                                                <a class="btn-main mb10 mt20" href="#">Contrata ahora</a>
+                                                <a class="btn-main mb10 mt20" href="https://formulario.franquicias.polizaderentas.com/">Inicia tu proceso</a>
                                             </div>
                                         </div>
                                     </div>
@@ -89,7 +89,7 @@
                                     <path d="M9.293 0H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2V4.707A1 1 0 0 0 13.707 4L10 .293A1 1 0 0 0 9.293 0M9.5 3.5v-2l3 3h-2a1 1 0 0 1-1-1M10 7v1.076c.54.166 1 .597 1 1.224v2.4c0 .816-.781 1.3-1.5 1.3h-3c-.719 0-1.5-.484-1.5-1.3V9.3c0-.627.46-1.058 1-1.224V7a2 2 0 1 1 4 0" />
                                 </svg><br>Consecuentemente, si se incumple, podrás solicitar su ejecución de manera directa vía judicial, con un procedimiento más ágil que el tradicional, ya que en muchas ocasiones el sistema judicial no cuenta con la capacidad suficiente para dar celeridad a los procesos.</li>
                         </ul>
-                        <a class="btn-main mb10 mt20" href="#">Contrata ahora</a>
+                        <a class="btn-main mb10 mt20" href="https://formulario.franquicias.polizaderentas.com/">Inicia tu proceso</a>
                         <div class="spacer-single"></div>
                     </div>
 
@@ -121,7 +121,7 @@
                                 <li>No necesitas de tantos trámites costosos de investigaciones, ni el temer demasiada documentación.</li>
                             </ul>
                             <p><em>Tu convenio de mediación tendrá vigencia por el tiempo que dure tu contrato de arrendamiento.</em></p>
-                            <a class="btn-main mb10 mt20" href="#">Contrata ahora</a>
+                            <a class="btn-main mb10 mt20" href="https://formulario.franquicias.polizaderentas.com/">Inicia tu proceso</a>
                             <a class="btn-main mb10 mt20" href="sucursales.php">Ubica tu sucursal</a>
                         </div>
                     </div>

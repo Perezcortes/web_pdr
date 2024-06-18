@@ -47,7 +47,7 @@
                                                     Nuestro equipo de abogados altamente capacitados ha diseñado cuatro soluciones efectivas para garantizar la seguridad y tranquilidad de tu patrimonio.
                                                 </p>
                                                 <a class="btn-main mb10 mt20" href="#todos-los-servicios">Ver todos los servicios</a>
-                                                <a class="btn-main mb10 mt20" href="#">Contrata ahora</a>
+                                                <a class="btn-main mb10 mt20" href="https://formulario.franquicias.polizaderentas.com/">Inicia tu proceso</a>
                                             </div>
                                         </div>
                                     </div>
@@ -93,7 +93,7 @@
                             <h4>Convenio de Prevención de Conflictos</h4>
                             <hr class="s2">
                             <p>Tu contrato de arrendamiento se perfecciona de manera judicial al celebrarlo mediante un convenido de mediación privada.</p>
-                            <a class="btn-main mb10 mt20" href="#">Ver más</a>
+                            <a class="btn-main mb10 mt20" href="convenio_prevencion.php">Ver más</a>
                         </div>
                     </div>
 
@@ -104,7 +104,7 @@
                             <hr class="s2">
                             <p>Requieres un contrato blindado, Póliza de Rentas puede apoyarte con un Convenio de Transacción firmado ante Notario Público.</p>
                             <br>
-                            <a class="btn-main mb10 mt20" href="#">Ver más</a>
+                            <a class="btn-main mb10 mt20" href="convenio_transaccion.php">Ver más</a>
                         </div>
                     </div>
                     <div class="col-lg-4 wow fadeInLeft">
