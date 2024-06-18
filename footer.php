@@ -30,14 +30,14 @@
                             <h5>Enlaces</h5>
                             <ul>
                                 <li><a href="nosotros.php">Nosotros</a></li>
-                                <li><a href="#">Servicios Jurídicos</a></li>
-                                <li><a href="#">Póliza Jurídica</a></li>
-                                <li><a href="#">Convenio de Prevención de Conflictos</a></li>
-                                <li><a href="#">Convenio de Transacción</a></li>
-                                <li><a href="#">Investigación de Inquilinos</a></li>
+                                <li><a href="servicios.php">Servicios Jurídicos</a></li>
+                                <li><a href="poliza_juridica.php">Póliza Jurídica</a></li>
+                                <li><a href="convenio_prevencion.php">Convenio de Prevención de Conflictos</a></li>
+                                <li><a href="convenio_transaccion.php">Convenio de Transacción</a></li>
+                                <li><a href="investigacion_inquilinos.php">Investigación de Inquilinos</a></li>
                                 <li><a href="sucursales.php">Sucursales</a></li>
-                                <li><a href="#">Blog</a></li>
-                                <li><a href="#">Contacto</a></li>
+                                <li><a href="blog.php">Blog</a></li>
+                                <li><a href="contacto.php">Contacto</a></li>
                             </ul>
 
                             <!-- <h5>Accesos</h5>
