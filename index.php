@@ -371,7 +371,7 @@
                             </div>
                         </div>
                         <div class="col-lg-12 d-flex justify-content-center">
-                            <a class="btn-main mt-5" href="#">Ver más artículos</a>
+                            <a class="btn-main mt-5" href="blog.php">Ver más artículos</a>
                         </div>
                     </div>
                 </div>

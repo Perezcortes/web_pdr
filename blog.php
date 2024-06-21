@@ -117,6 +117,181 @@
             </div>
         </section>
 
+        <section>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="row gx-4">
+                                <div class="col-lg-8 col-md-6 mb10">
+                                    <img src="images/arrendamiento.jpg" alt="" width="150%" class="img-fluid">
+
+                                    <h3 class="wow fadeInUp mt-5 mb20 color-dor" data-wow-delay=".2s">Arrendamiento Inmobiliario en México: Navegando con Éxito la Ley de Extinción de Dominio</h3>
+                                    <p class="wow fadeInUp">Arrendamiento Seguro: Cómo Evitar Riesgos Legales con Contratos Sólidos y la Ley de Extinción de Dominio El mercado inmobiliario es un sector en constante evolución, donde el arrendamiento de propiedades juega un papel crucial. Sin embargo, como cualquier negocio, el arrendamiento conlleva riesgos que los propietarios e inquilinos deben conocer y abordar adecuadamente. En este […]</p>
+                                    <a href="arrendamiento.php" style="color: rgba(187,161,85);"><span>LEER MAS</span></a>
+
+                                    <br><br>
+
+                                    <img src="images/protege.jpg" alt="" width="150%" class="img-fluid">
+
+                                    <h3 class="wow fadeInUp mt-5 mb20 color-dor" data-wow-delay=".2s">Protege tu Inversión: Estafas Comunes en el Arrendamiento Inmobiliario y Cómo Resguardarte con Pólizas Jurídicas de Arrendamiento</h3>
+                                    <p class="wow fadeInUp">Cómo Evitar Estafas en el Arrendamiento Inmobiliario: Consejos y Pólizas Jurídicas En el mundo del arrendamiento inmobiliario, la búsqueda de tu inmueble ideal puede ser tanto emocionante como desafiante. Sin embargo, es crucial mantenerse alerta ante posibles estafas que podrían afectar negativamente tu experiencia. Las estafas en el ámbito inmobiliario son una realidad que puede […]</p>
+                                    <a href="protege.php" style="color: rgba(187,161,85);"><span>LEER MAS</span></a>
+
+                                    <br><br>
+
+                                    <img src="images/contrato.jpg" alt="" width="150%" class="img-fluid">
+
+                                    <h3 class="wow fadeInUp mt-5 mb20 color-dor" data-wow-delay=".2s">Contrato de exclusividad inmobiliaria-¿Qué debe incluir?¿Cuáles son las obligaciones y derechos del asesor?</h3>
+                                    <p class="wow fadeInUp">CONTRATO DE EXCLUSIVIDAD EN ARRENDAMIENTO INMOBILIARIO Como asesores inmobiliarios, la exclusividad no solo se limita a la comercialización de bienes inmuebles, sino que también juega un papel crucial en los servicios que un asesor inmobiliario puede ofrecer a sus clientes de manera exclusiva para la gestión del arrendamiento de sus bienes, esto fortalece las relaciones […]</p>
+                                    <a href="contrato-exclusividad.php" style="color: rgba(187,161,85);"><span>LEER MAS</span></a>
+                                </div>
+
+                                <div class="col-lg-4 col-md-6">
+                                    <div class="field-set p-4 px-4" style="border: 1px solid #DDDDDD;">
+                                        <form class="d-flex">
+                                            <input class="form-control me-2" type="search" placeholder="Search keywords" aria-label="Search">
+                                            <button class="btn btn-outline-warning" type="submit"><i class="fa fa-search"></i></button>
+                                        </form>
+                                    </div>
+
+                                    <br><br>
+
+                                    <div class="bg-dark py-2 ps-4">
+                                        <h3 style="color: white;">Artículos recientes</h3>
+                                    </div>
+                                    <div class="py-2 ps-4" style="border: 1px solid #DDDDDD;">
+                                        <div class="row col-lg-12 col-md-12 col-sm-12">
+                                            <div class="col-lg-4 col-md-6 col-sm-6"><img src="images/art-1.png" alt="" class="img-fluid"></div>
+                                            <div class="col-lg-8 col-md-6 col-sm-6">
+                                                <a href="" style="color: black;">
+                                                    <p>Innovación y Profesionalización: Éxito del Primer Roadshow Inmobiliario en Chihuahua</p>
+                                                </a>
+                                                <span>Póliza De Rentas - 6 Junio, 2024</span>
+                                            </div>
+                                            <hr>
+
+                                            <div class="col-lg-4 col-md-6 col-sm-6"><img src="images/art-2.png" alt="" class="img-fluid"></div>
+                                            <div class="col-lg-8 col-md-6 col-sm-6">
+                                                <a href="" style="color: black;">
+                                                    <p>
+                                                        El Arrendamiento Inmobiliario y su comercialización- Alianza Póliza de Rentas & IKSA Chihuahua</p>
+                                                </a>
+                                                <span>Póliza De Rentas - 19 Abril, 2024</span>
+                                            </div>
+                                            <hr>
+
+                                            <div class="col-lg-4 col-md-6 col-sm-6"><img src="images/art-3.png" alt="" class="img-fluid"></div>
+                                            <div class="col-lg-8 col-md-6 col-sm-6">
+                                                <a href="" style="color: black;">
+                                                    <p>
+                                                        Talentos Estratégicos para Proteger tus Arrendamientos-La Sólida Alianza entre Póliza de Rentas y Jurista</p>
+                                                </a>
+                                                <span>Póliza De Rentas - 11 Marzo, 2024</span>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <br><br>
+
+                                    <div class="bg-dark py-2 ps-4">
+                                        <h3 style="color: white;">Blog Categorías</h3>
+                                    </div>
+                                    <div class="py-2 ps-4" style="border: 1px solid #DDDDDD;">
+                                        <div class="row col-lg-12 col-md-12 col-sm-12">
+                                            <div class="col-lg-12 col-md-6 col-sm-6">
+                                                <a href="" style="color: black;">
+                                                    <p>Consejo legal (10)</p>
+                                                </a>
+                                            </div>
+                                            <hr>
+
+                                            <div class="col-lg-12 col-md-6 col-sm-6">
+                                                <a href="" style="color: black;">
+                                                    <p>General (25)</p>
+                                                </a>
+                                            </div>
+                                            <hr>
+
+                                            <div class="col-lg-12 col-md-6 col-sm-6">
+                                                <a href="" style="color: black;">
+                                                    <p>Justicia Criminal (1)</p>
+                                                </a>
+                                            </div>
+                                            <hr>
+
+                                            <div class="col-lg-12 col-md-6 col-sm-6">
+                                                <a href="" style="color: black;">
+                                                    <p>Ley Civil (5)</p>
+                                                </a>
+                                            </div>
+                                            <hr>
+
+                                            <div class="col-lg-12 col-md-6 col-sm-6">
+                                                <a href="" style="color: black;">
+                                                    <p>Noticias (3)</p>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <br><br>
+
+                                    <div class="bg-dark py-2 ps-4">
+                                        <h3 style="color: white;">Etiquetas</h3>
+                                    </div>
+                                    <div class="py-2 ps-4" style="border: 1px solid #DDDDDD;">
+                                        <div class="row col-lg-12 col-md-12 col-sm-12">
+                                            <div class="col-lg-12 col-md-6 col-sm-6">
+                                                <a class="btn-line mb10" style="border: 1px solid #DDDDDD;" href="franquicias.php#conoce">arrendamiento</a>
+                                                <a class="btn-line mb10" style="border: 1px solid #DDDDDD;" href="franquicias.php#conoce">Contrato de arrendamiento</a>
+                                                <a class="btn-line mb10" style="border: 1px solid #DDDDDD;" href="franquicias.php#conoce">Estafa</a>
+                                                <a class="btn-line mb10" style="border: 1px solid #DDDDDD;" href="franquicias.php#conoce">extincion de dominio</a>
+                                                <a class="btn-line mb10" style="border: 1px solid #DDDDDD;" href="franquicias.php#conoce">finanzas</a>
+                                                <a class="btn-line mb10" style="border: 1px solid #DDDDDD;" href="franquicias.php#conoce">Inmueble</a>
+                                                <a class="btn-line mb10" style="border: 1px solid #DDDDDD;" href="franquicias.php#conoce">ley extincion de dominio</a>
+                                                <a class="btn-line mb10" style="border: 1px solid #DDDDDD;" href="franquicias.php#conoce">Prevención</a>
+                                                <a class="btn-line mb10" style="border: 1px solid #DDDDDD;" href="franquicias.php#conoce">póliza jurídica</a>
+                                                <a class="btn-line mb10" style="border: 1px solid #DDDDDD;" href="franquicias.php#conoce">renta</a>
+                                                <a class="btn-line mb10" style="border: 1px solid #DDDDDD;" href="franquicias.php#conoce">Seguridad</a>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <br><br>
+
+                                    <div class="bg-dark py-2 ps-4">
+                                        <h3 style="color: white;">¿Como encontrarnos?</h3>
+                                    </div>
+                                    <div class="py-2 ps-4" style="border: 1px solid #DDDDDD;">
+                                        <div class="row col-lg-12 col-md-12 col-sm-12">
+                                            <div class="col-lg-12 col-md-6 col-sm-6">
+                                                <p>Tel: +52 1 55 8719 0096</p>
+                                                <a href="mailto:info@polizaderentas.com">info@polizaderentas.com</a>
+                                            </div>
+                                            <hr>
+                                            <div class="col-lg-12 col-md-6 col-sm-6">
+                                                <h4>Dirección</h4>
+                                                <p>Más de 10 sucursales en toda la república mexicana</p>
+                                            </div>
+                                            <hr>
+
+                                            <div class="col-lg-12 col-md-6 col-sm-6">
+                                                <a href="https://www.facebook.com/polizaderentas" target="_blank"><i class="fa-brands fa-facebook-f"></i></a>
+                                                <!-- <a href="#"><i class="fa-brands fa-instagram"></i></a> -->
+                                                <a href="https://www.youtube.com/channel/UCSx4fSPOdmPcksm2639Mmdg/featured" target="_blank"><i class="fa-brands fa-youtube"></i></a>
+                                                <a href="https://www.linkedin.com/company/42311672/admin/" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
+                                                <!-- <a href="#"><i class="fa-brands fa-whatsapp"></i></a> -->
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </section>
+
         <?php include 'footer.php';?>
 
         <!-- Javascript Files
