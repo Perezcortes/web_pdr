@@ -92,7 +92,7 @@
                                                         Se líder en protección jurídico inmobiliaria en tu Ciudad, genera ingresos con un negocio probado y exitoso en todo México
                                                     </p>
                                                     <a class="btn-main mb10" href="https://formulario.franquicias.polizaderentas.com/">Inicia tu proceso</a>
-                                                    <a class="btn-line mb10" href="franquicias.php">Conoce más</a>
+                                                    <a class="btn-line mb10" href="franquicias.php#conoce">Conoce más</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -122,7 +122,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-3">
-                            <div class="subtitle s2 wow fadeInUp mb-3 bg-dorado">Conoce más</div>
+                            <div class="subtitle s2 wow fadeInUp mb-3 bg-gris">Conoce más</div>
                             <h2 class="wow fadeInUp" data-wow-delay=".2s">¿Cómo me protege Póliza de Rentas?</h2>
                         </div>
 
@@ -194,56 +194,6 @@
 
             <section class="no-top no-bottom">
                 <div class="container">
-                    <div class="row">
-                        <div class="col-lg-12">
-                            <div class="padding60 sm-padding40 rounded-30 jarallax text-light">
-                                <img src="images/background/banner.png" class="jarallax-img" alt="">
-                                <div class="row">
-                                    <div class="col-lg-6">
-                                        <div class="subtitle s2 wow fadeInUp mb-3">Cómo lo hacemos</div>
-                                        <h2 class="mb20 wow fadeInUp" data-wow-delay=".2s">ADQUIERE TU FRANQUICIA DE
-                                            PÓLIZA DE RENTAS</h2>
-
-                                        <div class=" s2 mb-4">
-                                            Con nuestro probado Triángulo de la Seguridad, que se basa en prevenir, prever y proteger, tendrás las herramientas para construir un negocio sólido y rentable. Además, nuestra rigurosa <b>investigación del inquilino</b> garantiza la prevención de problemas y la tranquilidad para todas nuestras franquicias.
-                                        </div>
-
-                                        <a class="btn-main" href="https://formulario.franquicias.polizaderentas.com/">Inicia tu proceso</a>
-                                        <a class="btn-line mb10" href="franquicias.php">Conoce más</a>
-
-                                    </div>
-
-                                    <div class="col-lg-6">
-                                        <iframe width="100%" class="wow fadeInUp rounded-4 my-4" height="300" src="https://www.youtube.com/embed/Ckos_FerhOc?si=YJSheoxMIaFaBdkG" title="YouTube video player" frameborder="0" style="border-radius:16px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-                                    </div>
-
-
-                                </div>
-                            </div>
-                        </div>
-
-                        <!-- <div class="col-lg-6">
-                            <div class="padding60 sm-padding40 rounded-30 jarallax text-light">
-                                <img src="images/background/banner-3.jpg" class="jarallax-img" alt="">
-                                <div class="row">
-                                    <div class="col-lg-12">
-                                        <div class="subtitle s2 wow fadeInUp mb-3">Cómo funciona</div>
-
-                                        <h2 class="mb20 wow fadeInUp" data-wow-delay=".2s">Nuestras pólizas</h2>
-                                           <iframe width="100%" class="wow fadeInUp rounded-4" height="300" src="https://www.youtube.com/embed/Ckos_FerhOc?si=YJSheoxMIaFaBdkG" title="YouTube video player" frameborder="0" style="border-radius:16px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-                                    </div>
-
-
-                                </div>
-                            </div>
-                            
-                        </div> -->
-                    </div>
-                </div>
-            </section>
-
-            <section>
-                <div class="container">
                     <div class="row g-4">
                         <div class="col-lg-6">
                             <div class="subtitle wow fadeInUp mb-3">Cómo contratar</div>
@@ -279,7 +229,7 @@
 
 
                     <div class="col-lg-12 d-flex justify-content-center">
-                        <a class="btn-main mt-5" href="#">Contrata ahora</a>
+                        <a class="btn-main mb10 mt20" href="https://formulario.franquicias.polizaderentas.com/">Inicia tu proceso</a>
                     </div>
                 </div>
             </section>
@@ -303,14 +253,69 @@
                                 inmuebles que buscan dar sus propiedades en arrendamiento.</p>
                             <hr class="s2">
                             <div class="spacer-10"></div>
-                            <a class="btn-main mb10" href="franquicias.php">Conoce más</a>
-                            <a class="btn-main mb10" href="#">Nuestras sucursales</a>
+                            <a class="btn-main mb10" href="nosotros.php">Conoce más</a>
+                            <a class="btn-main mb10" href="sucursales.php">Nuestras sucursales</a>
                         </div>
                     </div>
                 </div>
             </section>
 
-            <section class="bo-bottom">
+            <section class="bo-bottom" style="background-color: #F0F0F0;">
+                <div class="container">
+                    <div class="row align-items-center gx-5">
+                        <div class="col-lg-6">
+                            <!-- <div class="subtitle s2 wow fadeInUp mb-3">Quiénes somos</div> -->
+                            <h2 class="wow fadeInUp" data-wow-delay=".2s">PREGUNTAS <br> FRECUENTES</h2>
+                            <div class="contenedor-preguntas">
+                                <details>
+                                    <summary class="wow fadeInUp"><strong>¿Qué es una póliza Jurídica?</strong></summary><br>
+
+                                    Es un contrato de prestación de servicios jurídicos que te protegerá durante todo el periodo de arrendamiento.
+                                </details>
+                                <details>
+                                    <summary class="wow fadeInUp"><strong>¿Porqué es importante contratar una Póliza Jurídica?</strong></summary><br>
+
+                                    Es importante ya que contarás con todo el respaldo jurídico de abogados especializados en materia inmobiliaria para ayudarte a proteger tu inmueble y prevenir o solucionar cualquier conflicto con tu futuro inquilino.
+                                </details>
+                                <details>
+                                    <summary class="wow fadeInUp"><strong>¿Qué tipo de protección jurídica debo elegir?</strong></summary><br>
+
+                                    Tenemos 3 tipos de protección jurídica, contáctanos y elegiremos la más adecuada para ti.
+                                </details>
+                                <details>
+                                    <summary class="wow fadeInUp"><strong>¿Es necesario investigar a mi futuro inquilino?</strong></summary><br>
+
+                                    Es fundamental que se haga una investigación de la persona a la que le darás posesión de tu inmueble, no solo para conocer si podrá cumplir adecuadamente con el pago de la renta, sino para conocer su estabilidad, historial y referencias.
+                                </details>
+                                <details>
+                                    <summary class="wow fadeInUp"><strong>¿Cómo arrendatario obtengo algún beneficio al <br> contratar una póliza jurídica?</strong></summary><br>
+
+                                    Si claro, nosotros protegeremos tus derechos como inquilino durante todo el periodo de arrendamiento.
+                                </details>
+                            </div>
+                        </div>
+                        <div class="col-lg-6 mb-sm-20 position-relative">
+                            <div class="content">
+                                <img src="images/services/convenio-prevencion-conflictos/preguntas.png" class="img-fluid" style="position: relative; display: inline-block;" alt="">
+                                <a class="btn-main mb10 bg-gris" href="sucursales.php" style="position: absolute; top: 80%; left: 80%; transform: translate(-80%, -10%);">Sucursales</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- <script>
+                function toggleParagraph(id) {
+                    var para = document.getElementById(id);
+                    if (para.classList.contains('hidden')) {
+                        para.classList.remove('hidden');
+                    } else {
+                        para.classList.add('hidden');
+                    }
+                }
+            </script> -->
+
+            <section class=" bo-bottom">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-6">
@@ -329,7 +334,7 @@
                                     <div class="d-text">
                                         <h4>Arrendamiento Inmobiliario en México: Navegando con Éxito la Ley de
                                             Extinción de Dominio</h4>
-                                        <a class="btn-main btn-fullwidth btn-white" href="#">Ver más</a>
+                                        <a class="btn-main btn-fullwidth btn-white" href="arrendamiento.php">Ver más</a>
                                     </div>
                                 </div>
                                 <img src="images/study-case/card1.png" class="img-fluid" alt="">
@@ -344,7 +349,7 @@
                                     <div class="d-text">
                                         <h4>Protege tu Inversión: Estafas Comunes en el Arrendamiento Inmobiliario y
                                             Cómo Resguardarte con Pólizas Jurídicas de Arrendamiento</h4>
-                                        <a class="btn-main btn-fullwidth btn-white" href="#">Ver más</a>
+                                        <a class="btn-main btn-fullwidth btn-white" href="protege.php">Ver más</a>
                                     </div>
                                 </div>
                                 <img src="images/study-case/card2.png" class="img-fluid" alt="">
@@ -359,7 +364,7 @@
                                     <div class="d-text">
                                         <h4>Contrato de exclusividad inmobiliaria-¿Qué debe incluir?¿Cuáles son las
                                             obligaciones y derechos del asesor?</h4>
-                                        <a class="btn-main btn-fullwidth btn-white" href="#">Ver más</a>
+                                        <a class="btn-main btn-fullwidth btn-white" href="contrato-exclusividad.php">Ver más</a>
                                     </div>
                                 </div>
                                 <img src="images/study-case/card3.png" class="img-fluid" alt="">
@@ -367,6 +372,37 @@
                         </div>
                         <div class="col-lg-12 d-flex justify-content-center">
                             <a class="btn-main mt-5" href="#">Ver más artículos</a>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="no-top">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="padding60 sm-padding40 rounded-30 jarallax text-light">
+                                <img src="images/background/banner.png" class="jarallax-img" alt="">
+                                <div class="row">
+                                    <div class="col-lg-6">
+                                        <div class="subtitle s2 wow fadeInUp mb-3">Cómo lo hacemos</div>
+                                        <h2 class="mb20 wow fadeInUp" data-wow-delay=".2s">ADQUIERE TU FRANQUICIA DE
+                                            PÓLIZA DE RENTAS</h2>
+
+                                        <div class=" s2 mb-4">
+                                            Con nuestro probado Triángulo de la Seguridad, que se basa en prevenir, prever y proteger, tendrás las herramientas para construir un negocio sólido y rentable. Además, nuestra rigurosa <b>investigación del inquilino</b> garantiza la prevención de problemas y la tranquilidad para todas nuestras franquicias.
+                                        </div>
+
+                                        <a class="btn-main" href="https://formulario.franquicias.polizaderentas.com/">Inicia tu proceso</a>
+                                        <a class="btn-line mb10" href="franquicias.php#conoce">Conoce más</a>
+
+                                    </div>
+
+                                    <div class="col-lg-6">
+                                        <iframe width="100%" class="wow fadeInUp rounded-4 my-4" height="300" src="https://www.youtube.com/embed/Ckos_FerhOc?si=YJSheoxMIaFaBdkG" title="YouTube video player" frameborder="0" style="border-radius:16px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>

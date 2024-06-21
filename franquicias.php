@@ -48,7 +48,7 @@
                                                         Agenda una sesión Informativa personalizada con nuestro Director de Expansión y conoce los detalles de nuestro modelo de negocio.
                                                     </p>
                                                     <a class="btn-main mb10 mt20" href="https://formulario.franquicias.polizaderentas.com/">Inicia tu proceso</a>
-                                                    <a class="btn-line mb10" href="franquicias.php">Conoce más</a>
+                                                    <a class="btn-line mb10" href="#conoce">Conoce más</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -69,7 +69,7 @@
                                                         Agenda una sesión Informativa personalizada con nuestro Director de Expansión y conoce los detalles de nuestro modelo de negocio.
                                                     </p>
                                                     <a class="btn-main mb10 mt20" href="https://formulario.franquicias.polizaderentas.com/">Inicia tu proceso</a>
-                                                    <a class="btn-line mb10" href="franquicias.php">Conoce más</a>
+                                                    <a class="btn-line mb10" href="#conoce">Conoce más</a>
                                                 </div>
                                             </div>
                                         </div>

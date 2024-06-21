@@ -179,7 +179,7 @@
                                 inmuebles que buscan dar sus propiedades en arrendamiento.</p>
                             <hr class="s2">
                             <div class="spacer-10"></div>
-                            <a class="btn-main mb10" href="franquicias.php">Conoce más</a>
+                            <a class="btn-main mb10" href="franquicias.php#conoce">Conoce más</a>
                             <a class="btn-main mb10" href="sucursales.php">Nuestras sucursales</a>
                         </div>
                     </div>
