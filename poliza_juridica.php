@@ -43,9 +43,6 @@
                                                 <div class="subtitle s2 wow fadeInUp mb-3">Nuestros Servicios</div>
                                                 <h2 class="slider-title">Póliza jurídica
                                                 </h2>
-                                                <p class="fs-4 wow fadeInRight">
-                                                    Nosotros te ayudamos a crear una póliza jurídica. Este acuerdo es firmado ante un mediar certificado con fé pública y se inscribe en el Tribunal Superior de Justicia Alternativa.
-                                                </p>
                                                 <a class="btn-main mb10 mt20" href="https://formulario.franquicias.polizaderentas.com/">Inicia tu proceso</a>
                                             </div>
                                         </div>
@@ -77,18 +74,9 @@
                 <div class="row gx-5 justify-content-center">
                     <div class="col-lg-5">
                         <div class="subtitle s2 wow fadeInUp mb-3">Cómo funciona</div>
-                        <h2 class="wow fadeInUp mb20" data-wow-delay=".2s">¿Necesitas más protección?</h2>
-                        <p>Los acuerdos tomados en este tipo de convenios se consideran “cosa juzgada”, por lo cual ante cualquier incumplimiento, solo se ejecuta lo ahí establecido sin necesidad de un largo juicio.</p>
-                        <ul class="list-unstyled">
-                            <li><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-file-earmark-lock-fill" viewBox="0 0 16 16">
-                                    <path d="M7 7a1 1 0 0 1 2 0v1H7zM6 9.3c0-.042.02-.107.105-.175A.64.64 0 0 1 6.5 9h3a.64.64 0 0 1 .395.125c.085.068.105.133.105.175v2.4c0 .042-.02.107-.105.175A.64.64 0 0 1 9.5 12h-3a.64.64 0 0 1-.395-.125C6.02 11.807 6 11.742 6 11.7z" />
-                                    <path d="M9.293 0H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2V4.707A1 1 0 0 0 13.707 4L10 .293A1 1 0 0 0 9.293 0M9.5 3.5v-2l3 3h-2a1 1 0 0 1-1-1M10 7v1.076c.54.166 1 .597 1 1.224v2.4c0 .816-.781 1.3-1.5 1.3h-3c-.719 0-1.5-.484-1.5-1.3V9.3c0-.627.46-1.058 1-1.224V7a2 2 0 1 1 4 0" />
-                                </svg><br>Tu contrato de arrendamiento se perfecciona de manera judicial al celebrarlo mediante un convenio de mediación privada.</li>
-                            <li><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-file-earmark-lock-fill" viewBox="0 0 16 16">
-                                    <path d="M7 7a1 1 0 0 1 2 0v1H7zM6 9.3c0-.042.02-.107.105-.175A.64.64 0 0 1 6.5 9h3a.64.64 0 0 1 .395.125c.085.068.105.133.105.175v2.4c0 .042-.02.107-.105.175A.64.64 0 0 1 9.5 12h-3a.64.64 0 0 1-.395-.125C6.02 11.807 6 11.742 6 11.7z" />
-                                    <path d="M9.293 0H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2V4.707A1 1 0 0 0 13.707 4L10 .293A1 1 0 0 0 9.293 0M9.5 3.5v-2l3 3h-2a1 1 0 0 1-1-1M10 7v1.076c.54.166 1 .597 1 1.224v2.4c0 .816-.781 1.3-1.5 1.3h-3c-.719 0-1.5-.484-1.5-1.3V9.3c0-.627.46-1.058 1-1.224V7a2 2 0 1 1 4 0" />
-                                </svg><br>Consecuentemente, si se incumple, podrás solicitar su ejecución de manera directa vía judicial, con un procedimiento más ágil que el tradicional, ya que en muchas ocasiones el sistema judicial no cuenta con la capacidad suficiente para dar celeridad a los procesos.</li>
-                        </ul>
+                        <h2 class="wow fadeInUp mb20" data-wow-delay=".2s">Protección Jurídica en Arrendamiento Inmobiliario</h2>
+                        <p>¡Si deseas rentar tu inmueble, necesitas a Póliza de Rentas! Encontrar al inquilino ideal, un buen contrato y abstenerte de problemas jurídicos relacionados con las rentas es complicado. Por ello, nosotros nos encargamos de protegerte a tí como propietario y a tu inmueble.</p>
+                        <p>Más de 10 años de experiencia en servicios y en el mercado inmobiliario nos respaldan, teniendo presencia a nivel nacional, y ofreciendo a nuestros clientes una experiencia de confianza y calidad en el servicio, con la única finalidad de proteger su patrimonio en todo momento.</p>
                         <a class="btn-main mb10 mt20" href="https://formulario.franquicias.polizaderentas.com/">Inicia tu proceso</a>
                         <div class="spacer-single"></div>
                     </div>
@@ -101,26 +89,23 @@
         </section>
         <!-- section close -->
 
-        <section>
+        <section class="no-top">
             <div class="container">
                 <div class="row g-5">
                     <div class="col-lg-6 wow fadeInLeft">
                         <div class="padding40 bg-grey rounded-30 h-100">
-                            <h3>¿Ante quién se celebran?</h3>
-                            <p>Tu convenio de mediación Privada se deberá celebrar ante la presencia de un Mediador Privado Certificado por el Centro de Justicia Alternativa de la Ciudad de México.</p>
-                            <p><strong>Beneficios del convenio de mediación:</strong></p>
+                            <h3>La mejor protección jurídica del mercado a un único precio.</h3>
+                            <p>En Póliza de Rentas solo pagarás por los servicios que requieras.</p>
                             <ul>
-                                <li>Tu contrato de arrendamiento adquiere fuerza legal mediante la firma de un convenio de mediación.</li>
-                                <li>Al momento que se incurre en incumplimiento, podrás solicitar de manera judicial inmediata:</li>
-                                <ul>
-                                    <li>La desocupación y entrega del inmueble</li>
-                                    <li>Hacer efectiva la garantía</li>
-                                    <li>El pago de rentas</li>
-                                    <li>La rescisión de tu contrato</li>
-                                </ul>
-                                <li>No necesitas de tantos trámites costosos de investigaciones, ni el temer demasiada documentación.</li>
+                                <li>Perfilamiento del inquilino.</li>
+                                <li>Investigación del inquilino.</li>
+                                <li>Recuperación del inmueble de forma judicial.</li>
+                                <li>Protección hasta la entrega del inmueble.</li>
+                                <li>Protección ante lavado de dinero.</li>
+                                <li>Cobranza extrajudicial.</li>
                             </ul>
-                            <p><em>Tu convenio de mediación tendrá vigencia por el tiempo que dure tu contrato de arrendamiento.</em></p>
+                            <p><em><b>Opción de pago a meses sin intereses*.</b></em></p>
+                            <p><em>*Aplica comisión bancaria</em></p>
                             <a class="btn-main mb10 mt20" href="https://formulario.franquicias.polizaderentas.com/">Inicia tu proceso</a>
                             <a class="btn-main mb10 mt20" href="sucursales.php">Ubica tu sucursal</a>
                         </div>
@@ -128,16 +113,27 @@
 
                     <div class="col-lg-6 wow fadeInRight">
                         <div class="padding40 bg-color-2 rounded-30 h-100">
-                            <h3>Documentos necesarios para llevar acabo el trámite</h3>
+                            <h3>¿Que incluye nuestro servicio?</h3>
                             <ul>
-                                <li>Identificaciones oficiales y vigentes de arrendador y arrendatario y del aval en caso de que lo haya.</li>
-                                <li>Poder Notarial, con el que se acredite la personalidad en caso de que el contrato de arrendamiento se firme por medio de un Apoderado.</li>
-                                <li>El Contrato de Arrendamiento.</li>
+                                <li>Investigación del inquilino y del fiador en su caso.</li>
+                                <li>Investigación paramétrica del inquilino.</li>
+                                <li>Investigación en el buró de crédito.</li>
+                                <li>Investigación en el buró legal.</li>
+                                <li>Elaboración del contrato de arrendamiento.</li>
+                                <li>Asistencia a la firma del contrato.</li>
+                                <li>Seguimiento a incumplimientos durante la vigencia del contrato.</li>
+                                <li>Recuperación del inmueble (ya sea por la vía judicial o extrajudicial)</li>
+                                <li>Protección al arrendador hasta la entrega del inmueble.</li>
+                                <li>Protección ante extinción de dominio.</li>
                             </ul>
-                            <h4>¿Cómo se lleva a cabo el trámite?</h4>
-                            <p>Al momento de la firma de tu contrato de arrendamiento, se celebra también tu convenio de Mediación ante la presencia de un Mediador Privado Certificado, posteriormente se registra ante el Centro de Justicia Alternativa del Tribunal Superior de Justicia, lo que le da la fuerza Legal para que a su incumplimiento pueda solicitarse su ejecución en vía de apremio.</p>
-                            <h4>¿Qué sucede si se incumple mi contrato de arrendamiento, cómo funciona?</h4>
-                            <p>Al momento del incumplimiento por cualquiera de las causales que se estipulen en tu contrato de arrendamiento, podrás solicitar ante el C. Juez competente su ejecución en vía de apremio. Este solicitará a la otra parte que acredite el cumplimiento de las obligaciones pactadas y en caso de no hacerlo dentro del término legal concedido, se procederá a la desocupación y entrega del inmueble, así como también se podrá hacer efectiva la garantía.</p>
+                            <h4>¿Porqué elegir Póliza de Rentas?</h4>
+                            <ul>
+                                <li>Asesorías antes de rentar sin costo.</li>
+                                <li>Atención personalizada a nuestros clientes.</li>
+                                <li>Solo pagarás por los servicios que requieres.</li>
+                                <li>Cobertura a nivel Nacional.</li>
+                                <li>Más de 10 años de experiencia en el mercado.</li>
+                            </ul>
                         </div>
                     </div>
 
@@ -145,8 +141,8 @@
                         <div class="padding60 sm-padding40 rounded-30 bg-color h-100 text-light">
                             <div class="row">
                                 <div class="col-lg-12">
-                                    <h2 class="mb20 wow fadeInUp" data-wow-delay=".2s">Refuerzo legal</h2>
-                                    <p>Tu contrato de arrendamiento adquiere fuerza legal mediante la firma de un convenio de mediación mercantil.</p>
+                                    <h2 class="mb20 wow fadeInUp" data-wow-delay=".2s">Respaldo Legal</h2>
+                                    <p>Contarás con respaldo de abogados especialistas durante todo el periodo de arrendamiento.</p>
                                 </div>
                             </div>
                         </div>
@@ -155,11 +151,8 @@
                         <div class="padding60 sm-padding40 rounded-30 bg-color h-100 text-light">
                             <div class="row">
                                 <div class="col-lg-12">
-                                    <h2 class="mb20 wow fadeInUp" data-wow-delay=".2s">Máxima confianza</h2>
-                                    <p>El convenio se firma ante un Mediador Certificado y se inscribe en el Tribunal Superior de Justicia Alternativa.
-
-                                        Agiliza el proceso judicial
-                                        En caso de incumplimiento, el trámite judicial es </p>
+                                    <h2 class="mb20 wow fadeInUp" data-wow-delay=".2s">Cobranza en Incumplimiento</h2>
+                                    <p>Cobranza extrajudicial y por la vía judicial, hasta la recuperación de rentas vencidas y servicios no pagados</p>
                                 </div>
                             </div>
                         </div>
@@ -168,8 +161,8 @@
                         <div class="padding60 sm-padding40 rounded-30 bg-color h-100 text-light">
                             <div class="row">
                                 <div class="col-lg-12">
-                                    <h2 class="mb20 wow fadeInUp" data-wow-delay=".2s">Agiliza el proceso judicial</h2>
-                                    <p>En caso de incumplimiento, el trámite judicial es mucho más ágil, lo que te permitirá recuperar tu inmueble rápidamente.</p>
+                                    <h2 class="mb20 wow fadeInUp" data-wow-delay=".2s">Protegemos tu inmueble</h2>
+                                    <p>Recuperación garantizada de tu inmueble y protección ante Extinción de Dominio.</p>
                                 </div>
                             </div>
                         </div>
@@ -177,8 +170,8 @@
                 </div>
             </div>
         </section>
-        
-        <?php include 'footer.php';?>
+
+        <?php include 'footer.php'; ?>
 
         <!-- Javascript Files
     ================================================== -->

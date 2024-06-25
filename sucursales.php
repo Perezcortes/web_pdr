@@ -899,7 +899,7 @@
             ?>
 
             <!-- Section para mostrar sucursal mediante API -->
-            <!-- <section id="branches">
+            <section id="branches">
                 <div class="container">
                     <h2>Nuestras Sucursales</h2>
                     <div class="row">
@@ -907,7 +907,7 @@
                             <?php foreach ($data as $office) : ?>
                                 <div class="col-lg-4 col-md-6 mb-4">
                                     <div class="card">
-                                        <img src="<?php echo 'https://app.polizaderentas.com/'.$office['img_suc']; ?>"  class="card-img-top" alt="<?php echo $office['nombre_suc']; ?>">
+                                        <!-- <img src="<?php echo 'https://app.polizaderentas.com/'.$office['img_suc']; ?>"  class="card-img-top" alt="<?php echo $office['nombre_suc']; ?>"> -->
                                         <div class="card-body">
                                             <h5 class="card-title"><?php echo $office['nombre_suc']; ?></h5>
                                             <p class="card-text">
@@ -915,7 +915,8 @@
                                                 <strong>Email:</strong> <?php echo $office['email_suc']; ?><br>
                                                 <strong>Teléfono:</strong> <?php echo $office['telefono_suc']; ?><br>
                                             </p>
-                                            <a href="mailto:<?php echo $office['email_suc']; ?>" class="btn btn-primary">Contactar</a>
+                                            <!-- <a href="mailto:<?php echo $office['email_suc']; ?>" class="btn btn-primary">Contactar</a> -->
+                                            <a href="#" class="btn btn-primary">Ver mas</a>
                                         </div>
                                     </div>
                                 </div>
@@ -925,7 +926,7 @@
                         <?php endif; ?>
                     </div>
                 </div>
-            </section> -->
+            </section>
 
             <?php include 'footer.php'; ?>
 
