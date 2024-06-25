@@ -23,10 +23,13 @@
                             <li><a class="menu-item" href="nosotros.php">Nosotros</a></li>
                             <li><a class="menu-item" href="servicios.php">Servicios</a>
                                 <ul class="sub-menu" style="background-color: #1E1E1E; border-color: #1E1E1E;">
-                                    <li><a style="color: white;" href="poliza_juridica.php">Póliza Jurídica</a></li>
-                                    <li><a style="color: white;" href="convenio_prevencion.php">Convenio de Prevención de Conflictos</a></li>
-                                    <li><a style="color: white;" href="convenio_transaccion.php">Convenio de Transacción</a></li>
                                     <li><a style="color: white;" href="investigacion_inquilinos.php">Investigación de Inquilinos</a></li>
+                                    <li><a style="color: white;" href="poliza_juridica.php">Póliza de Protección Jurídica</a></li>
+                                    <li><a style="color: white;" href="poliza_juridica.php">Convenio de transacción</a></li>
+                                    <li><a style="color: white;" href="convenio_prevencion.php">Convenio de Prevención de Conflictos</a></li>
+                                    <li><a style="color: white;" href="poliza_juridica.php">Firma Electrónica</a></li>
+                                    <!-- <li><a style="color: white;" href="poliza_juridica.php">Póliza Jurídica</a></li>
+                                    <li><a style="color: white;" href="convenio_transaccion.php">Convenio de Transacción</a></li> -->
                                 </ul>
                             </li>
                             <li><a class="menu-item" href="sucursales.php">Sucursales</a></li>

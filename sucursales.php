@@ -57,10 +57,11 @@
                                                 <div class="col-lg-12">
                                                     <div class="subtitle s2 mb-4">
                                                         <p>Póliza de Rentas cuenta con más de 30 sucursales alrededor <br>
-                                                        de todo México, trabajando de la mano con las mejores <br>
-                                                        inmobiliarias y asesores en la contratación de pólizas jurídicas
-                                                        <br>
-                                                        de arrendamiento.</p>
+                                                            de todo México, trabajando de la mano con las mejores <br>
+                                                            inmobiliarias y asesores en la contratación de pólizas jurídicas
+                                                            <br>
+                                                            de arrendamiento.
+                                                        </p>
                                                     </div>
                                                 </div>
                                                 <div class="col-lg-4">
@@ -891,8 +892,43 @@
                 </div>
             </section>
 
-            <?php include 'footer.php';?>
-            
+            <?php
+            $url = 'https://app.polizaderentas.com/api/offices';
+            $response = file_get_contents($url);
+            $data = json_decode($response, true);
+            ?>
+
+            <!-- Section para mostrar sucursal mediante API -->
+            <!-- <section id="branches">
+                <div class="container">
+                    <h2>Nuestras Sucursales</h2>
+                    <div class="row">
+                        <?php if (!empty($data)) : ?>
+                            <?php foreach ($data as $office) : ?>
+                                <div class="col-lg-4 col-md-6 mb-4">
+                                    <div class="card">
+                                        <img src="<?php echo 'https://app.polizaderentas.com/'.$office['img_suc']; ?>"  class="card-img-top" alt="<?php echo $office['nombre_suc']; ?>">
+                                        <div class="card-body">
+                                            <h5 class="card-title"><?php echo $office['nombre_suc']; ?></h5>
+                                            <p class="card-text">
+                                                <strong>Dirección:</strong> <?php echo $office['calle'] . ' ' . $office['numExt'] . ', ' . $office['colonia'] . ', ' . $office['municipio'] . ', ' . $office['estado'] . ', CP ' . $office['cp']; ?><br>
+                                                <strong>Email:</strong> <?php echo $office['email_suc']; ?><br>
+                                                <strong>Teléfono:</strong> <?php echo $office['telefono_suc']; ?><br>
+                                            </p>
+                                            <a href="mailto:<?php echo $office['email_suc']; ?>" class="btn btn-primary">Contactar</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            <?php endforeach; ?>
+                        <?php else : ?>
+                            <p>No hay sucursales disponibles.</p>
+                        <?php endif; ?>
+                    </div>
+                </div>
+            </section> -->
+
+            <?php include 'footer.php'; ?>
+
         </div>
 
         <!-- Javascript Files
@@ -902,6 +938,12 @@
         <script src="js/swiper.js"></script>
         <script src="js/custom-marquee.js"></script>
         <script src="js/custom-swiper-1.js"></script>
+
+        <!-- <script>
+            fetch('https://app.polizaderentas.com/api/offices')
+                .then(response => response.json())
+                .then(data => console.log(data));
+        </script> -->
 
 </body>
 

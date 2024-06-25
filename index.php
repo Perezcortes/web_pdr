@@ -386,15 +386,15 @@
                                 <div class="row">
                                     <div class="col-lg-6">
                                         <div class="subtitle s2 wow fadeInUp mb-3">Cómo lo hacemos</div>
-                                        <h2 class="mb20 wow fadeInUp" data-wow-delay=".2s">ADQUIERE TU FRANQUICIA DE
-                                            PÓLIZA DE RENTAS</h2>
+                                        <h2 class="mb20 wow fadeInUp" data-wow-delay=".2s">CONTRATA CON PÓLIZA DE RENTAS SOMOS LA MEJOR OPCIÓN EN EL MERCADO NACIONAL
+                                        </h2>
 
                                         <div class=" s2 mb-4">
                                             Con nuestro probado Triángulo de la Seguridad, que se basa en prevenir, prever y proteger, tendrás las herramientas para construir un negocio sólido y rentable. Además, nuestra rigurosa <b>investigación del inquilino</b> garantiza la prevención de problemas y la tranquilidad para todas nuestras franquicias.
                                         </div>
 
-                                        <a class="btn-main" href="https://formulario.franquicias.polizaderentas.com/">Inicia tu proceso</a>
-                                        <a class="btn-line mb10" href="franquicias.php#conoce">Conoce más</a>
+                                        <!-- <a class="btn-main" href="https://formulario.franquicias.polizaderentas.com/">Inicia tu proceso</a>
+                                        <a class="btn-line mb10" href="franquicias.php#conoce">Conoce más</a> -->
 
                                     </div>
 
