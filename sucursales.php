@@ -1,9 +1,3 @@
-<?php
-$url = 'https://app.polizaderentas.com/api/offices';
-$response = file_get_contents($url);
-$data = json_decode($response, true);
-?>
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -28,6 +22,7 @@ $data = json_decode($response, true);
 </head>
 
 <body>
+
 
     <div id="wrapper">
         <!-- page preloader begin -->
@@ -117,15 +112,6 @@ $data = json_decode($response, true);
                         <select class="form-select" aria-label="Default select example" id="filtroEstados" style="display: none;">
                             <option value="" selected>Selecciona un estado...</option>
                             <option value="todos">Mostrar todos</option>
-                            <?php foreach ($data as $office) : ?>
-                                <?php
-                                $estado = strtolower(str_replace(' ', '-', $office['estado']));
-                                if (!in_array($estado, $estados)) {
-                                    $estados[] = $estado;
-                                    echo '<option value="' . $estado . '">' . $office['estado'] . '</option>';
-                                }
-                                ?>
-                            <?php endforeach; ?>
                         </select>
                     </div>
                 </div>
@@ -133,63 +119,85 @@ $data = json_decode($response, true);
                 <!-- Section para mostrar sucursal mediante API -->
                 <section id="branches" class="">
                     <div class="container">
-                        <div class="row">
-                            <?php if (!empty($data)) : ?>
-                                <?php foreach ($data as $office) : ?>
-                                    <div class="col-lg-4 col-md-6 mb-4 office-card" data-estado="<?php echo strtolower(str_replace(' ', '-', $office['estado'])); ?>" style="display: none;">
-                                        <div class="card">
-                                            <div class="card-body">
-                                                <?php
-                                                $lat = $office['lat'];
-                                                $lng = $office['lng'];
-                                                echo '<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=' . ($office['lng'] - 0.005) . '%2C' . ($office['lat'] - 0.005) . '%2C' . ($office['lng'] + 0.005) . '%2C' . ($office['lat'] + 0.005) . '&layer=mapnik&marker=' . $office['lat'] . '%2C' . $office['lng'] . '" width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy"></iframe>';
-                                                ?>
-                                                <h5 class="card-title"><?php echo $office['nombre_suc']; ?></h5>
-                                                <p class="card-text">
-                                                    <strong>Dirección:</strong> <?php echo $office['calle'] . ' ' . $office['numExt'] . ', ' . $office['colonia'] . ', ' . $office['municipio'] . ', ' . $office['estado'] . ', CP ' . $office['cp']; ?><br>
-                                                    <strong>Email:</strong> <?php echo $office['email_suc']; ?><br>
-                                                    <strong>Teléfono:</strong> <?php echo $office['telefono_suc']; ?><br>
-                                                </p>
-
-                                                <a class="btn-main mb10" href="sucursal.php?id=<?php echo $office['id']; ?>">Ver más</a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                <?php endforeach; ?>
-                            <?php else : ?>
-                                <p>No hay sucursales disponibles.</p>
-                            <?php endif; ?>
+                        <div class="row" id="officeContainer">
+                            <!-- Aquí se agregarán las sucursales dinámicamente -->
                         </div>
                     </div>
                 </section>
 
                 <script>
+                    fetch('https://app.polizaderentas.com/api/offices')
+                        .then(response => response.json())
+                        .then(data => {
+                            // Función para generar las opciones del select
+                            const uniqueStates = [];
+                            const selectElement = document.getElementById('filtroEstados');
+
+                            data.forEach(office => {
+                                const state = office.estado.toLowerCase().replace(/ /g, '-');
+                                if (!uniqueStates.includes(state)) {
+                                    uniqueStates.push(state);
+                                    const option = document.createElement('option');
+                                    option.value = state;
+                                    option.textContent = office.estado;
+                                    selectElement.appendChild(option);
+                                }
+                            });
+
+                            // Función para generar las tarjetas de las sucursales
+                            const officeContainer = document.getElementById('officeContainer');
+                            data.forEach(office => {
+                                const cardDiv = document.createElement('div');
+                                cardDiv.className = 'col-lg-4 col-md-6 mb-4 office-card';
+                                cardDiv.setAttribute('data-estado', office.estado.toLowerCase().replace(/ /g, '-'));
+                                cardDiv.style.display = 'none';
+
+                                const card = `
+                    <div class="card">
+                        <div class="card-body">
+                            <iframe 
+                    src="https://www.openstreetmap.org/export/embed.html?bbox=${encodeURIComponent(parseFloat(office.lng) - 0.005)}%2C${encodeURIComponent(parseFloat(office.lat) - 0.005)}%2C${encodeURIComponent(parseFloat(office.lng) + 0.005)}%2C${encodeURIComponent(parseFloat(office.lat) + 0.005)}&layer=mapnik&marker=${encodeURIComponent(parseFloat(office.lat))}%2C${encodeURIComponent(parseFloat(office.lng))}" 
+                    width="100%" 
+                    height="400" 
+                    style="border:0;" 
+                    allowfullscreen="" 
+                    loading="lazy">
+                </iframe>
+                            <h5 class="card-title">${office.nombre_suc}</h5>
+                            <p class="card-text">
+                                <strong>Dirección:</strong> ${office.calle} ${office.numExt}, ${office.colonia}, ${office.municipio}, ${office.estado}, CP ${office.cp}<br>
+                                <strong>Email:</strong> ${office.email_suc}<br>
+                                <strong>Teléfono:</strong> ${office.telefono_suc}<br>
+                            </p>
+                            <a class="btn-main mb10" href="sucursal.php?id=${office.id}">Ver más</a>
+                        </div>
+                    </div>
+                `;
+                                cardDiv.innerHTML = card;
+                                officeContainer.appendChild(cardDiv);
+                            });
+                        })
+                        .catch(error => console.error('Error al obtener los datos de la API:', error));
+
+                    document.getElementById('mostrarEstados').addEventListener('click', function() {
+                        document.querySelectorAll('.office-card').forEach(function(card) {
+                            card.style.display = 'block';
+                        });
+                    });
+
                     document.getElementById('filtrarEstado').addEventListener('click', function() {
                         document.getElementById('filtroEstados').style.display = 'block';
                     });
 
                     document.getElementById('filtroEstados').addEventListener('change', function() {
-                        var estadoSeleccionado = this.value;
-                        var cards = document.querySelectorAll('.office-card');
-
-                        cards.forEach(function(card) {
-                            if (estadoSeleccionado === 'todos' || card.getAttribute('data-estado') === estadoSeleccionado) {
+                        const selectedState = this.value;
+                        document.querySelectorAll('.office-card').forEach(function(card) {
+                            if (selectedState === 'todos' || card.getAttribute('data-estado') === selectedState) {
                                 card.style.display = 'block';
                             } else {
                                 card.style.display = 'none';
                             }
                         });
-                    });
-
-                    document.getElementById('mostrarEstados').addEventListener('click', function() {
-                        var cards = document.querySelectorAll('.office-card');
-
-                        cards.forEach(function(card) {
-                            card.style.display = 'block';
-                        });
-
-                        // Also hide the select dropdown if it is visible
-                        document.getElementById('filtroEstados').style.display = 'none';
                     });
                 </script>
             </section>
