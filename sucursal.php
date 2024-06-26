@@ -19,18 +19,18 @@ if (isset($_GET['id'])) {
         // // Mostrar el mapa con OpenStreetMap
         // echo '<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=' . ($office['lng'] - 0.005) . '%2C' . ($office['lat'] - 0.005) . '%2C' . ($office['lng'] + 0.005) . '%2C' . ($office['lat'] + 0.005) . '&layer=mapnik&marker=' . $office['lat'] . '%2C' . $office['lng'] . '" width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy"></iframe>';
 
-        // // Mostrar los detalles del usuario
+        // Mostrar los detalles del usuario
         // echo '<h3>Contacto</h3>';
         // echo '<p><strong>Nombre:</strong> ' . $user['name'] . '</p>';
         // echo '<p><strong>Email:</strong> ' . $user['email'] . '</p>';
         // echo '<p><strong>Teléfono:</strong> ' . $user['telefono_user'] . '</p>';
         // echo '<p><strong>WhatsApp:</strong> ' . $user['whatsapp'] . '</p>';
-        if ($user['facebook_user']) {
-            // echo '<p><strong>Facebook:</strong> <a href="' . $user['facebook_user'] . '" target="_blank">Perfil de Facebook</a></p>';
-        }
-        if ($user['linkedIn']) {
-            // echo '<p><strong>LinkedIn:</strong> <a href="' . $user['linkedIn'] . '" target="_blank">Perfil de LinkedIn</a></p>';
-        }
+        // if ($user['facebook_user']) {
+        //     echo '<p><strong>Facebook:</strong> <a href="' . $user['facebook_user'] . '" target="_blank">Perfil de Facebook</a></p>';
+        // }
+        // if ($user['linkedIn']) {
+        //     echo '<p><strong>LinkedIn:</strong> <a href="' . $user['linkedIn'] . '" target="_blank">Perfil de LinkedIn</a></p>';
+        // }
     } else {
         // echo '<p>No se encontraron detalles para esta sucursal.</p>';
     }
@@ -107,25 +107,60 @@ if (isset($_GET['id'])) {
             <section>
                 <div class="container">
                     <div class="row gx-5 justify-content-center">
-                        <div class="col-lg-8">
+                        <div class="col-lg-7">
                             <p><?php echo $office['descripcion_suc'] ?></p>
-
+                            <div class="row mt-5">
+                                <?php foreach ($data['users'] as $user) : ?>
+                                    <div class="col-lg-3">
+                                        <img src="<?php echo $user['img_user']?>" alt="user" class="img-fluid">
+                                        <p><?php echo $user['name']; ?></p>
+                                    </div>
+                                <?php endforeach ?>
+                            </div>
                             <div class="spacer-single"></div>
                         </div>
 
-                        <div class="col-lg-4">
+                        <div class="col-lg-5">
                             <div class="p-4 pb-2 bg-grey">
                                 <div class="subtitle wow fadeInUp mb-3" style="background-color: grey; color: white;">
-                                    <?php echo $office['estado']?></div>
-                                <h4><?php echo $office['nombre_suc']?></span></h4>
+                                    <?php echo $office['estado'] ?></div>
+                                <h4><?php echo $office['nombre_suc'] ?></span></h4>
                                 <hr class="s2">
                                 <p><?php echo $office['calle'] . ' ' . $office['numExt'] . ', ' . $office['colonia'] . ', ' . $office['municipio'] . ', ' . $office['estado'] . ', CP ' . $office['cp']; ?> <br><br>
 
-                                <?php echo $office['telefono_suc']?> <br><br>
+                                    <?php echo $office['telefono_suc'] ?> <br><br>
 
-                                <?php echo $office['email_suc']?>
+                                    <?php echo $office['email_suc'] ?>
                                 </p>
                             </div>
+                            <br>
+
+                            <div class="p-4 pb-2 bg-grey">
+                                <h4>Envía tus datos y un asesor se pondrá en contacto contigo</h4>
+
+                                <form>
+                                    <div class="mb-3">
+                                        <label for="nombre" class="form-label">Nombre completo</label>
+                                        <input type="text" class="form-control" id="exampleInputEmail1">
+                                    </div>
+                                    <div class="mb-3">
+                                        <label for="email" class="form-label">Correo electronico</label>
+                                        <input type="email" class="form-control" id="exampleInputPassword1" aria-describedby="emailHelp">
+                                    </div>
+                                    <div class="mb-3">
+                                        <label for="numero" class="form-label">Whatsapp</label>
+                                        <input type="number" class="form-control" id="exampleInputPassword1">
+                                    </div>
+                                    <div class="mb-3 form-check">
+                                        <input type="checkbox" class="form-check-input" id="exampleCheck1">
+                                        <label class="form-check-label" for="exampleCheck1">Capchat</label>
+                                    </div>
+                                    <button type="submit" class="btn btn-primary">Enviar</button>
+                                </form>
+                            </div>
+                            <br>
+
+                            <?php echo '<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=' . ($office['lng'] - 0.005) . '%2C' . ($office['lat'] - 0.005) . '%2C' . ($office['lng'] + 0.005) . '%2C' . ($office['lat'] + 0.005) . '&layer=mapnik&marker=' . $office['lat'] . '%2C' . $office['lng'] . '" width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy"></iframe>'; ?>
                         </div>
                     </div>
                 </div>
