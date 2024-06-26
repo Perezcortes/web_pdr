@@ -122,7 +122,7 @@
                             <div class="col-lg-6 p-4 pb-2 bg-grey">
                                 <h4>Envía tus datos y un asesor se pondrá en contacto contigo</h4>
 
-                                <form>
+                                <form class="formulario-informes" role="form" action="https://app.polizaderentas.com/sucursales" method="post">
                                     <div class="mb-3">
                                         <label for="nombre" class="form-label">Nombre completo</label>
                                         <input type="text" class="form-control" id="exampleInputEmail1">
@@ -135,10 +135,10 @@
                                         <label for="numero" class="form-label">Whatsapp</label>
                                         <input type="number" class="form-control" id="exampleInputPassword1">
                                     </div>
-                                    <div class="mb-3 form-check">
+                                    <!-- <div class="mb-3 form-check">
                                         <input type="checkbox" class="form-check-input" id="exampleCheck1">
                                         <label class="form-check-label" for="exampleCheck1">Capchat</label>
-                                    </div>
+                                    </div> -->
                                     <button type="submit" class="btn btn-primary">Enviar</button>
                                 </form>
                             </div>
