@@ -21,13 +21,13 @@
 }
 
 #MX-BCN,
+#MX-BCS,
 #MX-CHH,
 #MX-SIN,
 #MX-DUR,
 #MX-NEL,
 #MX-SLP,
 #MX-GUA,
-#MX-JAL,
 #MX-QUE,
 #MX-VER,
 #MX-PUE,
@@ -36,19 +36,23 @@
 #MX-MOR,
 #MX-GRO,
 #MX-TAB,
+#MX-ROO,
+#MX-TAM,
+#MX-MIC,
+#MX-NAY,
 #MX-YUC {
     fill: rgb(163, 135, 78) !important;
     cursor: pointer;
 }
 
 #MX-BCN:hover,
+#MX-BCS:hover,
 #MX-CHH:hover,
 #MX-SIN:hover,
 #MX-DUR:hover,
 #MX-NEL:hover,
 #MX-SLP:hover,
 #MX-GUA:hover,
-#MX-JAL:hover,
 #MX-QUE:hover,
 #MX-VER:hover,
 #MX-PUE:hover,
@@ -57,6 +61,10 @@
 #MX-MOR:hover,
 #MX-GRO:hover,
 #MX-TAB:hover,
+#MX-ROO:hover,
+#MX-TAM:hover,
+#MX-MIC:hover,
+#MX-NAY:hover,
 #MX-YUC:hover {
     fill: rgb(211, 185, 134) !important;
 }
