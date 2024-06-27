@@ -175,7 +175,7 @@
                     userDiv.classList.add('col-lg-3');
 
                     // Crear imagen y párrafo dentro del div
-                    if (user.img_user === null) {
+                    if ((user.img_user === null) || (user.img_user === "")) {
                         userDiv.innerHTML = ` <img src="images/storage/default.jpg" alt="user" class="img-fluid">
                     <p>${user.name}</p>`;
                     } else {
