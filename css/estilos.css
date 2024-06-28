@@ -154,18 +154,18 @@ summary::marker {
 
 details summary::before {
     position: absolute;
-    content: "➕";
-    font-size: 1.75rem;
+    content: "+";
+    font-size: 3rem;
     top: 10px;
     right: 16px;
-    color: blue !important;
+    color: rgba(187,161,85) !important;
 }
 
 details[open] summary::before {
-	content: "➖";
+	content: "-";
     -webkit-animation: rotate-emoji 0.6s ease-in-out both;
     animation: rotate-emoji 0.6s ease-in-out both;
-    color: blue !important;
+    color: rgba(187,161,85) !important;
 }
 
 @-webkit-keyframes rotate-emoji {
