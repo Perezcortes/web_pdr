@@ -52,7 +52,7 @@
                                                     <hr class="s2">
                                                     <div class="spacer-10"></div>
                                                     <a class="btn-main mb10" href="#acerca-de">Conócenos</a>&nbsp;
-                                                    <a class="btn-line mb10" href="generar-poliza.php">Genera tu póliza</a>
+                                                    <a class="btn-line mb10" href="sucursales.php">Sucursales</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -143,8 +143,8 @@
                     </div>
                     <div class="row text-center justify-content-center">
                         <div class="col-lg-8 mb20 wow fadeInUp" data-wow-delay=".3s">
-                            <a class="btn-main mb10" href="services.html">Adquiere una franquicia</a>&nbsp;
-                            <a class="btn-line mb10" href="contact.html">Genera tu póliza</a>
+                            <a class="btn-line mb10" href="sucursales.php">Sucursales</a>&nbsp;
+                            <a class="btn-main mb10" href="services.html">Adquiere una franquicia</a>
                         </div>
                     </div>
                 </div>

@@ -47,7 +47,7 @@
                                                     Nuestro equipo de abogados altamente capacitados ha diseñado cuatro soluciones efectivas para garantizar la seguridad y tranquilidad de tu patrimonio.
                                                 </p>
                                                 <a class="btn-main mb10 mt20" href="#todos-los-servicios">Ver todos los servicios</a>
-                                                <a class="btn-main mb10 mt20" href="https://formulario.franquicias.polizaderentas.com/">Inicia tu proceso</a>
+                                                <a class="btn-main mb10 mt20" href="sucursales.php">Sucursales</a>
                                             </div>
                                         </div>
                                     </div>

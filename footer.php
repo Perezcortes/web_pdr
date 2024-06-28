@@ -102,7 +102,7 @@
                 <div class="row">
 
                     <div class="col-lg-4">
-                        <a class="btn-main mb10 mt20" href="https://formulario.franquicias.polizaderentas.com/">Inicia tu proceso</a>
+                        <a class="btn-main mb10 mt20" href="sucursales.php">Sucursales</a>
                         <a class="btn-main mb10" href="poliza_juridica.php">Sistema Polizas
                         </a>
                     </div>

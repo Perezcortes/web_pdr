@@ -43,7 +43,7 @@
                                                 <div class="subtitle s2 wow fadeInUp mb-3">Nuestros Servicios</div>
                                                 <h2 class="slider-title">Póliza jurídica
                                                 </h2>
-                                                <a class="btn-main mb10 mt20" href="https://formulario.franquicias.polizaderentas.com/">Inicia tu proceso</a>
+                                                <a class="btn-main mb10 mt20" href="sucursales.php">Sucursales</a>
                                             </div>
                                         </div>
                                     </div>
@@ -77,7 +77,7 @@
                         <h2 class="wow fadeInUp mb20" data-wow-delay=".2s">Protección Jurídica en Arrendamiento Inmobiliario</h2>
                         <p>¡Si deseas rentar tu inmueble, necesitas a Póliza de Rentas! Encontrar al inquilino ideal, un buen contrato y abstenerte de problemas jurídicos relacionados con las rentas es complicado. Por ello, nosotros nos encargamos de protegerte a tí como propietario y a tu inmueble.</p>
                         <p>Más de 10 años de experiencia en servicios y en el mercado inmobiliario nos respaldan, teniendo presencia a nivel nacional, y ofreciendo a nuestros clientes una experiencia de confianza y calidad en el servicio, con la única finalidad de proteger su patrimonio en todo momento.</p>
-                        <a class="btn-main mb10 mt20" href="https://formulario.franquicias.polizaderentas.com/">Inicia tu proceso</a>
+                        <a class="btn-main mb10 mt20" href="sucursales.php">Sucursales</a>
                         <div class="spacer-single"></div>
                     </div>
 
@@ -106,7 +106,7 @@
                             </ul>
                             <p><em><b>Opción de pago a meses sin intereses*.</b></em></p>
                             <p><em>*Aplica comisión bancaria</em></p>
-                            <a class="btn-main mb10 mt20" href="https://formulario.franquicias.polizaderentas.com/">Inicia tu proceso</a>
+                            <a class="btn-main mb10 mt20" href="sucursales.php">Sucursales</a>
                             <a class="btn-main mb10 mt20" href="sucursales.php">Ubica tu sucursal</a>
                         </div>
                     </div>

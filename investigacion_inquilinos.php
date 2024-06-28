@@ -46,7 +46,7 @@
                                                 <!-- <p class="fs-4 wow fadeInRight">
                                                     Nosotros te ayudamos a crear una investigación de inquilinos. Este acuerdo es firmado ante un mediar certificado con fé pública y se inscribe en el Tribunal Superior de Justicia Alternativa.
                                                 </p> -->
-                                                <a class="btn-main mb10 mt20" href="https://formulario.franquicias.polizaderentas.com/">Inicia tu proceso</a>
+                                                <a class="btn-main mb10 mt20" href="sucursales.php">Sucursales</a>
                                             </div>
                                         </div>
                                     </div>
@@ -88,7 +88,7 @@
                             <li><h4>Buró de Incidencias Legales</h4>Consultamos al inquilino en más de 80 bases de datos nacionales e internacionales. Saber si cuenta con juicios mercantiles, de arrendamiento, o de cualquier otro tipo de problema legal es fundamental para tomar una correcta decisión sobre la persona a la que se le dará posesión del patrimonio de nuestros clientes.</li>
                         </ol>
                         <h3 class="wow fadeInUp mb20" data-wow-delay=".2s">¡Saber en manos de quién estás dejando tu patrimonio es sumamente importante; conoce bien a tu inquilino gracias a Póliza de Rentas!</h3>
-                        <a class="btn-main mb10 mt20" href="https://formulario.franquicias.polizaderentas.com/">Inicia tu proceso</a>
+                        <a class="btn-main mb10 mt20" href="sucursales.php">Sucursales</a>
                         <div class="spacer-single"></div>
                     </div>
 

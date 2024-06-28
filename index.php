@@ -70,7 +70,7 @@
                                                         <br>
                                                         ¡Encuentra tu sucursal más cercana y haz de tus rentas un negocio tranquilo!
                                                     </p>
-                                                    <a class="btn-main mb10" href="sucursales.php">Ubica tu sucursa</a>
+                                                    <a class="btn-main mb10" href="sucursales.php">Ubica tu sucursal</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -91,7 +91,7 @@
                                                     <p class="fs-4 wow fadeInRight">
                                                         Se líder en protección jurídico inmobiliaria en tu Ciudad, genera ingresos con un negocio probado y exitoso en todo México
                                                     </p>
-                                                    <a class="btn-main mb10" href="https://formulario.franquicias.polizaderentas.com/">Inicia tu proceso</a>
+                                                    <a class="btn-main mb10" href="sucursales.php">Sucursales</a>
                                                     <a class="btn-line mb10" href="franquicias.php#conoce">Conoce más</a>
                                                 </div>
                                             </div>
@@ -183,8 +183,8 @@
 
                         <div class="col-lg-3 col-md-6 mb-sm-20 position-relative">
                             <div class="de_count wow fadeInUp">
-                                <h3><span class="timer" data-to="4" data-speed="3000"></span> - <span class="timer" data-to="2" data-speed="3000"></span></h3>
-                                <h4>Años sin juicio</h4>
+                                <h3><span class="timer" data-to="0" data-speed="3000"></span> . <span class="timer" data-to="015" data-speed="3000"></span></h3>
+                                <h4>Incidencia de juicios</h4>
                             </div>
                         </div>
 
@@ -229,7 +229,7 @@
 
 
                     <div class="col-lg-12 d-flex justify-content-center">
-                        <a class="btn-main mb10 mt20" href="https://formulario.franquicias.polizaderentas.com/">Inicia tu proceso</a>
+                        <a class="btn-main mb10 mt20" href="sucursales.php">Sucursales</a>
                     </div>
                 </div>
             </section>
