@@ -46,7 +46,7 @@
                                                     <p class="fs-4 wow fadeInRight">
                                                         ¡Prevenir problemas, preveer riesgos y proteger a nuestros clientes! Descubre cómo convertimos la <b>seguridad de tus rentas</b> en una experiencia excepcional para ti.
                                                     </p>
-                                                    <a class="btn-main mb10 mt20" href="servicios.php">Nuestras Coberturas</a>
+                                                    <a class="btn-main mb10 mt20" href="poliza_juridica.php">Conoce más</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -399,7 +399,7 @@
                                     </div>
 
                                     <div class="col-lg-6">
-                                        <iframe width="100%" class="wow fadeInUp rounded-4 my-4" height="300" src="https://www.youtube.com/embed/Ckos_FerhOc?si=YJSheoxMIaFaBdkG" title="YouTube video player" frameborder="0" style="border-radius:16px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                                        <iframe width="100%" class="wow fadeInUp rounded-4 my-4" height="300" src="https://www.youtube.com/embed/ZuDu8hxrbbU?si=LZfZGkvi29-GUjEh" title="YouTube video player" frameborder="0" style="border-radius:16px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                                     </div>
                                 </div>
                             </div>

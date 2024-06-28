@@ -27,7 +27,7 @@
                                     <li><a style="color: white;" href="poliza_juridica.php">Póliza de Protección Jurídica</a></li>
                                     <li><a style="color: white;" href="convenio_transaccion.php">Convenio de transacción</a></li>
                                     <li><a style="color: white;" href="convenio_prevencion.php">Convenio de Prevención de Conflictos</a></li>
-                                    <li><a style="color: white;" href="poliza_juridica.php">Firma Electrónica</a></li>
+                                    <li><a style="color: white;" href="firma_electronica.php">Firma Electrónica</a></li>
                                     <!-- <li><a style="color: white;" href="poliza_juridica.php">Póliza Jurídica</a></li>
                                     <li><a style="color: white;" href="convenio_transaccion.php">Convenio de Transacción</a></li> -->
                                 </ul>
