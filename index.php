@@ -268,12 +268,12 @@
                             <h2 class="wow fadeInUp" data-wow-delay=".2s">PREGUNTAS <br> FRECUENTES</h2>
                             <div class="contenedor-preguntas">
                                 <details>
-                                    <summary class="wow fadeInUp"><strong>¿Qué es una póliza Jurídica?</strong></summary><br>
+                                    <summary class="wow fadeInUp"><strong>¿Qué es una Póliza Jurídica?</strong></summary><br>
 
                                     Es un contrato de prestación de servicios jurídicos que te protegerá durante todo el periodo de arrendamiento.
                                 </details>
                                 <details>
-                                    <summary class="wow fadeInUp"><strong>¿Porqué es importante contratar <br> una Póliza Jurídica?</strong></summary><br>
+                                    <summary class="wow fadeInUp"><strong>¿Por qué es importante contratar <br> una Póliza Jurídica?</strong></summary><br>
 
                                     Es importante ya que contarás con todo el respaldo jurídico de abogados especializados en materia inmobiliaria para ayudarte a proteger tu inmueble y prevenir o solucionar cualquier conflicto con tu futuro inquilino.
                                 </details>
