@@ -111,19 +111,19 @@
                                     <p class="color-dor">12. Firma y Fecha:</p>
                                     Espacio para las firmas de ambas partes, indicando su acuerdo con los términos establecidos en el contrato. Además, se debe incluir la fecha de firma.
                                     <br><br>
-                                    Por último, concreta tus transacciones de arrendamiento con la mayor protección legal, contrata una póliza y cuida el bienestar del propietario, inquilino e inmueble durante la vigencia de su contrato de arrendamiento. Conoce más sobre nuestras coberturas en <a href="index.php" style="color: rgba(187,161,85);">www.polizaderentas.com</a> 
+                                    Por último, concreta tus transacciones de arrendamiento con la mayor protección legal, contrata una póliza y cuida el bienestar del propietario, inquilino e inmueble durante la vigencia de su contrato de arrendamiento. Conoce más sobre nuestras coberturas en <a href="index.php" style="color: rgba(187,161,85);">www.polizaderentas.com</a>
                                     </p>
                                     <hr>
                                     <div class="row">
                                         <div class="row col-lg-6 col-md-6 col-sm-12">
                                             <div class="col-lg-4 col-md-6 col-sm-6"><img src="images/protege.jpg" alt="" class="img-fluid"></div>
-                                            <div class="col-lg-8 col-md-6 col-sm-6"><a href="protege.php" style="color: black;">
+                                            <div class="col-lg-8 col-md-6 col-sm-6"><a href="protege.php" class="articulos">
                                                     <p>Protege tu Inversión: Estafas Comunes en el Arrendamiento Inmobiliario y Cómo Resguardarte con Pólizas Jurídicas de Arrendamiento</p>
                                                 </a></div>
                                         </div>
                                         <div class="row col-lg-6 col-md-6 col-sm-12">
                                             <div class="col-lg-4 col-md-6 col-sm-6"><img src="images/arrendamiento.jpg" alt="" class="img-fluid"></div>
-                                            <div class="col-lg-8 col-md-6 col-sm-6"><a href="arrendamiento.php" style="color: black;">
+                                            <div class="col-lg-8 col-md-6 col-sm-6"><a href="arrendamiento.php" class="articulos">
                                                     <p>Arrendamiento Inmobiliario en México: Navegando con Éxito la Ley de Extinción de Dominio</p>
                                                 </a></div>
                                         </div>
@@ -132,21 +132,21 @@
                                 </div>
 
                                 <div class="col-lg-4 col-md-6">
-                                    <div class="field-set p-4 px-4" style="border: 1px solid #DDDDDD;">
+                                    <!-- <div class="field-set p-4 px-4" style="border: 1px solid #DDDDDD;">
                                         <form class="d-flex">
                                             <input class="form-control me-2" type="search" placeholder="Search keywords" aria-label="Search">
                                             <button class="btn btn-outline-warning" type="submit"><i class="fa fa-search"></i></button>
                                         </form>
                                     </div>
 
-                                    <br><br>
+                                    <br><br> -->
 
                                     <div class="bg-dark py-2 ps-4">
                                         <h3 style="color: white;">Artículos recientes</h3>
                                     </div>
                                     <div class="py-2 ps-4" style="border: 1px solid #DDDDDD;">
                                         <div class="row col-lg-12 col-md-12 col-sm-12">
-                                            <div class="col-lg-4 col-md-6 col-sm-6"><img src="images/art-1.png" alt="" class="img-fluid"></div>
+                                            <!-- <div class="col-lg-4 col-md-6 col-sm-6"><img src="images/art-1.png" alt="" class="img-fluid"></div>
                                             <div class="col-lg-8 col-md-6 col-sm-6">
                                                 <a href="" style="color: black;">
                                                     <p>Innovación y Profesionalización: Éxito del Primer Roadshow Inmobiliario en Chihuahua</p>
@@ -170,6 +170,32 @@
                                                 <a href="" style="color: black;">
                                                     <p>
                                                         Talentos Estratégicos para Proteger tus Arrendamientos-La Sólida Alianza entre Póliza de Rentas y Jurista</p>
+                                                </a>
+                                                <span>Póliza De Rentas - 11 Marzo, 2024</span>
+                                            </div> -->
+
+                                            <div class="col-lg-4 col-md-6 col-sm-6"><img src="images/arrendamiento.jpg" alt="" class="img-fluid"></div>
+                                            <div class="col-lg-8 col-md-6 col-sm-6">
+                                                <a href="arrendamiento.php" class="articulos">
+                                                    <p>Arrendamiento Inmobiliario en México: Navegando con Éxito la Ley de Extinción de Dominio</p>
+                                                </a>
+                                                <span>Póliza De Rentas - 6 Junio, 2024</span>
+                                            </div>
+                                            <hr>
+
+                                            <div class="col-lg-4 col-md-6 col-sm-6"><img src="images/protege.jpg" alt="" class="img-fluid"></div>
+                                            <div class="col-lg-8 col-md-6 col-sm-6">
+                                                <a href="protege.php" class="articulos">
+                                                    <p>Protege tu Inversión: Estafas Comunes en el Arrendamiento Inmobiliario y Cómo Resguardarte con Pólizas Jurídicas de Arrendamiento</p>
+                                                </a>
+                                                <span>Póliza De Rentas - 19 Abril, 2024</span>
+                                            </div>
+                                            <hr>
+
+                                            <div class="col-lg-4 col-md-6 col-sm-6"><img src="images/contrato.jpg" alt="" class="img-fluid"></div>
+                                            <div class="col-lg-8 col-md-6 col-sm-6">
+                                                <a href="contrato-exclusividad.php" class="articulos">
+                                                    <p>Contrato de exclusividad inmobiliaria-¿Qué debe incluir?¿Cuáles son las obligaciones y derechos del asesor?</p>
                                                 </a>
                                                 <span>Póliza De Rentas - 11 Marzo, 2024</span>
                                             </div>
@@ -219,7 +245,7 @@
                                         </div>
                                     </div>
 
-                                    <br><br>
+                                    <!-- <br><br>
 
                                     <div class="bg-dark py-2 ps-4">
                                         <h3 style="color: white;">Etiquetas</h3>
@@ -240,9 +266,9 @@
                                                 <a class="btn-line mb10" style="border: 1px solid #DDDDDD;" href="franquicias.php#conoce">Seguridad</a>
                                             </div>
                                         </div>
-                                    </div>
+                                    </div> -->
 
-                                    <br><br>
+                                    <!-- <br><br>
 
                                     <div class="bg-dark py-2 ps-4">
                                         <h3 style="color: white;">¿Como encontrarnos?</h3>
@@ -262,13 +288,11 @@
 
                                             <div class="col-lg-12 col-md-6 col-sm-6">
                                                 <a href="https://www.facebook.com/polizaderentas" target="_blank"><i class="fa-brands fa-facebook-f"></i></a>
-                                                <!-- <a href="#"><i class="fa-brands fa-instagram"></i></a> -->
                                                 <a href="https://www.youtube.com/channel/UCSx4fSPOdmPcksm2639Mmdg/featured" target="_blank"><i class="fa-brands fa-youtube"></i></a>
                                                 <a href="https://www.linkedin.com/company/42311672/admin/" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
-                                                <!-- <a href="#"><i class="fa-brands fa-whatsapp"></i></a> -->
                                             </div>
                                         </div>
-                                    </div>
+                                    </div> -->
                                 </div>
                             </div>
 

@@ -20,6 +20,15 @@
     /* Transición suave del cambio de color */
 }
 
+.estado-activo {
+    fill: rgb(163, 135, 78) !important;
+    cursor: pointer;
+}
+
+.estado-activo:hover {
+    fill: rgb(211, 185, 134) !important;
+}
+
 #MX-BCN,
 #MX-BCS,
 #MX-CHH,
@@ -40,6 +49,7 @@
 #MX-TAM,
 #MX-MIC,
 #MX-NAY,
+#MX-CHP,
 #MX-YUC {
     fill: rgb(163, 135, 78) !important;
     cursor: pointer;
@@ -65,6 +75,7 @@
 #MX-TAM:hover,
 #MX-MIC:hover,
 #MX-NAY:hover,
+#MX-CHP:hover,
 #MX-YUC:hover {
     fill: rgb(211, 185, 134) !important;
 }
@@ -165,6 +176,14 @@ details[open] summary::before {
 	content: "-";
     -webkit-animation: rotate-emoji 0.6s ease-in-out both;
     animation: rotate-emoji 0.6s ease-in-out both;
+    color: rgba(187,161,85) !important;
+}
+
+.articulos {
+    color: rgb(101, 85, 36) !important;
+}
+
+.articulos:hover{
     color: rgba(187,161,85) !important;
 }
 
