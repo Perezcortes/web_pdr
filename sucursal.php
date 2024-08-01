@@ -179,9 +179,10 @@
                         userDiv.innerHTML = ` <img src="images/storage/default.jpg" alt="user" class="img-fluid">
                     <p>${user.name}</p>`;
                     } else {
-                        userDiv.innerHTML = ` <img src="images${user.img_user}" alt="user" class="img-fluid">
+                        userDiv.innerHTML = ` <img src="https://app.polizaderentas.com/${user.img_user}" alt="user" class="img-fluid">
                     <p>${user.name}</p>`;
                     }
+
 
                     // Agregar el div al contenedor de usuarios
                     usersDiv.appendChild(userDiv);
