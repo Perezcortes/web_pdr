@@ -1,3 +1,30 @@
+<script>
+    document.addEventListener('DOMContentLoaded', () => {
+        // Función para obtener los datos de la API y actualizar el SVG
+        fetch('https://app.polizaderentas.com/api/offices')
+            .then(response => response.json())
+            .then(data => {
+                // Crear un conjunto con los nombres de los estados de la API
+                const estadosAPI = new Set();
+                data.forEach(office => {
+                    const state = office.estado.toLowerCase().replace(/ /g, '-');
+                    estadosAPI.add(state);
+                });
+
+                // Recorrer todos los elementos path del SVG
+                document.querySelectorAll('#mexico-map path').forEach(path => {
+                    const estado = path.getAttribute('data-estado');
+                    if (estadosAPI.has(estado)) {
+                        // Si el estado existe en la API, agregar la clase 'estado-activo'
+                        path.classList.add('estado-activo');
+                    }
+                });
+            })
+            .catch(error => {
+                console.error('Error al obtener los datos de la API:', error);
+            });
+    });
+</script>
 <svg id="mexico-map" xmlns:mapsvg="http://mapsvg.com" viewBox="00 00 800 1100" class="d-block d-sm-none" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" mapsvg:geoViewBox="-118.369112 32.716750 -86.725536 14.531518" width="792.41846" height="497.54324">
 
     <path d="m 390.52786,309.79244 -2.34,-2.26 -0.07,-1.21 1.24,-2.87 3.33,-4.59 0.93,-3.24 1.07,-0.73 1.79,-0.38 3.47,-1.97 1.21,-0.92 0.39,-1.26 0.73,-0.17 0.77,1.39 1.33,1.34 4.44,2.63 0.59,2.44 1.14,2.04 0,0 0.26,0.59 -0.24,1.6 1.96,2.14 -4.28,1.97 -2.55,3.55 -0.72,0.5 -3.02,1.04 -1.26,0.06 -2.17,-1.02 -1.74,-1.41 -4.21,-0.38 z" title="Aguascalientes" id="MX-AGU" data-estado="aguascalientes" />

@@ -29,57 +29,6 @@
     fill: rgb(211, 185, 134) !important;
 }
 
-#MX-BCN,
-#MX-BCS,
-#MX-CHH,
-#MX-SIN,
-#MX-DUR,
-#MX-NEL,
-#MX-SLP,
-#MX-GUA,
-#MX-QUE,
-#MX-VER,
-#MX-PUE,
-#MX-DIF,
-#MX-MEX,
-#MX-MOR,
-#MX-GRO,
-#MX-TAB,
-#MX-ROO,
-#MX-TAM,
-#MX-MIC,
-#MX-NAY,
-#MX-CHP,
-#MX-YUC {
-    fill: rgb(163, 135, 78) !important;
-    cursor: pointer;
-}
-
-#MX-BCN:hover,
-#MX-BCS:hover,
-#MX-CHH:hover,
-#MX-SIN:hover,
-#MX-DUR:hover,
-#MX-NEL:hover,
-#MX-SLP:hover,
-#MX-GUA:hover,
-#MX-QUE:hover,
-#MX-VER:hover,
-#MX-PUE:hover,
-#MX-DIF:hover,
-#MX-MEX:hover,
-#MX-MOR:hover,
-#MX-GRO:hover,
-#MX-TAB:hover,
-#MX-ROO:hover,
-#MX-TAM:hover,
-#MX-MIC:hover,
-#MX-NAY:hover,
-#MX-CHP:hover,
-#MX-YUC:hover {
-    fill: rgb(211, 185, 134) !important;
-}
-
 .font-20 {
     font-size: 20px !important;
     /*letter-spacing: -5px;*/
