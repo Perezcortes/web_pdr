@@ -108,8 +108,8 @@
                     </div>
                     <div class="col-lg-4">
                         <a type="button" class="subtitle s2 wow fadeInUp mb-3" id="mostrarEstados">Ver todas las sucursales</a>
-                        <a type="button" class="subtitle s2 wow fadeInUp mb-3" id="filtrarEstado">Filtrar por estado</a>
-                        <select class="form-select" aria-label="Default select example" id="filtroEstados" style="display: none;">
+                        <a type="button" class="subtitle s2 wow fadeInUp mb-3" id="filtrarEstado" style="display: none;">Filtrar por estado</a>
+                        <select class="form-select" aria-label="Default select example" id="filtroEstados" style="display: block;">
                             <option value="" selected>Selecciona un estado...</option>
                             <option value="todos">Mostrar todos</option>
                         </select>
@@ -130,18 +130,23 @@
                         .then(response => response.json())
                         .then(data => {
                             // Función para generar las opciones del select
-                            const uniqueStates = [];
+                            const uniqueStatesSet = new Set();
                             const selectElement = document.getElementById('filtroEstados');
 
+                            // Recopilar estados únicos
                             data.forEach(office => {
-                                const state = office.estado.toLowerCase().replace(/ /g, '-');
-                                if (!uniqueStates.includes(state)) {
-                                    uniqueStates.push(state);
-                                    const option = document.createElement('option');
-                                    option.value = state;
-                                    option.textContent = office.estado;
-                                    selectElement.appendChild(option);
-                                }
+                                uniqueStatesSet.add(office.estado);
+                            });
+
+                            // Convertir el Set a un array y ordenar los estados alfabéticamente
+                            const uniqueStates = Array.from(uniqueStatesSet).sort((a, b) => a.localeCompare(b));
+
+                            // Crear y agregar las opciones al select
+                            uniqueStates.forEach(state => {
+                                const option = document.createElement('option');
+                                option.value = state.toLowerCase().replace(/ /g, '-');
+                                option.textContent = state;
+                                selectElement.appendChild(option);
                             });
 
                             // Función para generar las tarjetas de las sucursales
