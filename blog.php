@@ -147,14 +147,12 @@
                                 </div>
 
                                 <div class="col-lg-4 col-md-6">
-                                    <div class="field-set p-4 px-4" style="border: 1px solid #DDDDDD;">
+                                    <!-- <div class="field-set p-4 px-4" style="border: 1px solid #DDDDDD;">
                                         <form class="d-flex">
                                             <input class="form-control me-2" type="search" placeholder="Search keywords" aria-label="Search">
                                             <button class="btn btn-outline-warning" type="submit"><i class="fa fa-search"></i></button>
                                         </form>
-                                    </div>
-
-                                    <br><br>
+                                    </div> -->
 
                                     <div class="bg-dark py-2 ps-4">
                                         <h3 style="color: white;">Artículos recientes</h3>
@@ -234,7 +232,7 @@
                                         </div>
                                     </div>
 
-                                    <br><br>
+                                    <!-- <br><br>
 
                                     <div class="bg-dark py-2 ps-4">
                                         <h3 style="color: white;">Etiquetas</h3>
@@ -255,9 +253,9 @@
                                                 <a class="btn-line mb10" style="border: 1px solid #DDDDDD;" href="franquicias.php#conoce">Seguridad</a>
                                             </div>
                                         </div>
-                                    </div>
+                                    </div> -->
 
-                                    <br><br>
+                                    <!-- <br><br>
 
                                     <div class="bg-dark py-2 ps-4">
                                         <h3 style="color: white;">¿Como encontrarnos?</h3>
@@ -277,13 +275,11 @@
 
                                             <div class="col-lg-12 col-md-6 col-sm-6">
                                                 <a href="https://www.facebook.com/polizaderentas" target="_blank"><i class="fa-brands fa-facebook-f"></i></a>
-                                                <!-- <a href="#"><i class="fa-brands fa-instagram"></i></a> -->
                                                 <a href="https://www.youtube.com/channel/UCSx4fSPOdmPcksm2639Mmdg/featured" target="_blank"><i class="fa-brands fa-youtube"></i></a>
                                                 <a href="https://www.linkedin.com/company/42311672/admin/" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
-                                                <!-- <a href="#"><i class="fa-brands fa-whatsapp"></i></a> -->
                                             </div>
                                         </div>
-                                    </div>
+                                    </div> -->
                                 </div>
                             </div>
 
