@@ -217,7 +217,7 @@
 
                                 <br><br>
 
-                                <div class="bg-dark py-2 ps-4">
+                                <!-- <div class="bg-dark py-2 ps-4">
                                     <h3 style="color: white;">Blog Categorías</h3>
                                 </div>
                                 <div class="py-2 ps-4" style="border: 1px solid #DDDDDD;">
@@ -256,7 +256,7 @@
                                             </a>
                                         </div>
                                     </div>
-                                </div>
+                                </div> -->
 
                                 <!-- <br><br>
 
