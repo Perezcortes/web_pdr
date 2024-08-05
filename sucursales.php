@@ -253,7 +253,7 @@
                                     <div class="d-text">
                                         <h4>Arrendamiento Inmobiliario en México: Navegando con Éxito la Ley de
                                             Extinción de Dominio</h4>
-                                        <a class="btn-main btn-fullwidth btn-white" href="">Read
+                                        <a class="btn-main btn-fullwidth btn-white" href="arrendamiento.php">Read
                                             Story</a>
                                     </div>
                                 </div>
@@ -269,7 +269,7 @@
                                     <div class="d-text">
                                         <h4>Protege tu Inversión: Estafas Comunes en el Arrendamiento Inmobiliario y
                                             Cómo Resguardarte con Pólizas Jurídicas de Arrendamiento</h4>
-                                        <a class="btn-main btn-fullwidth btn-white" href="">Read
+                                        <a class="btn-main btn-fullwidth btn-white" href="protege.php">Read
                                             Story</a>
                                     </div>
                                 </div>
@@ -285,7 +285,7 @@
                                     <div class="d-text">
                                         <h4>Contrato de exclusividad inmobiliaria-¿Qué debe incluir?¿Cuáles son las
                                             obligaciones y derechos del asesor?</h4>
-                                        <a class="btn-main btn-fullwidth btn-white" href="">Read
+                                        <a class="btn-main btn-fullwidth btn-white" href="contrato-exclusividad.php">Read
                                             Story</a>
                                     </div>
                                 </div>
@@ -293,7 +293,7 @@
                             </div>
                         </div>
                         <div class="col-lg-12 d-flex justify-content-center">
-                            <a class="btn-main mt-5" href="">Ver más artículos</a>
+                            <a class="btn-main mt-5" href="blog.php">Ver más artículos</a>
                         </div>
                     </div>
                 </div>
