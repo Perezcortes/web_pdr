@@ -123,25 +123,25 @@
                     <div class="col-lg-12">
                         <div class="row gx-4">
                             <div class="col-lg-8 col-md-6 mb10">
-                                <img src="images/arrendamiento.jpg" alt="" width="150%" class="img-fluid">
+                                <a href="arrendamiento.php"><img src="images/arrendamiento.jpg" alt="" width="150%" class="img-fluid"></a>
 
-                                <h3 class="wow fadeInUp mt-5 mb20 color-dor" data-wow-delay=".2s">Arrendamiento Inmobiliario en México: Navegando con Éxito la Ley de Extinción de Dominio</h3>
+                                <h3 class="wow fadeInUp mt-5 mb20 enlace-blog" data-wow-delay=".2s"><a href="arrendamiento.php" style="color: rgba(187,161,85);">Arrendamiento Inmobiliario en México: Navegando con Éxito la Ley de Extinción de Dominio</a></h3>
                                 <p class="wow fadeInUp">Arrendamiento Seguro: Cómo Evitar Riesgos Legales con Contratos Sólidos y la Ley de Extinción de Dominio El mercado inmobiliario es un sector en constante evolución, donde el arrendamiento de propiedades juega un papel crucial. Sin embargo, como cualquier negocio, el arrendamiento conlleva riesgos que los propietarios e inquilinos deben conocer y abordar adecuadamente. En este […]</p>
                                 <a href="arrendamiento.php" style="color: rgba(187,161,85);"><span>LEER MAS</span></a>
 
                                 <br><br>
 
-                                <img src="images/protege.jpg" alt="" width="150%" class="img-fluid">
+                                <a href="protege.php"><img src="images/protege.jpg" alt="" width="150%" class="img-fluid"></a>
 
-                                <h3 class="wow fadeInUp mt-5 mb20 color-dor" data-wow-delay=".2s">Protege tu Inversión: Estafas Comunes en el Arrendamiento Inmobiliario y Cómo Resguardarte con Pólizas Jurídicas de Arrendamiento</h3>
+                                <h3 class="wow fadeInUp mt-5 mb20 color-dor" data-wow-delay=".2s"><a href="protege.php" style="color: rgba(187,161,85);">Protege tu Inversión: Estafas Comunes en el Arrendamiento Inmobiliario y Cómo Resguardarte con Pólizas Jurídicas de Arrendamiento</a></h3>
                                 <p class="wow fadeInUp">Cómo Evitar Estafas en el Arrendamiento Inmobiliario: Consejos y Pólizas Jurídicas En el mundo del arrendamiento inmobiliario, la búsqueda de tu inmueble ideal puede ser tanto emocionante como desafiante. Sin embargo, es crucial mantenerse alerta ante posibles estafas que podrían afectar negativamente tu experiencia. Las estafas en el ámbito inmobiliario son una realidad que puede […]</p>
                                 <a href="protege.php" style="color: rgba(187,161,85);"><span>LEER MAS</span></a>
 
                                 <br><br>
 
-                                <img src="images/contrato.jpg" alt="" width="150%" class="img-fluid">
+                                <a href="contrato-exclusividad.php"><img src="images/contrato.jpg" alt="" width="150%" class="img-fluid"></a>
 
-                                <h3 class="wow fadeInUp mt-5 mb20 color-dor" data-wow-delay=".2s">Contrato de exclusividad inmobiliaria-¿Qué debe incluir?¿Cuáles son las obligaciones y derechos del asesor?</h3>
+                                <h3 class="wow fadeInUp mt-5 mb20 color-dor" data-wow-delay=".2s"><a href="contrato-exclusividad.php" style="color: rgba(187,161,85);">Contrato de exclusividad inmobiliaria-¿Qué debe incluir?¿Cuáles son las obligaciones y derechos del asesor?</a></h3>
                                 <p class="wow fadeInUp">CONTRATO DE EXCLUSIVIDAD EN ARRENDAMIENTO INMOBILIARIO Como asesores inmobiliarios, la exclusividad no solo se limita a la comercialización de bienes inmuebles, sino que también juega un papel crucial en los servicios que un asesor inmobiliario puede ofrecer a sus clientes de manera exclusiva para la gestión del arrendamiento de sus bienes, esto fortalece las relaciones […]</p>
                                 <a href="contrato-exclusividad.php" style="color: rgba(187,161,85);"><span>LEER MAS</span></a>
                             </div>
