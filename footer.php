@@ -115,7 +115,9 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12 d-flex justify-content-center">
-                    2024 Póliza de Rentas |<a href="https://polizaderentas.com/aviso-de-privacidad/" class="mx-1">Aviso de privacidad</a>
+                    &copy; <script>
+                        document.write(new Date().getFullYear())
+                    </script> Póliza de rentas. Todos los derechos reservados. | <a href="https://polizaderentas.com/politica_privacidad.php" class="mx-1">Aviso de privacidad</a>| <a href="https://polizaderentas.com/terminos_y_condiciones.php" class="mx-1">Términos y condiciones</a>
                 </div>
             </div>
         </div>

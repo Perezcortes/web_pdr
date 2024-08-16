@@ -1,0 +1,16 @@
+# Habilitar Rewrite Engine
+RewriteEngine On
+
+# Redirección de HTTP a HTTPS
+RewriteCond %{HTTPS} !=on
+RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# Redirigir a 404 si el archivo o directorio no existe
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ ./404.php [L]
+
+# Prevenir listados de directorios
+Options -Indexes
+
+ErrorDocument 404 ./404.php
