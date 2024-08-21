@@ -2,8 +2,8 @@
 RewriteEngine On
 
 # Redirección de HTTP a HTTPS
-RewriteCond %{HTTPS} !=on
-RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+# RewriteCond %{HTTPS} !=on
+# RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 
 # Redirigir a 404 si el archivo o directorio no existe
 RewriteCond %{REQUEST_FILENAME} !-f

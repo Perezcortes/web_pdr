@@ -117,7 +117,7 @@
                 <div class="col-md-12 d-flex justify-content-center">
                     &copy; <script>
                         document.write(new Date().getFullYear())
-                    </script> Póliza de rentas. Todos los derechos reservados. | <a href="https://polizaderentas.com/politica_privacidad.php" class="mx-1">Aviso de privacidad</a>| <a href="https://polizaderentas.com/terminos_y_condiciones.php" class="mx-1">Términos y condiciones</a>
+                    </script> Póliza de rentas. Todos los derechos reservados. | <a href="https://polizaderentas.com/aviso_privacidad.php" class="mx-1">Aviso de privacidad</a>| <a href="https://polizaderentas.com/terminos_y_condiciones.php" class="mx-1">Términos y condiciones</a>
                 </div>
             </div>
         </div>
