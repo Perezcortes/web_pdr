@@ -15,7 +15,7 @@
                     <div class="social-icons">
                         <a href="https://www.facebook.com/polizaderentas" target="_blank"><i class="fa-brands fa-facebook-f"></i></a>
                         <!-- <a href="#"><i class="fa-brands fa-instagram"></i></a> -->
-                        <a href="https://www.youtube.com/channel/UCSx4fSPOdmPcksm2639Mmdg/featured" target="_blank"><i class="fa-brands fa-youtube"></i></a>
+                        <a href="https://www.youtube.com/@polizaderentas/featured" target="_blank"><i class="fa-brands fa-youtube"></i></a>
                         <a href="https://www.linkedin.com/company/42311672/admin/" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
                         <!-- <a href="#"><i class="fa-brands fa-whatsapp"></i></a> -->
                     </div>
