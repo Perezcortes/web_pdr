@@ -122,9 +122,9 @@
                                                 </a></div>
                                         </div>
                                         <div class="row col-lg-6 col-md-6 col-sm-12">
-                                            <div class="col-lg-4 col-md-6 col-sm-6"><img src="images/arrendamiento.jpg" alt="" class="img-fluid"></div>
-                                            <div class="col-lg-8 col-md-6 col-sm-6"><a href="arrendamiento.php" class="articulos">
-                                                    <p>Arrendamiento Inmobiliario en México: Navegando con Éxito la Ley de Extinción de Dominio</p>
+                                            <div class="col-lg-4 col-md-6 col-sm-6"><img src="images/limitaciones.jpeg" alt="" class="img-fluid"></div>
+                                            <div class="col-lg-8 col-md-6 col-sm-6"><a href="limitaciones.php" class="articulos">
+                                                    <p>Limitaciones al Aumento de Renta Mensual: Impacto de la Reforma al Código Civil en los Contratos de Arrendamiento para la Ciudad de México"</p>
                                                 </a></div>
                                         </div>
 
@@ -173,6 +173,16 @@
                                                 </a>
                                                 <span>Póliza De Rentas - 11 Marzo, 2024</span>
                                             </div> -->
+
+                                            <div class="col-lg-4 col-md-6 col-sm-6"><img src="images/limitaciones.jpeg" alt="" class="img-fluid"></div>
+                                            <div class="col-lg-8 col-md-6 col-sm-6">
+                                                <a href="limitaciones.php" class="articulos">
+                                                    <p>
+                                                        Limitaciones al Aumento de Renta Mensual: Impacto de la Reforma al Código Civil en los Contratos de Arrendamiento para la Ciudad de México"</p>
+                                                </a>
+                                                <span>Póliza De Rentas - 26 Agosto, 2024</span>
+                                            </div>
+                                            <hr>
 
                                             <div class="col-lg-4 col-md-6 col-sm-6"><img src="images/arrendamiento.jpg" alt="" class="img-fluid"></div>
                                             <div class="col-lg-8 col-md-6 col-sm-6">

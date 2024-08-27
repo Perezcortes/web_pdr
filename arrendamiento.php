@@ -73,9 +73,9 @@
                                     <hr>
                                     <div class="row">
                                         <div class="row col-lg-6 col-md-6 col-sm-12">
-                                            <div class="col-lg-4 col-md-6 col-sm-6"><img src="images/contrato.jpg" alt="" class="img-fluid"></div>
-                                            <div class="col-lg-8 col-md-6 col-sm-6"><a href="contrato-exclusividad.php" class="articulos">
-                                                    <p>Contrato de exclusividad inmobiliaria-¿Qué debe incluir?¿Cuáles son las obligaciones y derechos del asesor?</p>
+                                            <div class="col-lg-4 col-md-6 col-sm-6"><img src="images/limitaciones.jpeg" alt="" class="img-fluid"></div>
+                                            <div class="col-lg-8 col-md-6 col-sm-6"><a href="limitaciones.php" class="articulos">
+                                                    <p>Limitaciones al Aumento de Renta Mensual: Impacto de la Reforma al Código Civil en los Contratos de Arrendamiento para la Ciudad de México"</p>
                                                 </a></div>
                                         </div>
                                         <div class="row col-lg-6 col-md-6 col-sm-12">
@@ -130,7 +130,15 @@
                                                 </a>
                                                 <span>Póliza De Rentas - 11 Marzo, 2024</span>
                                             </div> -->
-
+                                            <div class="col-lg-4 col-md-6 col-sm-6"><img src="images/limitaciones.jpeg" alt="" class="img-fluid"></div>
+                                            <div class="col-lg-8 col-md-6 col-sm-6">
+                                                <a href="limitaciones.php" class="articulos">
+                                                    <p>
+                                                        Limitaciones al Aumento de Renta Mensual: Impacto de la Reforma al Código Civil en los Contratos de Arrendamiento para la Ciudad de México"</p>
+                                                </a>
+                                                <span>Póliza De Rentas - 26 Agosto, 2024</span>
+                                            </div>
+                                            <hr>
                                             <div class="col-lg-4 col-md-6 col-sm-6"><img src="images/arrendamiento.jpg" alt="" class="img-fluid"></div>
                                             <div class="col-lg-8 col-md-6 col-sm-6">
                                                 <a href="arrendamiento.php" class="articulos">

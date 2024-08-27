@@ -29,54 +29,99 @@
 
             <div id="top" class="bg-dark-1" style="height: 80px;"></div>
 
+            <!-- <div class="col-lg-8">
+                <section>
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-12 col-md-12 col-sm-12 text-center">
+                                <img src="images/arrendamiento.jpg" alt="" width="80%" class="img-fluid">
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </div> -->
+
             <section>
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-12">
                             <div class="row gx-4">
                                 <div class="col-lg-8 col-md-6 mb10">
-                                    <img src="images/protege.jpg" alt="" width="150%" class="img-fluid">
+                                    <img src="images/limitaciones.jpeg" alt="" width="150%" class="img-fluid">
 
-                                    <h3 class="wow fadeInUp mt-5 mb20 color-dor" data-wow-delay=".2s">Cómo Evitar Estafas en el Arrendamiento Inmobiliario: Consejos y Pólizas Jurídicas</h3>
-                                    <p class="wow fadeInUp">En el mundo del arrendamiento inmobiliario, la búsqueda de tu inmueble ideal puede ser tanto emocionante como desafiante. Sin embargo, es crucial mantenerse alerta ante posibles estafas que podrían afectar negativamente tu experiencia. Las estafas en el ámbito inmobiliario son una realidad que puede impactar tanto a inquilinos como a propietarios. No obstante, con la información adecuada y medios de protección, es posible prevenir situaciones desfavorables. A lo largo de este artículo, explicaremos algunas de las estafas más comunes en el arrendamiento inmobiliario y proporcionaremos consejos prácticos para resguardarte.</p>
-                                    <h3 class="wow fadeInUp mt-5 mb20 color-dor" data-wow-delay=".2s">Anuncio Falso:</h3>
-                                    <p class="wow fadeInUp">Una de las estafas más frecuentes es la creación de anuncios falsos para propiedades inexistentes o que no están disponibles para alquiler. Los estafadores copian descripciones y fotos de propiedades legítimas para atraer a inquilinos desprevenidos. Para evitar caer en esta trampa, siempre verifica la autenticidad del anuncio y, en lo posible, visita la propiedad antes de tomar cualquier decisión.
+                                    <h3 class="wow fadeInUp mt-5 mb20 color-dor" data-wow-delay=".2s">Contexto General de la Reforma</h3>
+                                    <p class="wow fadeInUp">El reciente dictamen aprobado por el Congreso de la Ciudad de México el 16 de agosto de 2024 ha generado diversas inquietudes y cuestionamientos entre propietarios e inquilinos. Las modificaciones al proyecto de decreto que reforma el Código Civil del Distrito Federal en materia de Rentas y Vivienda implican cambios significativos en la regulación de los contratos de arrendamiento, particularmente en la limitación del aumento de rentas y el establecimiento de un registro digital obligatorio de contratos.</p>
+                                    <h5 class="wow fadeInUp mt-5 mb20 color-dor" data-wow-delay=".2s">Impacto en la Negociación de Nuevos Contratos de Arrendamiento</h5>
+                                    <p class="wow fadeInUp"><b>¿Cómo impactará la reforma en la negociación de nuevos contratos de arrendamiento?</b></p>
+                                    <p class="wow fadeInUp">La reforma influirá directamente en la fijación del límite al aumento de rentas y en la redacción de nuevos contratos y en la negociación para modificar los contratos que se encuentren en curso al momento en que entre en vigor la reforma. Es esencial que tanto propietarios como arrendatarios estén al tanto de las nuevas disposiciones para evitar conflictos futuros.</p>
+                                    <h5 class="wow fadeInUp mt-5 mb20 color-dor" data-wow-delay=".2s">Impacto en la Demanda de Propiedades en Renta</h5>
+                                    <p><b>¿Cómo afectará esta reforma la demanda de propiedades en renta en la Ciudad de México?</b></p>
+                                    <p class="wow fadeInUp">Lejos de disminuir la oferta de inmuebles en arrendamiento, se anticipa que esta medida, que responde al incremento de la renta en la capital, aumentará la rentabilidad en el sector.</p>
+                                    <h5 class="wow fadeInUp mt-5 mb20 color-dor" data-wow-delay=".2s">Límite en el aumento de renta</h5>
+                                    <p><b>¿Qué implica la limitación del aumento de rentas a la inflación del año anterior?</b></p>
+                                    <p class="wow fadeInUp">El incremento de la renta nunca será mayor a la inflación reportada por el Banco de México en el año anterior. Es crucial revisar y ajustar las cláusulas del contrato de arrendamiento para cumplir con esta nueva disposición.
+                                        Por disposición legal, en la Ciudad de México el plazo mínimo forzoso de todo contrato de arrendamiento es de un año para arrendador y arrendatario, lo anterior implica que en un contrato de arrendamiento se recomienda estipular una cláusula que establezca lo siguiente:
+                                    <p style="margin-left: 40px;">“En caso de renovación de contrato, la renta mensual podrá aumentarse, pero el incremento nunca será mayor a la inflación reportada por el Banco de México en el año anterior.”</p>
+                                    Se sugiere la redacción anterior a fin de que los contratos estén apegados al texto de que se reformará del Código Civil del Distrito Federal:
+                                    <p style="margin-left: 40px;">“ARTICULO 2,448 D… El incremento de la renta nunca será mayor a la inflación reportada por el Banco de México en el año anterior, respecto de la cantidad pactada como renta mensual.”</p>
                                     </p>
-                                    <h5 class="wow fadeInUp mt-5 mb20 color-dor" data-wow-delay=".2s">¿Cómo me beneficia una póliza? </h5>
-                                    <p class="wow fadeInUp">Póliza de Rentas verifica la propiedad en renta, solicitando al propietario identificación oficial, comprobante de domicilio y título de la propiedad o documento que lo acredite, y la firma del contrato se lleva a cabo en el inmueble arrendado.
-                                        <br><br>
-                                        <img src="images/protege-1.jpg" alt="" class="img-fluid" width="70%">
+                                    <h5 class="wow fadeInUp mt-5 mb20 color-dor" data-wow-delay=".2s">Estrategias para Asesorar a los Propietarios sobre la Fijación de aumento de rentas</h5>
+                                    <p class="wow fadeInUp">Es crucial orientar a los propietarios sobre la importancia de conocer el índice de inflación anual aplicable a cada contrato, y cómo utilizar herramientas como la calculadora de inflación del INEGI.
+                                        Aunque actualmente, en el Código Civil del Distrito Federal (Ciudad de México), existe un tope que limita el aumento de rentas a no más del 10% de la renta mensual, este porcentaje no difiere significativamente del índice de inflación que plantea la reforma, por lo que es importante hacer ajustes precisos conforme a este criterio y orientar a propietarios e inquilinos a fin de que puedan negociar en estos términos sus contratos de arrendamiento.
                                     </p>
-                                    <h3 class="wow fadeInUp mt-5 mb20 color-dor" data-wow-delay=".2s">Pago por Adelantado sin Garantías:</h3>
-                                    <p class="wow fadeInUp">Algunos estafadores exigen pagos significativos por adelantado, como depósitos o el primer y último mes de alquiler, sin proporcionar garantías ni permitir una visita a la propiedad. Una vez reciben el dinero, desaparecen sin dejar rastro.</p>
+                                    <h5 class="wow fadeInUp mt-5 mb20 color-dor" data-wow-delay=".2s">Registro Digital de Contratos de Arrendamiento</h5>
+                                    <p><b>¿Cuál será el papel de los asesores inmobiliarios en el registro digital de contratos de arrendamiento?</b></p>
+                                    <p class="wow fadeInUp">El rol de los asesores inmobiliarios será fundamental en la orientación y facilitación del registro digital de contratos. Este nuevo proceso requerirá documentación adicional que será detallada una vez que se establezca la normativa específica por parte del gobierno de la Ciudad de México.
+                                        Los especialistas en arrendamiento inmobiliario, como Póliza de Rentas, jugarán un papel clave en esta orientación, ya que parte de sus servicios consiste en brindar capacitación gratuita a agentes y agencias inmobiliarias sobre la redacción de contratos y preparación para firma de estos, así como las consecuencias legales derivadas de las obligaciones y derechos de arrendadores y arrendatarios, y la atención de incidencias o incumplimientos relacionados.</p>
+                                    <p><b>Documentación Adicional Necesaria</b></p>
+                                    <p>La documentación específica se conocerá cuando se determine el mecanismo de registro, pero se espera que los agentes inmobiliarios faciliten el cumplimiento de esta nueva obligación para sus clientes.
+                                        Para Póliza de Rentas resulta necesario concientizar a las partes sobre la información y documentación necesaria para generar un contrato de arrendamiento, misma que, con independencia de la existencia del nuevo registro digital, básicamente debería ser la siguiente:</p>
+                                    <ul>
+                                        <li>Título o escritura que ampare la propiedad o posesión del inmueble o, en su caso, el documento que acredite facultades para rentar.</li>
+                                        <li>Predial al corriente del año en curso y boletas de pago por servicios de agua potable, energía y limpia pública en su caso;</li>
+                                        <li>Documentos que acrediten la identidad y personalidad de las partes contratantes;</li>
+                                        <li>Entre otros.</li>
+                                    </ul>
+                                    <p><b>¿Cómo funcionará el Registro Digital de Contratos de Arrendamiento?</b></p>
+                                    <p>El registro será obligatorio para todos los contratos de arrendamiento, tanto nuevos como en curso, y deberá realizarse en un plazo no mayor de 90 días a partir de la entrada en vigor del mecanismo de registro, que como se ha mencionado, deberá quedar establecido dentro de los 30 días siguientes a la fecha en que se publique el decreto de reforma en la Gaceta Oficial de la Ciudad de México.</p>
+                                    <p><b>¿El registro digital de contratos de arrendamiento implicará que deba formalizar mi situación fiscal como arrendador?</b></p>
+                                    <p>Las obligaciones fiscales derivadas del arrendamiento no dependen de la existencia de un registro. Sino que están ligadas a la obtención de un ingreso por la realización de cualquier actividad económica, estando obligados todos los que perciben un ingreso por arrendamiento en términos de la Ley del Impuesto Sobre la Renta, entre otras cosas a:</p>
+                                    <ul>
+                                        <li>Registrarse ante el Registro Federal de Contribuyentes;</li>
+                                        <li>Declarar los ingresos percibidos por arrendamiento;</li>
+                                        <li>Expedir comprobantes fiscales digitales por internet (CFDI) por la renta obtenida.</li>
+                                    </ul>
+                                    <p>No obstante, registrar los contratos podría alertar a las autoridades fiscales sobre posibles omisiones en la declaración de ingresos por rentas.
+                                        Como especialistas en arrendamiento inmobiliario, Póliza de Rentas recomienda que los propietarios busquen asesoría para regularizar su situación fiscal, aprovechando alternativas como el Régimen Simplificado de Confianza, un régimen muy amigable para obtener ingresos por la renta de inmuebles ya que implica el pago de impuestos a través de una tasa de aplicación directa al ingreso obtenido que va desde el 1% al 2.5%, lo cual es muy favorable para quien se dedica a esta actividad.</p>
+                                    <h5 class="wow fadeInUp mt-5 mb20 color-dor" data-wow-delay=".2s">Sanciones por Incumplimiento del Tope de Aumento de Rentas</h5>
+                                    <p class="wow fadeInUp"><b>¿Qué sanciones existen por incumplir con el nuevo tope de aumento de rentas?</b><br>
+                                        El no respetar la limitación establecida, más allá de una sanción, implicará la nulidad de cualquier aumento superior a la inflación del año anterior establecido en algún contrato de arrendamiento, y solo resultará aplicable el porcentaje máximo permitido por la reforma. Ya que se trata de una disposición legal de naturaleza prohibitiva, es decir, que no admite modificación ni renuncia por voluntad de las partes.
+                                    </p>
+                                    <h5 class="wow fadeInUp mt-5 mb20 color-dor" data-wow-delay=".2s">Ámbito de aplicación de la reforma.</h5>
+                                    <p class="wow fadeInUp">El presente análisis se realizó con base en la información obtenida del dictamen aprobado el 16 de agosto de 2024 por el Congreso de la Ciudad de México que modificó y aprobó el proyecto de decreto que reforma el Código Civil del Distrito Federal y surtirá sus efectos una vez que el decreto sea publicado en la Gaceta Oficial de la Ciudad de México. <br>
+                                        <b>¿Esta reforma aplica a inmuebles habitacionales y comerciales?</b><br>
+                                        Al tratarse de un artículo que se establece en el capítulo IV, del Título SEXTO, relativo al Arrendamiento de fincas urbanas destinadas a la Habitación, esta reforma impactará únicamente a los inmuebles de uso habitacional, por lo que quedan excluidos los inmuebles rústicos, comerciales o industriales. <br>
+                                        <b>¿Esta reforma aplica a los estados de la República Mexicana o sólo es aplicable a la Ciudad de México?</b> <br>
+                                        La legislación aplicable al arrendamiento de bienes inmuebles será la del lugar en que se encuentren ubicados los inmuebles, es decir, los Códigos Civiles de cada Entidad Federativa, por lo que esta reforma, referente al limite al aumento de renta con base en la inflación y el registro digital, será únicamente aplicable a la Ciudad de México, ya que cada entidad cuenta con sus propias disposiciones y limites previamente establecidos. Cabe mencionar que es la primera entidad federativa que establece un registro digital de contratos de arrendamiento y esto puede dar lugar a la adopción de este mecanismo de control en otras entidades en el futuro. <br>
+                                        Si eres propietario, agente o agencia inmobiliaria, sigue nuestras redes sociales en las cuales estaremos brindando más información relacionada con esta reforma.
 
-                                    <h5 class="wow fadeInUp mt-5 mb20 color-dor" data-wow-delay=".2s">¿Cómo me beneficia una póliza? </h5>
-                                    <p class="wow fadeInUp">Póliza de Rentas específica y avala en el contrato de arrendamiento pagos de depósito de garantía y rentas adelantadas, si es el caso, y estos montos se pagarán al momento de la firma.
-                                        <br><br>
-                                        <img src="images/protege-2.jpg" alt="" class="img-fluid" width="70%">
                                     </p>
-                                    <h3 class="wow fadeInUp mt-5 mb20 color-dor" data-wow-delay=".2s">Contratos Engañosos: </h3>
-                                    <p class="wow fadeInUp">Algunos estafadores utilizan contratos de arrendamiento falsos o engañosos, pueden incluir cláusulas desfavorables o condiciones ocultas que favorezcan al estafador.
-                                    </p>
-                                    <h5 class="wow fadeInUp mt-5 mb20 color-dor" data-wow-delay=".2s">¿Cómo me beneficia una póliza? </h5>
-                                    <p class="wow fadeInUp">Póliza de Rentas hace contratos personalizados al inmueble, el arrendador y el arrendatario, enviando un previo del contrato y haciendo lectura frente a las partes al momento de la firma, para cualquier duda o inquietud que se presenten.
-                                        <br><br>
-                                        <img src="images/protege-3.jpg" alt="" class="img-fluid" width="70%">
-                                        <br><br>
-                                        En conclusión, la clave para evitar estafas en el arrendamiento inmobiliario es la precaución y la investigación profesional. Además, contar con una póliza jurídica como medio de prevención que ofrece una capa adicional de seguridad, brindando tranquilidad y protección contra posibles contratiempos legales. Póliza de Rentas puede ser tu mejor aliado en este proceso. ¡Protege tu inversión y disfruta de tu nueva vida sin preocupaciones!
+                                    <p class="float-end" ALIGN="end">Agosto de 2024 <br>
+                                        Rogelio Hernández Ortiz <br>
+                                        Director de Operaciones de Póliza de Rentas
                                     </p>
                                     <hr>
                                     <div class="row">
                                         <div class="row col-lg-6 col-md-6 col-sm-12">
-                                            <div class="col-lg-4 col-md-6 col-sm-6"><img src="images/arrendamiento.jpg" alt="" class="img-fluid"></div>
-                                            <div class="col-lg-8 col-md-6 col-sm-6"><a href="arrendamiento.php" class="articulos">
-                                                    <p>Arrendamiento Inmobiliario en México: Navegando con Éxito la Ley de Extinción de Dominio</p>
-                                                </a></div>
-                                        </div>
-                                        <div class="row col-lg-6 col-md-6 col-sm-12">
                                             <div class="col-lg-4 col-md-6 col-sm-6"><img src="images/contrato.jpg" alt="" class="img-fluid"></div>
                                             <div class="col-lg-8 col-md-6 col-sm-6"><a href="contrato-exclusividad.php" class="articulos">
                                                     <p>Contrato de exclusividad inmobiliaria-¿Qué debe incluir?¿Cuáles son las obligaciones y derechos del asesor?</p>
+                                                </a></div>
+                                        </div>
+                                        <div class="row col-lg-6 col-md-6 col-sm-12">
+                                            <div class="col-lg-4 col-md-6 col-sm-6"><img src="images/arrendamiento.jpg" alt="" class="img-fluid"></div>
+                                            <div class="col-lg-8 col-md-6 col-sm-6"><a href="arrendamiento.php" class="articulos">
+                                                    <p>Arrendamiento Inmobiliario en México: Navegando con Éxito la Ley de Extinción de Dominio</p>
                                                 </a></div>
                                         </div>
 
@@ -105,9 +150,9 @@
                                                 </a>
                                                 <span>Póliza De Rentas - 6 Junio, 2024</span>
                                             </div>
-                                            <hr>
+                                            <hr> -->
 
-                                            <div class="col-lg-4 col-md-6 col-sm-6"><img src="images/art-2.png" alt="" class="img-fluid"></div>
+                                            <!-- <div class="col-lg-4 col-md-6 col-sm-6"><img src="images/art-2.png" alt="" class="img-fluid"></div>
                                             <div class="col-lg-8 col-md-6 col-sm-6">
                                                 <a href="" style="color: black;">
                                                     <p>
@@ -115,16 +160,8 @@
                                                 </a>
                                                 <span>Póliza De Rentas - 19 Abril, 2024</span>
                                             </div>
-                                            <hr>
+                                            <hr> -->
 
-                                            <div class="col-lg-4 col-md-6 col-sm-6"><img src="images/art-3.png" alt="" class="img-fluid"></div>
-                                            <div class="col-lg-8 col-md-6 col-sm-6">
-                                                <a href="" style="color: black;">
-                                                    <p>
-                                                        Talentos Estratégicos para Proteger tus Arrendamientos-La Sólida Alianza entre Póliza de Rentas y Jurista</p>
-                                                </a>
-                                                <span>Póliza De Rentas - 11 Marzo, 2024</span>
-                                            </div> -->
                                             <div class="col-lg-4 col-md-6 col-sm-6"><img src="images/limitaciones.jpeg" alt="" class="img-fluid"></div>
                                             <div class="col-lg-8 col-md-6 col-sm-6">
                                                 <a href="limitaciones.php" class="articulos">

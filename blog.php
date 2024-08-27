@@ -123,6 +123,14 @@
                     <div class="col-lg-12">
                         <div class="row gx-4">
                             <div class="col-lg-8 col-md-6 mb10">
+                                <a href="limitaciones.php"><img src="images/limitaciones.jpeg" alt="" width="150%" class="img-fluid"></a>
+
+                                <h3 class="wow fadeInUp mt-5 mb20 enlace-blog" data-wow-delay=".2s"><a href="limitaciones.php" style="color: rgba(187,161,85);">"Limitaciones al Aumento de Renta Mensual: Impacto de la Reforma al Código Civil en los Contratos de Arrendamiento para la Ciudad de México"</a></h3>
+                                <p class="wow fadeInUp">El reciente dictamen aprobado por el Congreso de la Ciudad de México el 16 de agosto de 2024 ha generado diversas inquietudes y cuestionamientos entre propietarios e inquilinos. Las modificaciones al proyecto de decreto que reforma el Código Civil […]</p>
+                                <a href="limitaciones.php" style="color: rgba(187,161,85);"><span>LEER MAS</span></a>
+
+                                <br><br>
+
                                 <a href="arrendamiento.php"><img src="images/arrendamiento.jpg" alt="" width="150%" class="img-fluid"></a>
 
                                 <h3 class="wow fadeInUp mt-5 mb20 enlace-blog" data-wow-delay=".2s"><a href="arrendamiento.php" style="color: rgba(187,161,85);">Arrendamiento Inmobiliario en México: Navegando con Éxito la Ley de Extinción de Dominio</a></h3>
@@ -186,6 +194,16 @@
                                                 </a>
                                                 <span>Póliza De Rentas - 11 Marzo, 2024</span>
                                             </div> -->
+
+                                        <div class="col-lg-4 col-md-6 col-sm-6"><img src="images/limitaciones.jpeg" alt="" class="img-fluid"></div>
+                                        <div class="col-lg-8 col-md-6 col-sm-6">
+                                            <a href="limitaciones.php" style="color: rgb(101, 85, 36);">
+                                                <p>
+                                                    Limitaciones al Aumento de Renta Mensual: Impacto de la Reforma al Código Civil en los Contratos de Arrendamiento para la Ciudad de México"</p>
+                                            </a>
+                                            <span>Póliza De Rentas - 26 Agosto, 2024</span>
+                                        </div>
+                                        <hr>
 
                                         <div class="col-lg-4 col-md-6 col-sm-6"><img src="images/arrendamiento.jpg" alt="" class="img-fluid"></div>
                                         <div class="col-lg-8 col-md-6 col-sm-6">
