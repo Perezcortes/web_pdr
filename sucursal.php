@@ -179,7 +179,7 @@
                         userDiv.innerHTML = ` <img src="images/storage/default.jpg" alt="user" class="img-fluid">
                     <p>${user.name}</p>`;
                     } else {
-                        userDiv.innerHTML = ` <img src="https://app.polizaderentas.com/${user.img_user}" alt="user" class="img-fluid">
+                        userDiv.innerHTML = ` <img src="https://objectstorage.mx-queretaro-1.oraclecloud.com/p/G_5SdRnJ7BTCEsHyBAZTNjsp9_U9JuIf9JtcGGKx9IOtYymiIQ2sDCFDDwzuFFBx/n/axvf6tosmbtl/b/polizaderentas/o/${user.img_user}" alt="user" class="img-fluid">
                     <p>${user.name}</p>`;
                     }
 
