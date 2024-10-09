@@ -265,8 +265,12 @@
                     }
                 },
                 error: function(xhr, status, error) {
-                    // Manejo del error
-                    alert('Error en la solicitud: ' + error);
+                    Swal.fire({
+                        icon: 'error',
+                        title: 'Error',
+                        text: 'Hubo un problema con el envío. Por favor, intenta nuevamente.',
+                        confirmButtonText: 'OK',
+                    });
                 }
             });
         });
