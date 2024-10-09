@@ -40,8 +40,8 @@
                                         <div class="row gx-5 align-items-center">
 
                                             <div class="col-lg-7 mb-sm-30">
-                                                <h2 class="slider-title">Firma electrónica
-                                                </h2>
+                                                <h1 class="slider-title">Firma electrónica
+                                                </h1>
                                                 <p class="fs-4 wow fadeInRight">
                                                     
                                                 </p>

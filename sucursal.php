@@ -39,7 +39,7 @@
                                         <div class="container">
                                             <div class="row gx-5 align-items-center">
                                                 <div class="col-lg-7 mb-sm-30 offset-lg-1">
-                                                    <h2 class="slider-title font-50" id="nombre_sucursal"></h2>
+                                                    <h1 class="slider-title font-50" id="nombre_sucursal"></h1>
                                                 </div>
                                             </div>
                                         </div>

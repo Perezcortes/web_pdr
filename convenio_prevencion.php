@@ -41,8 +41,8 @@
 
                                             <div class="col-lg-7 mb-sm-30">
                                             <div class="subtitle s2 wow fadeInUp mb-3">Nuestros Servicios</div>
-                                                <h2 class="slider-title">Convenio de prevención de conflictos
-                                                </h2>
+                                                <h1 class="slider-title">Convenio de prevención de conflictos
+                                                </h1>
                                                 <p class="fs-4 wow fadeInRight">
                                                     
                                                 </p>

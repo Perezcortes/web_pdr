@@ -50,10 +50,10 @@
                                             <div class="row gx-5 align-items-center">
 
                                                 <div class="col-lg-10 mb-sm-30">
-                                                    <h2 class="slider-title font-60">
+                                                    <h1 class="slider-title font-60">
                                                         La red legal más grande <br>
                                                         de México
-                                                    </h2>
+                                                    </h1>
                                                 </div>
                                                 <div class="col-lg-12">
                                                     <div class="subtitle s2 mb-4">
@@ -213,8 +213,8 @@
                     <div class="row align-items-center gx-5">
                         <div class="col-lg-6 mb-sm-20 position-relative">
                             <div class="images-deco-1">
-                                <img src="images/misc/1.png" class="d-img-1 wow zoomIn" data-wow-delay="0s" alt="">
-                                <img src="images/misc/2.png" class="d-img-2 wow zoomIn" data-wow-delay=".5s" data-jarallax-element="100" alt="">
+                                <img src="images/misc/1.png" class="d-img-1 wow zoomIn" data-wow-delay="0s" alt="quienes somos">
+                                <img src="images/misc/2.png" class="d-img-2 wow zoomIn" data-wow-delay=".5s" data-jarallax-element="100" alt="logo">
                                 <div class="d-img-3 bg-color wow zoomIn" data-wow-delay=".6s" data-jarallax-element="-50">
                                 </div>
                             </div>
@@ -257,7 +257,7 @@
                                             Story</a>
                                     </div>
                                 </div>
-                                <img src="images/study-case/card1.png" class="img-fluid" alt="">
+                                <img src="images/study-case/card1.png" class="img-fluid" alt="card1">
                             </div>
                         </div>
 
@@ -273,7 +273,7 @@
                                             Story</a>
                                     </div>
                                 </div>
-                                <img src="images/study-case/card2.png" class="img-fluid" alt="">
+                                <img src="images/study-case/card2.png" class="img-fluid" alt="card2">
                             </div>
                         </div>
 
@@ -289,7 +289,7 @@
                                             Story</a>
                                     </div>
                                 </div>
-                                <img src="images/study-case/card3.png" class="img-fluid" alt="">
+                                <img src="images/study-case/card3.png" class="img-fluid" alt="card3">
                             </div>
                         </div>
                         <div class="col-lg-12 d-flex justify-content-center">

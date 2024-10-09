@@ -41,8 +41,8 @@
 
                                             <div class="col-lg-7 mb-sm-30">
                                                 <div class="subtitle s2 wow fadeInUp mb-3">Nuestros Servicios</div>
-                                                <h2 class="slider-title">Convenio de prevención de conflictos
-                                                </h2>
+                                                <h1 class="slider-title">Convenio de prevención de conflictos
+                                                </h1>
                                                 <p class="fs-4 wow fadeInRight">
                                                     Nuestro equipo de abogados altamente capacitados ha diseñado cuatro soluciones efectivas para garantizar la seguridad y tranquilidad de tu patrimonio.
                                                 </p>
@@ -78,7 +78,7 @@
                 <div class="row g-3">
                     <div class="col-lg-3 col-md-6 wow fadeInRight" data-wow-delay="0s">
                         <div class="p-4 pb-2 bg-grey h-100">
-                            <img src="images/svg/collaboration-svgrepo-com.svg" class="w-80px mb20" alt="">
+                            <img src="images/svg/collaboration-svgrepo-com.svg" class="w-80px mb20" alt="collaboration">
                             <h4>Póliza Jurídica</h4>
                             <hr class="s2">
                             <p>Nosotros nos encargamos de protegerte a tí como propietario y a tu inmueble.</p>
@@ -89,7 +89,7 @@
 
                     <div class="col-lg-3 col-md-6 wow fadeInRight" data-wow-delay=".2s">
                         <div class="p-4 pb-2 bg-grey h-100">
-                            <img src="images/svg/embedded-live-content-svgrepo-com.svg" class="w-80px mb20" alt="">
+                            <img src="images/svg/embedded-live-content-svgrepo-com.svg" class="w-80px mb20" alt="convenio">
                             <h4>Convenio de Prevención de Conflictos</h4>
                             <hr class="s2">
                             <p>Tu contrato de arrendamiento se perfecciona de manera judicial al celebrarlo mediante un convenido de mediación privada.</p>
@@ -99,7 +99,7 @@
 
                     <div class="col-lg-3 col-md-6 wow fadeInRight" data-wow-delay=".4s">
                         <div class="p-4 pb-2 bg-grey h-100">
-                            <img src="images/svg/lock-svgrepo-com.svg" class="w-80px mb20" alt="">
+                            <img src="images/svg/lock-svgrepo-com.svg" class="w-80px mb20" alt="lock">
                             <h4>Convenio de Transacción</h4>
                             <hr class="s2">
                             <p>Requieres un contrato blindado, Póliza de Rentas puede apoyarte con un Convenio de Transacción firmado ante Notario Público.</p>

@@ -41,8 +41,8 @@
 
                                             <div class="col-lg-7 mb-sm-30">
                                                 <div class="subtitle s2 wow fadeInUp mb-3">Nuestros Servicios</div>
-                                                <h2 class="slider-title">Póliza jurídica
-                                                </h2>
+                                                <h1 class="slider-title">Póliza jurídica
+                                                </h1>
                                                 <a class="btn-main mb10 mt20" href="sucursales.php">Sucursales</a>
                                             </div>
                                         </div>
@@ -82,7 +82,7 @@
                     </div>
 
                     <div class="col-lg-5">
-                        <img src="images/services/convenio-prevencion-conflictos/convenio-prevencion-conflictos-02.jpg" class="img-fluid rounded-30" alt="">
+                        <img src="images/services/convenio-prevencion-conflictos/convenio-prevencion-conflictos-02.jpg" class="img-fluid rounded-30" alt="convenio">
                     </div>
                 </div>
             </div>

@@ -41,8 +41,8 @@
 
                                             <div class="col-lg-7 mb-sm-30">
                                                 <div class="subtitle s2 wow fadeInUp mb-3">Nuestros Servicios</div>
-                                                <h2 class="slider-title">Convenio de transacción
-                                                </h2>
+                                                <h1 class="slider-title">Convenio de transacción
+                                                </h1>
                                                 <p class="fs-4 wow fadeInRight">
                                                     Nosotros te ayudamos a crear un convenio de transacción. Este acuerdo es firmado ante un mediar certificado con fé pública y se inscribe en el Tribunal Superior de Justicia Alternativa.
                                                 </p>
@@ -98,7 +98,7 @@
                     </div>
 
                     <div class="col-lg-5">
-                        <img src="images/services/convenio-prevencion-conflictos/convenio-prevencion-conflictos-02.jpg" class="img-fluid rounded-30" alt="">
+                        <img src="images/services/convenio-prevencion-conflictos/convenio-prevencion-conflictos-02.jpg" class="img-fluid rounded-30" alt="convenio">
                     </div>
                 </div>
             </div>

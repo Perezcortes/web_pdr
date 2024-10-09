@@ -83,7 +83,7 @@
                         <div class="spacer-single d-lg-none d-sm-block"></div>
                         <div class="col-lg-3 col-xs-12">
                             <div>
-                                <img src="images/services/nosotros-01.jpg" class="img-fullwidth rounded-20 mb20" alt="">
+                                <img src="images/services/nosotros-01.jpg" class="img-fullwidth rounded-20 mb20" alt="Abogados Calificados">
                                 <h4>Abogados Calificados</h4>
                                 <hr class="s2">
                                 <p>Nuestros Abogados están certificados en Derecho Inmobiliario. Respaldados por un equipo altamente calificado y experimentado en oficinas centrales.</p>
@@ -92,7 +92,7 @@
 
                         <div class="col-lg-3 col-xs-12">
                             <div>
-                                <img src="images/services/nosotros-02.jpg" class="img-fullwidth rounded-20 mb20" alt="">
+                                <img src="images/services/nosotros-02.jpg" class="img-fullwidth rounded-20 mb20" alt="Protección Jurídica Inmobiliaria">
                                 <h4>Protección Jurídica Inmobiliaria</h4>
                                 <hr class="s2">
                                 <p>Nuestro enfoque se basa en una correcta investigación de cada inquilino, ya que de esta manera logramos que nuestro propietario tenga una mejor experiencia.
@@ -102,7 +102,7 @@
 
                         <div class="col-lg-3 col-xs-12">
                             <div>
-                                <img src="images/services/nosotros-03.jpg" class="img-fullwidth rounded-20 mb20" alt="">
+                                <img src="images/services/nosotros-03.jpg" class="img-fullwidth rounded-20 mb20" alt="Los Mejores Resultados">
                                 <h4>Los Mejores Resultados</h4>
                                 <hr class="s2">
                                 <p>La incidencia de nuestras reclamaciones es menor al 2% lo que es resultado de procesos adecuados tanto del perfilamiento como de protección.</p>
@@ -113,11 +113,10 @@
             </section>
 
             <section class="jarallax text-light">
-                <img src="images/services/nosotros-04.jpg" class="jarallax-img" alt="">
+                <img src="images/services/nosotros-04.jpg" class="jarallax-img" alt="Nuestro objetivo">
                 <div class="container">
                     <div class="row justify-content-center text-center">
                         <div class="col-lg-6">
-                            <img src="images" alt="">
                             <div class="subtitle s2 wow fadeInUp mb-3">Nuestro objetivo</div>
                             <h2 class="mb20 wow fadeInUp" data-wow-delay=".2s">La mejor experiencia en la renta de inmuebles.</h2>
                         </div>
@@ -167,8 +166,8 @@
 
                         <div class="col-lg-6 position-relative">
                             <div class="images-deco-1">
-                                <img src="images/services/nosotros-05.jpg" class="d-img-1 wow zoomIn" data-wow-delay="0s" alt="">
-                                <img src="images/misc/2.png" class="d-img-2 wow zoomIn" data-wow-delay=".5s" alt="">
+                                <img src="images/services/nosotros-05.jpg" class="d-img-1 wow zoomIn" data-wow-delay="0s" alt="nosotros">
+                                <img src="images/misc/2.png" class="d-img-2 wow zoomIn" data-wow-delay=".5s" alt="logo">
                                 <div class="d-img-3 bg-color wow zoomIn" data-wow-delay=".6s"></div>
                             </div>
                         </div>

@@ -41,8 +41,8 @@
                                             <div class="row gx-5 align-items-center">
 
                                                 <div class="col-lg-7 mb-sm-30 offset-lg-1">
-                                                    <h2 class="slider-title font-50">Póliza de Rentas
-                                                    </h2>
+                                                    <h1 class="slider-title font-50">Póliza de Rentas
+                                                    </h1>
                                                     <p class="fs-4 wow fadeInRight">
                                                         ¡Prevenir problemas, preveer riesgos y proteger a nuestros clientes! Descubre cómo convertimos la <b>seguridad de tus rentas</b> en una experiencia excepcional para ti.
                                                     </p>
@@ -63,7 +63,7 @@
                                             <div class="row gx-5 align-items-center">
 
                                                 <div class="col-lg-7 mb-sm-30 offset-lg-1">
-                                                    <h2 class="slider-title font-50">La Red de Abogados más GRANDE de México</h2>
+                                                    <h1 class="slider-title font-50">La Red de Abogados más GRANDE de México</h1>
                                                     <p class="fs-4 wow fadeInRight">
                                                         Investigación profesional al inquilino, contrato de arrendamiento profesional y acompañamiento desde la firma y en toda la vigencia del contrato.
                                                         <br>
@@ -87,7 +87,7 @@
                                             <div class="row gx-5 align-items-center">
 
                                                 <div class="col-lg-7 mb-sm-30 offset-lg-1">
-                                                    <h2 class="slider-title font-50">¡Únete a nuestro éxito y haz crecer tu negocio con una franquicia de Póliza de Rentas!</h2>
+                                                    <h1 class="slider-title font-50">¡Únete a nuestro éxito y haz crecer tu negocio con una franquicia de Póliza de Rentas!</h1>
                                                     <p class="fs-4 wow fadeInRight">
                                                         Se líder en protección jurídico inmobiliaria en tu Ciudad, genera ingresos con un negocio probado y exitoso en todo México
                                                     </p>
@@ -128,7 +128,7 @@
 
                         <div class="col-lg-3 col-md-6 wow fadeInRight" data-wow-delay="0s">
                             <div>
-                                <img src="images/svg/collaboration-svgrepo-com.svg" class="w-80px mb20" alt="">
+                                <img src="images/svg/collaboration-svgrepo-com.svg" class="w-80px mb20" alt="Prevenir problemas">
                                 <h4>Prevenir problemas</h4>
                                 <hr class="s2">
                                 <p>La prevención es pilar fundamental en nuestros servicios, ya que es la garantía de seguridad y confianza con cada cliente, por ello contamos con la <b>investigación de inquilinos</b> más completa de todo México.</p>
@@ -137,7 +137,7 @@
 
                         <div class="col-lg-3 col-md-6 wow fadeInRight" data-wow-delay=".2s">
                             <div>
-                                <img src="images/svg/embedded-live-content-svgrepo-com.svg" class="w-80px mb20" alt="">
+                                <img src="images/svg/embedded-live-content-svgrepo-com.svg" class="w-80px mb20" alt="prever riesgos">
                                 <h4>Preveer riesgos</h4>
                                 <hr class="s2">
                                 <p>El análisis minucioso a través nuestro <b>sistema de evaluación de riesgo</b>, nos permite blindar a nuestros clientes jurídicamente, además que todas nuestras coberturas incluyen la protección contra <b>la ley de extinción de dominio.</b></p>
@@ -146,7 +146,7 @@
 
                         <div class="col-lg-3 col-md-6 wow fadeInRight" data-wow-delay=".4s">
                             <div>
-                                <img src="images/svg/lock-svgrepo-com.svg" class="w-80px mb20" alt="">
+                                <img src="images/svg/lock-svgrepo-com.svg" class="w-80px mb20" alt="proteger la inversión">
                                 <h4>Proteger la inversión</h4>
                                 <hr class="s2">
                                 <p>Te acompañamos desde la firma del contrato y durante toda la vigencia del mismo, protegiendo tu patrimonio con atención a incidencias 24/7 a través de nuestra app.</p>
@@ -239,8 +239,8 @@
                     <div class="row align-items-center gx-5">
                         <div class="col-lg-6 mb-sm-20 position-relative">
                             <div class="images-deco-1">
-                                <img src="images/misc/1.jpg" class="d-img-1 wow zoomIn" data-wow-delay="0s" alt="">
-                                <img src="images/misc/2.png" class="shadow-sm d-img-2 wow zoomIn" data-wow-delay=".5s" data-jarallax-element="100" alt="">
+                                <img src="images/misc/1.jpg" class="d-img-1 wow zoomIn" data-wow-delay="0s" alt="Quienes somos">
+                                <img src="images/misc/2.png" class="shadow-sm d-img-2 wow zoomIn" data-wow-delay=".5s" data-jarallax-element="100" alt="logo">
                                 <div class="d-img-3 bg-color wow zoomIn" data-wow-delay=".6s" data-jarallax-element="-50"></div>
                             </div>
                         </div>
@@ -296,7 +296,7 @@
                         </div>
                         <div class="col-lg-6 mb-sm-20 position-relative">
                             <div class="content">
-                                <img src="images/services/convenio-prevencion-conflictos/preguntas.png" class="img-fluid" style="position: relative; display: inline-block;" alt="">
+                                <img src="images/services/convenio-prevencion-conflictos/preguntas.png" class="img-fluid" style="position: relative; display: inline-block;" alt="sucursales">
                                 <a class="btn-main mb10 bg-gris" href="sucursales.php" style="position: absolute; top: 80%; left: 80%; transform: translate(-80%, -10%);">Sucursales</a>
                             </div>
                         </div>
@@ -337,7 +337,7 @@
                                         <a class="btn-main btn-fullwidth btn-white" href="arrendamiento.php">Ver más</a>
                                     </div>
                                 </div>
-                                <img src="images/study-case/card1.png" class="img-fluid" alt="">
+                                <img src="images/study-case/card1.png" class="img-fluid" alt="Arrendamiento">
                             </div>
                         </div>
 
@@ -352,7 +352,7 @@
                                         <a class="btn-main btn-fullwidth btn-white" href="protege.php">Ver más</a>
                                     </div>
                                 </div>
-                                <img src="images/study-case/card2.png" class="img-fluid" alt="">
+                                <img src="images/study-case/card2.png" class="img-fluid" alt="Protege">
                             </div>
                         </div>
 
@@ -367,7 +367,7 @@
                                         <a class="btn-main btn-fullwidth btn-white" href="contrato-exclusividad.php">Ver más</a>
                                     </div>
                                 </div>
-                                <img src="images/study-case/card3.png" class="img-fluid" alt="">
+                                <img src="images/study-case/card3.png" class="img-fluid" alt="Contrato">
                             </div>
                         </div>
                         <div class="col-lg-12 d-flex justify-content-center">
@@ -382,7 +382,7 @@
                     <div class="row">
                         <div class="col-lg-12">
                             <div class="padding60 sm-padding40 rounded-30 jarallax text-light">
-                                <img src="images/background/banner.png" class="jarallax-img" alt="">
+                                <img src="images/background/banner.jpg" class="jarallax-img" alt="como lo hacemos">
                                 <div class="row">
                                     <div class="col-lg-6">
                                         <div class="subtitle s2 wow fadeInUp mb-3">Cómo lo hacemos</div>
@@ -407,182 +407,6 @@
                     </div>
                 </div>
             </section>
-
-
-            <!--
-            <section class="bg-dark-2 text-light">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-12 text-light">
-                            <div class="subtitle s2 mb20">Customer reviews</div>
-                            <h2 class="wow fadeInUp">4.85 out of 5</h2>
-                            <div class="spacer-20"></div>
-                        </div>
-                    </div>
-                </div>
-                <div class="container-fluid">
-                    <div class="row">
-                        <div class="owl-carousel owl-theme wow fadeInUp" id="testimonial-carousel">
-                            <div class="item">
-                                <div class="de_testi s2">
-                                    <blockquote>
-                                        <div class="de_testi_by">
-                                            <img alt="" src="images/testimonial/1.jpg"> <div>Michael S.<span>developer</span></div>
-                                        </div>
-                                        <p>"We've entrusted our IT needs to UpTech for several years, and they've consistently exceeded our expectations. Their proactive approach to managing our IT infrastructure has eliminated downtime and ensured a secure, efficient environment. 
-                                        </p>
-                                        <div class="de-rating-ext">
-                                            <span class="d-stars">
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                            </span>
-                                        </div>
-                                    </blockquote>
-                                </div>
-                            </div>
-                            <div class="item">
-                                <div class="de_testi s2">
-                                    <blockquote>
-                                        <div class="de_testi_by">
-                                            <img alt="" src="images/testimonial/2.jpg"> <div>Robert L.<span>developer</span></div>
-                                        </div>
-                                        <p>"UpTech's IT support services have been instrumental in keeping our systems running smoothly. Their team is quick to respond, expertly resolving any issues we encounter. Knowing that they have our IT needs covered allows us to focus on our core business with confidence."</p>
-                                        <div class="de-rating-ext">
-                                            <span class="d-stars">
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                            </span>
-                                        </div>
-                                    </blockquote>
-                                </div>
-                            </div>
-                            <div class="item">
-                                <div class="de_testi s2">
-                                    <blockquote>
-                                        <div class="de_testi_by">
-                                            <img alt="" src="images/testimonial/3.jpg"> <div>Jake M.<span>developer</span></div>
-                                        </div>
-                                        <p>"UpTech's cybersecurity solutions have transformed our security posture. Their comprehensive services have protected us from cyber threats and data breaches. We trust their expertise and diligence in monitoring and safeguarding our digital assets."</p>
-                                        <div class="de-rating-ext">
-                                            <span class="d-stars">
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                            </span>
-                                        </div>
-                                    </blockquote>
-                                </div>
-                            </div>
-                            <div class="item">
-                                <div class="de_testi s2">
-                                    <blockquote>
-                                        <div class="de_testi_by">
-                                            <img alt="" src="images/testimonial/4.jpg"> <div>Alex P.<span>developer</span></div>
-                                        </div>
-                                        <p>"UpTech helped us seamlessly transition to the cloud. Their cloud services have reduced our IT infrastructure costs while providing flexibility and scalability. The accessibility and security of their cloud solutions have been a game-changer for our growing business."</p>
-                                        <div class="de-rating-ext">
-                                            <span class="d-stars">
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                            </span>
-                                        </div>
-                                    </blockquote>
-                                </div>
-                            </div>
-                            <div class="item">
-                                <div class="de_testi s2">
-                                    <blockquote>
-                                        <div class="de_testi_by">
-                                            <img alt="" src="images/testimonial/5.jpg"> <div>Carlos R.<span>developer</span></div>
-                                        </div>
-                                        <p>"UpTech's data backup and recovery services have been a lifesaver for our critical data. Their solutions ensure our data's protection and quick recovery in the event of unforeseen events. Knowing our data is safe with UpTech is a source of great comfort."</p>
-                                        <div class="de-rating-ext">
-                                            <span class="d-stars">
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                            </span>
-                                        </div>
-                                    </blockquote>
-                                </div>
-                            </div>
-                            <div class="item">
-                                <div class="de_testi s2">
-                                    <blockquote>
-                                        <div class="de_testi_by">
-                                            <img alt="" src="images/testimonial/6.jpg"> <div>Edward B.<span>developer</span></div>
-                                        </div>
-                                        <p>"UpTech's IT consulting services have provided us with invaluable insights and strategies to optimize our IT infrastructure. Their expert advice has been instrumental in aligning our technology with our business goals and staying competitive."</p>
-                                        <div class="de-rating-ext">
-                                            <span class="d-stars">
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                            </span>
-                                        </div>
-                                    </blockquote>
-                                </div>
-                            </div>
-                            <div class="item">
-                                <div class="de_testi s2">
-                                    <blockquote>
-                                        <div class="de_testi_by">
-                                            <img alt="" src="images/testimonial/7.jpg"> <div>Daniel H.<span>developer</span></div>
-                                        </div>
-                                        <p>"UpTech's project management services have been essential for us. Their team efficiently oversees and coordinates complex IT projects, ensuring they are delivered on time and within budget. We appreciate their attention to detail and dedication to our success."</p>
-                                        <div class="de-rating-ext">
-                                            <span class="d-stars">
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                            </span>
-                                        </div>
-                                    </blockquote>
-                                </div>
-                            </div>
-                            <div class="item">
-                                <div class="de_testi s2">
-                                    <blockquote>
-                                        <div class="de_testi_by">
-                                            <img alt="" src="images/testimonial/8.jpg"> <div>Bryan G.<span>developer</span></div>
-                                        </div>
-                                        <p>"UpTech's network infrastructure services have transformed our connectivity. Their expertise in designing, implementing, and maintaining our network has improved our operational efficiency and communication. Their responsive support is always just a call away."</p>
-                                        <div class="de-rating-ext">
-                                            <span class="d-stars">
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                            </span>
-                                        </div>
-                                    </blockquote>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-        </div>
-        content close -->
 
             <?php include 'footer.php'; ?>
         </div>

@@ -35,15 +35,15 @@
                     <div class="swiper">
                         <div class="swiper-wrapper">
                             <div class="swiper-slide" data-jarallax-element="150">
-                                <div class="swiper-inner d-none d-sm-block" data-bgimage="url(images/slider/franquicias.png)">
+                                <div class="swiper-inner d-none d-sm-block" data-bgimage="url(images/slider/franquicias.jpg)">
                                     <div class="sw-caption">
                                         <div class="container">
                                             <div class="row gx-5 align-items-center">
 
                                                 <div class="col-lg-7 mb-sm-30">
-                                                    <h2 class="slider-title">Invierte en el servicio jurídico de mayor
+                                                    <h1 class="slider-title">Invierte en el servicio jurídico de mayor
                                                         crecimiento en México.
-                                                    </h2>
+                                                    </h1>
                                                     <p class="fs-4 wow fadeInRight">
                                                         Agenda una sesión Informativa personalizada con nuestro Director de Expansión y conoce los detalles de nuestro modelo de negocio.
                                                     </p>
@@ -62,9 +62,9 @@
                                             <div class="row gx-5 align-items-center">
 
                                                 <div class="col-lg-7 mb-sm-30">
-                                                    <h2 class="slider-title">Invierte en el servicio jurídico de mayor
+                                                    <h1 class="slider-title">Invierte en el servicio jurídico de mayor
                                                         crecimiento en México.
-                                                    </h2>
+                                                    </h1>
                                                     <p class="fs-4 wow fadeInRight">
                                                         Agenda una sesión Informativa personalizada con nuestro Director de Expansión y conoce los detalles de nuestro modelo de negocio.
                                                     </p>
@@ -98,7 +98,7 @@
                             <a class="btn-main mb10 mt20" href="https://formulario.franquicias.polizaderentas.com/">Inicia tu proceso</a>
                         </div>
                         <div class="col-lg-6 col-md-6 col-sm-12">
-                            <img src="images/franquicias/img-1.png" alt="" class="img-fluid">
+                            <img src="images/franquicias/img-1.png" alt="franquicias" class="img-fluid">
                         </div>
                     </div>
                 </div>
@@ -109,7 +109,7 @@
                     <div class="row">
                         <div class="col-lg-12 col-md-12 col-sm-12 mt-5" ALIGN='center'>
                             <h2>¿Porqué es un modelo de negocio de crecimiento exponencial?</h2>
-                            <img src="images/franquicias/img-2.png" alt="" class="img-fluid">
+                            <img src="images/franquicias/img-2.png" alt="franquicias" class="img-fluid">
                             <a class="btn-main mb10 mt20" href="https://formulario.franquicias.polizaderentas.com/">Inicia tu proceso</a>
                         </div>
                     </div>
@@ -137,8 +137,8 @@
                         </div>
                         <div class="col-lg-6 mb-sm-20 position-relative">
                             <div class="images-deco-1">
-                                <img src="images/misc/img-3.png" class="d-img-1 wow zoomIn img-fluid" data-wow-delay="0s" alt="">
-                                <img src="images/misc/2.png" class="d-img-2 wow zoomIn" data-wow-delay=".5s" data-jarallax-element="100" alt="">
+                                <img src="images/misc/img-3.png" class="d-img-1 wow zoomIn img-fluid" data-wow-delay="0s" alt="franquicias">
+                                <img src="images/misc/2.png" class="d-img-2 wow zoomIn" data-wow-delay=".5s" data-jarallax-element="100" alt="logo">
                                 <div class="d-img-3 bg-color wow zoomIn" data-wow-delay=".6s" data-jarallax-element="-50">
                                 </div>
                             </div>
@@ -152,7 +152,7 @@
                     <div class="row">
                         <div class="col-lg-12 col-md-12 col-sm-12 mt-5" ALIGN='center'>
                             <h2>¿Cuánto puedo ganar con <br> mi franquicia de Póliza de Rentas?</h2>
-                            <img src="images/franquicias/img-4.png" alt="" class="img-fluid">
+                            <img src="images/franquicias/img-4.png" alt="franquicias" class="img-fluid">
                         </div>
                         <div class="row col-lg-12 col-md-12 col-sm-12 mt-5" ALIGN='justify'>
                             <div class="col-lg-6 col-md-6 col-sm-6">
@@ -164,7 +164,7 @@
                                 <a class="btn-main mb10 mt20" href="https://formulario.franquicias.polizaderentas.com/">Inicia tu proceso</a>
                             </div>
                             <div class="col-lg-6 col-md-6 col-sm-6">
-                                <img src="images/franquicias/img-5.png" alt="" class="img-fluid">
+                                <img src="images/franquicias/img-5.png" alt="franquicias" class="img-fluid">
                             </div>
                         </div>
                     </div>
@@ -174,7 +174,7 @@
             <div class="row container-fluid" style="background-color: #595959;">
                 <div class="col-lg-12 col-md-12 col-sm-12" ALIGN='center'>
                     <div class="image-container" style="position: relative; display: inline-block;">
-                        <img src="images/franquicias/img-6.png" alt="" class="img-fluid">
+                        <img src="images/franquicias/img-6.png" alt="franquicias" class="img-fluid">
                         <a class="btn-main mb10 mt20" href="https://formulario.franquicias.polizaderentas.com/" style="position: absolute; top: 80%; left: 80%; transform: translate(-50%, -50%);">Inicia tu proceso</a>
                     </div>
                 </div>

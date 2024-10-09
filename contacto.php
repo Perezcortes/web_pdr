@@ -56,12 +56,12 @@
 
             <!-- section begin-->
             <section id="poliza" class="text-light jarallax">
-                <img src="images/slider/banner3.jpg" class="jarallax-img" alt="">
+                <img src="images/slider/banner3.jpg" class="jarallax-img" alt="banner3">
                 <div class="container">
                     <div class="row text-center">
                         <div class="col-lg-8 offset-lg-2">
-                            <h2 class="wow fadeInUp mb20" data-wow-delay=".2s"> Contacto
-                            </h2>
+                            <h1 class="wow fadeInUp mb20" data-wow-delay=".2s"> Contacto
+                            </h1>
                             <br><br>
                         </div>
                     </div>
@@ -72,50 +72,6 @@
             <section>
                 <div class="container">
                     <div class="row">
-                        <!-- <div class="col-md-7 wow fadeInRight" data-wow-delay="0s">
-
-                            <p>
-                                Somos una empresa dedicada a proteger el patrimonio de las personas,
-                                nuestros servicios están destinados a propietarios, inmobiliarias o
-                                administradores de inmuebles que buscan dar sus propiedades en
-                                arrendamiento. Estamos comprometidos a ofrecer a nuestros clientes
-                                protección total a su patrimonio y a su negocio.
-
-                                <br><br>
-
-                                Nustra misión es lograr a través de un correcto perfilamiento de inquilinos y
-                                de una adecuada protección jurídica, que todos nuestros propietarios tengan
-                                la mejor experiencia posible en la renta de su inmueble. De la misma manera,
-                                buscamos que nuestros inquilinos reciban un trato justo y adecuado por parte
-                                de los Arrendadores.
-
-                                <br><br>
-
-                                Dejanos tus datos, estaremos siempre para asesorarte y llevarte de la mano
-                                para conseguir tus objetivos.
-                            </p>
-
-                            <div class="row text-center">
-
-                                <div class="col-md-3">
-                                    <p><strong>Lic. Jorge Rodrigo Paredes</strong></p>
-                                </div>
-
-                                <div class="col-md-3">
-                                    <p><strong>Lic. Fernanda Vergara Suárez</strong></p>
-                                </div>
-
-                                <div class="col-md-3">
-                                    <p><strong>Lic. Susana Pérez Rodriguez</strong></p>
-                                </div>
-
-                                <div class="col-md-3">
-                                    <p><strong>Lic. Jesús Alberto Cruz</strong></p>
-                                </div>
-
-                            </div>
-
-                        </div> -->
 
                         <div class="row col-lg-12 col-md-6" data-wow-delay="0s">
 
@@ -181,8 +137,8 @@
                     <div class="row align-items-center gx-5">
                         <div class="col-lg-6 mb-sm-20 position-relative">
                             <div class="images-deco-1">
-                                <img src="images/misc/1.png" class="d-img-1 wow zoomIn" data-wow-delay="0s" alt="">
-                                <img src="images/misc/2.png" class="d-img-2 wow zoomIn" data-wow-delay=".5s" data-jarallax-element="100" alt="">
+                                <img src="images/misc/1.png" class="d-img-1 wow zoomIn" data-wow-delay="0s" alt="quienes somos">
+                                <img src="images/misc/2.png" class="d-img-2 wow zoomIn" data-wow-delay=".5s" data-jarallax-element="100" alt="logo">
                                 <div class="d-img-3 bg-color wow zoomIn" data-wow-delay=".6s" data-jarallax-element="-50"></div>
                             </div>
                         </div>

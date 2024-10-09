@@ -60,13 +60,13 @@
 
                 <!-- section begin-->
                 <section id="poliza" class="text-light jarallax">
-                    <img src="images/slider/banner3.jpg" class="jarallax-img" alt="">
+                    <img src="images/slider/banner3.jpg" class="jarallax-img" alt="banner">
                     <div class="container">
                         <div class="row text-center">
                             <div class="col-lg-8 offset-lg-2">
-                                <h2 class="wow fadeInUp mb20" data-wow-delay=".2s"> Póliza de Rentas <br>
+                                <h1 class="wow fadeInUp mb20" data-wow-delay=".2s"> Póliza de Rentas <br>
                                     CDMX Platino
-                                </h2>
+                                </h1>
                                 <div class="subtitle wow fadeInUp mb-3"><?php echo  "$ciudad"; ?></div>
 
                             </div>

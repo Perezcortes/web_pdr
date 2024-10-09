@@ -3,7 +3,7 @@
     <div class="container">
         <div class="row gx-5">
             <div class="col-lg-4 col-sm-6">
-                <img src="images/logo.png" alt="" width="143">
+                <img src="images/logo.png" alt="logo" width="143">
                 <div class="spacer-20"></div>
                 <p>Somos una empresa dedicada a proteger el patrimonio de las personas,
                     nuestros servicios están destinados a propietarios, inmobiliarias o
