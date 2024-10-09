@@ -244,8 +244,7 @@
 
             $.ajax({
                 type: 'POST',
-              //  url: 'https://app.polizaderentas.com/api/offices/contacto', // URL de la API
-                url: 'http://poliza.test/api/offices/contacto', // URL de la API
+                url: 'https://app.polizaderentas.com/api/offices/contacto',
                 data: formData,
                 success: function(response) {
                     // Si la respuesta es 'success', muestra la alerta
