@@ -85,7 +85,7 @@
                                     $id = isset($_GET['id']) ? $_GET['id'] : '';
                                     ?>
 
-                                <form class="formulario-informes" role="form" action="https://app.polizaderentas.com/api/offices/contacto" method="post">                     
+                                <form class="formulario-informes" id="contactoForm">                   
                                     <div class="mb-3">
                                         <label for="nombre" class="form-label">Nombre </label>
                                         <input type="text" name="nombre" class="form-control" id="exampleInputEmail1" require>
@@ -224,6 +224,8 @@
             });
     </script>
 
+
+
     <!-- Javascript Files
     ================================================== -->
     <script src="js/plugins.js"></script>
@@ -231,7 +233,46 @@
     <script src="js/swiper.js"></script>
     <script src="js/custom-marquee.js"></script>
     <script src="js/custom-swiper-1.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 
+    <script>
+    $(document).ready(function() {
+        $('#contactoForm').on('submit', function(e) {
+            e.preventDefault(); // Evita el envío del formulario por defecto
+
+            var formData = $(this).serialize(); // Serializa los datos del formulario
+
+            $.ajax({
+                type: 'POST',
+              //  url: 'https://app.polizaderentas.com/api/offices/contacto', // URL de la API
+                url: 'http://poliza.test/api/offices/contacto', // URL de la API
+                data: formData,
+                success: function(response) {
+                    // Si la respuesta es 'success', muestra la alerta
+                    if(response.status === 'success') {
+                        Swal.fire({
+                            icon: 'success',
+                            title: '¡Éxito!',
+                            text: response.message,
+                            confirmButtonText: 'OK',
+                        });
+                    } else {
+                        Swal.fire({
+                            icon: 'error',
+                            title: 'Error',
+                            text: 'Hubo un problema con el envío. Por favor, intenta nuevamente.',
+                            confirmButtonText: 'OK',
+                        });
+                    }
+                },
+                error: function(xhr, status, error) {
+                    // Manejo del error
+                    alert('Error en la solicitud: ' + error);
+                }
+            });
+        });
+    });
+</script>
 </body>
 
 </html>
