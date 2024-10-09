@@ -87,21 +87,21 @@
 
                                 <form class="formulario-informes" role="form" action="https://app.polizaderentas.com/api/offices/contacto" method="post">                     
                                     <div class="mb-3">
-                                        <label for="nombre" class="form-label">Nombre </label>
+                                        <label for="nombre" name="nombre" class="form-label">Nombre </label>
                                         <input type="text" class="form-control" id="exampleInputEmail1" require>
                                     </div>
                                     <div class="mb-3">
-                                        <label for="apellido" class="form-label">Primer Apellido</label>
+                                        <label for="apellido" name="apellido" class="form-label">Primer Apellido</label>
                                         <input type="text" class="form-control" id="exampleInputEmail1" require>
                                     </div>
                                   
                                     <div class="mb-3">
                                         <label for="email" class="form-label">Correo electrónico</label>
-                                        <input type="email" class="form-control" id="exampleInputPassword1" aria-describedby="emailHelp" require>
+                                        <input type="email" name="email" class="form-control" id="exampleInputPassword1" aria-describedby="emailHelp" require>
                                     </div>
                                     <div class="mb-3">
                                         <label for="numero" class="form-label">WhatsApp</label>
-                                        <input type="number" class="form-control" id="exampleInputPassword1" require>
+                                        <input type="number" name="numero" class="form-control" id="exampleInputPassword1" require>
                                     </div>
 
                                     <div class="mb-3">
