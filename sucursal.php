@@ -79,20 +79,43 @@
                             <br>
 
                             <div class="p-4 pb-2 bg-grey">
-                                <h4>Envía tus datos y un asesor se pondrá en contacto contigo</h4>
+                                <h4>Envía tus datos y un agente de Póliza de Rentas se pondrá en contacto contigo</h4>
 
-                                <form class="formulario-informes" role="form" action="https://app.polizaderentas.com/sucursales" method="post">
+                                <?php
+                                    $id = isset($_GET['id']) ? $_GET['id'] : '';
+                                    ?>
+
+                                <form class="formulario-informes" role="form" action="https://app.polizaderentas.com/offices/contacto" method="post">                     
                                     <div class="mb-3">
-                                        <label for="nombre" class="form-label">Nombre completo</label>
-                                        <input type="text" class="form-control" id="exampleInputEmail1">
+                                        <label for="nombre" class="form-label">Nombre </label>
+                                        <input type="text" class="form-control" id="exampleInputEmail1" require>
                                     </div>
                                     <div class="mb-3">
-                                        <label for="email" class="form-label">Correo electronico</label>
-                                        <input type="email" class="form-control" id="exampleInputPassword1" aria-describedby="emailHelp">
+                                        <label for="apellido" class="form-label">Primer Apellido</label>
+                                        <input type="text" class="form-control" id="exampleInputEmail1" require>
+                                    </div>
+                                  
+                                    <div class="mb-3">
+                                        <label for="email" class="form-label">Correo electrónico</label>
+                                        <input type="email" class="form-control" id="exampleInputPassword1" aria-describedby="emailHelp" require>
                                     </div>
                                     <div class="mb-3">
-                                        <label for="numero" class="form-label">Whatsapp</label>
-                                        <input type="number" class="form-control" id="exampleInputPassword1">
+                                        <label for="numero" class="form-label">WhatsApp</label>
+                                        <input type="number" class="form-control" id="exampleInputPassword1" require>
+                                    </div>
+
+                                    <div class="mb-3">
+                                        <label for="mensaje" class="form-label">Soy un</label>
+                                        <select name="type" class="form-control" id="" required>
+                                            <option value="Propietario">Propietario</option>
+                                            <option value="Inquilino">Inquilino</option>
+                                            <option value="Asesor Inmobiliario">Asesor Inmobiliario</option>
+                                            <option value="Director Inmobiliario">Director Inmobiliario</option>
+                                        </select>
+                                    </div>
+                                    <div>
+                                        <input type="hidden" name="captcha" value="">
+                                        <input type="hidden" name="id" value="<?php echo htmlspecialchars($id); ?>">
                                     </div>
                                     <!-- <div class="mb-3 form-check">
                                         <input type="checkbox" class="form-check-input" id="exampleCheck1">
