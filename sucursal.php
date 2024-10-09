@@ -85,7 +85,7 @@
                                     $id = isset($_GET['id']) ? $_GET['id'] : '';
                                     ?>
 
-                                <form class="formulario-informes" role="form" action="https://app.polizaderentas.com/offices/contacto" method="post">                     
+                                <form class="formulario-informes" role="form" action="https://app.polizaderentas.com/api/offices/contacto" method="post">                     
                                     <div class="mb-3">
                                         <label for="nombre" class="form-label">Nombre </label>
                                         <input type="text" class="form-control" id="exampleInputEmail1" require>
