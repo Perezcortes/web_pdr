@@ -87,12 +87,12 @@
 
                                 <form class="formulario-informes" role="form" action="https://app.polizaderentas.com/api/offices/contacto" method="post">                     
                                     <div class="mb-3">
-                                        <label for="nombre" name="nombre" class="form-label">Nombre </label>
-                                        <input type="text" class="form-control" id="exampleInputEmail1" require>
+                                        <label for="nombre" class="form-label">Nombre </label>
+                                        <input type="text" name="nombre" class="form-control" id="exampleInputEmail1" require>
                                     </div>
                                     <div class="mb-3">
-                                        <label for="apellido" name="apellido" class="form-label">Primer Apellido</label>
-                                        <input type="text" class="form-control" id="exampleInputEmail1" require>
+                                        <label for="apellido" class="form-label">Primer Apellido</label>
+                                        <input type="text" name="apellido" class="form-control" id="exampleInputEmail1" require>
                                     </div>
                                   
                                     <div class="mb-3">
