@@ -369,3 +369,31 @@ a.more-link:hover {
 }
 
 /* Pagina 404 fin */
+
+.borde {
+    border: 1px solid #DDDDDD;
+}
+
+.mt-60 {
+    margin-top: 60%;
+}
+
+.link-dorado {
+    color: rgba(187, 161, 85) !important;
+}
+
+.posicion-imagen {
+    position: relative;
+    display: inline-block;
+}
+
+.posicion-boton {
+    position: absolute;
+    top: 80%;
+    left: 80%;
+    transform: translate(-80%, -10%);
+}
+
+.border-16 {
+    border-radius:16px;
+}

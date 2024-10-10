@@ -14,9 +14,9 @@
                     <h5>Síguenos</h5>
                     <div class="social-icons">
                         <a href="https://www.facebook.com/polizaderentas" target="_blank"><i class="fa-brands fa-facebook-f"></i></a>
-                        <!-- <a href="#"><i class="fa-brands fa-instagram"></i></a> -->
-                        <a href="https://www.youtube.com/@polizaderentas/featured" target="_blank"><i class="fa-brands fa-youtube"></i></a>
-                        <a href="https://www.linkedin.com/company/42311672/admin/" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
+                        <a href="https://www.instagram.com/poliza.de.rentas?igsh=emN0aXA2b3dsNmg4" target="_blank"><i class="fa-brands fa-instagram"></i></a>
+                        <a href="https://youtube.com/@polizaderentas?si=SICLjfgJoRsIahnX" target="_blank"><i class="fa-brands fa-youtube"></i></a>
+                        <a href="https://www.linkedin.com/company/poliza-de-rentas/" target="_blank"><i class="fa-brands fa-linkedin-in"></i></a>
                         <!-- <a href="#"><i class="fa-brands fa-whatsapp"></i></a> -->
                     </div>
                     <div class="mt-4">

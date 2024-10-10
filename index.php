@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 
 <head>
     <title>Póliza de Rentas</title>
@@ -9,6 +9,13 @@
     <meta content="Nuestra tecnología revoluciona la protección jurídica en el arrendamiento inmobiliario. Forma parte del futuro de la seguridad para propietarios e inquilinos." name="description">
     <meta content="" name="keywords">
     <meta content="" name="author">
+    <!-- Open Graph Meta Tags -->
+    <meta property="og:image" content="https://polizaderentas.com/almacenamiento/images/og.jpg">
+    <meta property="og:url" content="https://polizaderentas.com/">
+    <meta property="og:type" content="website">
+    <meta content="" name="keywords">
+    <meta content="" name="author">
+
     <!-- CSS Files
     ================================================== -->
     <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" id="bootstrap">
@@ -41,7 +48,9 @@
                                             <div class="row gx-5 align-items-center">
 
                                                 <div class="col-lg-7 mb-sm-30 offset-lg-1">
-                                                    <h1 class="slider-title font-50">Póliza de Rentas
+                                                    <h1 class="slider-title font-50 d-none d-sm-block">Póliza de Rentas
+                                                    </h1>
+                                                    <h1 class="slider-title font-40 d-block d-sm-none">Póliza de Rentas
                                                     </h1>
                                                     <p class="fs-4 wow fadeInRight">
                                                         ¡Prevenir problemas, preveer riesgos y proteger a nuestros clientes! Descubre cómo convertimos la <b>seguridad de tus rentas</b> en una experiencia excepcional para ti.
@@ -63,7 +72,8 @@
                                             <div class="row gx-5 align-items-center">
 
                                                 <div class="col-lg-7 mb-sm-30 offset-lg-1">
-                                                    <h1 class="slider-title font-50">La Red de Abogados más GRANDE de México</h1>
+                                                    <h1 class="slider-title font-50 d-none d-sm-block">La Red de Abogados más GRANDE de México</h1>
+                                                    <h1 class="slider-title font-40 d-block d-sm-none">La Red de Abogados más GRANDE de México</h1>
                                                     <p class="fs-4 wow fadeInRight">
                                                         Investigación profesional al inquilino, contrato de arrendamiento profesional y acompañamiento desde la firma y en toda la vigencia del contrato.
                                                         <br>
@@ -87,7 +97,8 @@
                                             <div class="row gx-5 align-items-center">
 
                                                 <div class="col-lg-7 mb-sm-30 offset-lg-1">
-                                                    <h1 class="slider-title font-50">¡Únete a nuestro éxito y haz crecer tu negocio con una franquicia de Póliza de Rentas!</h1>
+                                                    <h1 class="slider-title font-50 d-none d-sm-block">¡Únete a nuestro éxito y haz crecer tu negocio con una franquicia de Póliza de Rentas!</h1>
+                                                    <h1 class="slider-title font-40 d-block d-sm-none">¡Únete a nuestro éxito y haz crecer tu negocio con una franquicia de Póliza de Rentas!</h1>
                                                     <p class="fs-4 wow fadeInRight">
                                                         Se líder en protección jurídico inmobiliaria en tu Ciudad, genera ingresos con un negocio probado y exitoso en todo México
                                                     </p>
@@ -106,8 +117,8 @@
                         <div class="swiper-pagination"></div>
 
                         <!-- If we need navigation buttons -->
-                        <div class="swiper-button-prev d-block d-lg-none" style="margin-top: 60%"></div>
-                        <div class="swiper-button-next d-block d-lg-none" style="margin-top: 60%"></div>
+                        <div class="swiper-button-prev d-block d-lg-none mt-60"></div>
+                        <div class="swiper-button-next d-block d-lg-none mt-60"></div>
 
                         <div class="swiper-button-prev d-none d-lg-block"></div>
                         <div class="swiper-button-next d-none d-lg-block"></div>
@@ -260,7 +271,7 @@
                 </div>
             </section>
 
-            <section class="bo-bottom" style="background-color: #F0F0F0;">
+            <section class="bo-bottom">
                 <div class="container">
                     <div class="row align-items-center gx-5">
                         <div class="col-lg-6">
@@ -296,8 +307,8 @@
                         </div>
                         <div class="col-lg-6 mb-sm-20 position-relative">
                             <div class="content">
-                                <img src="images/services/convenio-prevencion-conflictos/preguntas.png" class="img-fluid" style="position: relative; display: inline-block;" alt="sucursales">
-                                <a class="btn-main mb10 bg-gris" href="sucursales.php" style="position: absolute; top: 80%; left: 80%; transform: translate(-80%, -10%);">Sucursales</a>
+                                <img src="images/services/convenio-prevencion-conflictos/preguntas.png" class="img-fluid posicion-imagen" alt="sucursales">
+                                <a class="btn-main mb10 bg-gris posicion-boton" href="sucursales.php">Sucursales</a>
                             </div>
                         </div>
                     </div>
@@ -399,7 +410,7 @@
                                     </div>
 
                                     <div class="col-lg-6">
-                                        <iframe width="100%" class="wow fadeInUp rounded-4 my-4" height="300" src="https://www.youtube.com/embed/ZuDu8hxrbbU?si=LZfZGkvi29-GUjEh" title="YouTube video player" frameborder="0" style="border-radius:16px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                                        <iframe width="100%" class="wow fadeInUp rounded-4 my-4 border-16" height="300" src="https://www.youtube.com/embed/ZuDu8hxrbbU?si=LZfZGkvi29-GUjEh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                                     </div>
                                 </div>
                             </div>

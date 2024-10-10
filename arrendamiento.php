@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 
 <head>
     <title>Póliza de Rentas</title>
@@ -79,9 +79,9 @@
                                 <div class="col-lg-4 col-md-6">
 
                                     <div class="bg-dark py-2 ps-4">
-                                        <h3 style="color: white;">Artículos recientes</h3>
+                                        <h3 class="text-white">Artículos recientes</h3>
                                     </div>
-                                    <div class="py-2 ps-4" style="border: 1px solid #DDDDDD;">
+                                    <div class="py-2 ps-4 borde">
                                         <div class="row col-lg-12 col-md-12 col-sm-12">
                                             <div class="col-lg-4 col-md-6 col-sm-6"><img src="images/limitaciones.jpeg" alt="limitaciones" class="img-fluid"></div>
                                             <div class="col-lg-8 col-md-6 col-sm-6">
