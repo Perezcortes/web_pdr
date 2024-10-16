@@ -19,6 +19,32 @@
     <!-- color scheme -->
     <link id="colors" href="css/colors/scheme-01.css" rel="stylesheet" type="text/css">
 
+    <!-- Meta Pixel Code -->
+    <script>
+        ! function(f, b, e, v, n, t, s) {
+            if (f.fbq) return;
+            n = f.fbq = function() {
+                n.callMethod ?
+                    n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+            };
+            if (!f._fbq) f._fbq = n;
+            n.push = n;
+            n.loaded = !0;
+            n.version = '2.0';
+            n.queue = [];
+            t = b.createElement(e);
+            t.async = !0;
+            t.src = v;
+            s = b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t, s)
+        }(window, document, 'script',
+            'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '217583817249537');
+        fbq('track', 'PageView');
+    </script>
+    <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=217583817249537&ev=PageView&noscript=1" /></noscript>
+    <!-- End Meta Pixel Code -->
+
 </head>
 
 <body>
@@ -78,8 +104,8 @@
                             <div class="col-lg-6 p-4 pb-2 bg-grey">
                                 <h4>Envía tus datos y un agente de Póliza de Rentas se pondrá en contacto contigo</h4>
 
-                                <form class="formulario-informes" id="contactoForm">           
-                                <div class="mb-3">
+                                <form class="formulario-informes" id="contactoForm">
+                                    <div class="mb-3">
                                         <label for="nombre" class="form-label">Nombre </label>
                                         <input type="text" name="nombre" class="form-control" id="exampleInputEmail1" require>
                                     </div>
@@ -87,7 +113,7 @@
                                         <label for="apellido" class="form-label">Primer Apellido</label>
                                         <input type="text" name="apellido" class="form-control" id="exampleInputEmail1" require>
                                     </div>
-                                  
+
                                     <div class="mb-3">
                                         <label for="email" class="form-label">Correo electrónico</label>
                                         <input type="email" name="email" class="form-control" id="exampleInputPassword1" aria-describedby="emailHelp" require>
@@ -110,7 +136,7 @@
                                         <input type="hidden" name="captcha" value="">
                                         <input type="hidden" name="id" value="">
                                     </div>
-                                 
+
                                     <button type="submit" class="btn btn-primary">Enviar</button>
                                 </form>
                             </div>
@@ -158,8 +184,8 @@
                 </div>
             </section>
 
-            <?php include 'footer.php';?>
-            
+            <?php include 'footer.php'; ?>
+
         </div>
 
         <!-- Javascript Files
@@ -172,47 +198,47 @@
 
         <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 
-<script>
-$(document).ready(function() {
-    $('#contactoForm').on('submit', function(e) {
-        e.preventDefault(); // Evita el envío del formulario por defecto
+        <script>
+            $(document).ready(function() {
+                $('#contactoForm').on('submit', function(e) {
+                    e.preventDefault(); // Evita el envío del formulario por defecto
 
-        var formData = $(this).serialize(); // Serializa los datos del formulario
+                    var formData = $(this).serialize(); // Serializa los datos del formulario
 
-        $.ajax({
-            type: 'POST',
-            url: 'https://app.polizaderentas.com/api/offices/contacto',
-            data: formData,
-            success: function(response) {
-                // Si la respuesta es 'success', muestra la alerta
-                if(response.status === 'success') {
-                    Swal.fire({
-                        icon: 'success',
-                        title: '¡Éxito!',
-                        text: response.message,
-                        confirmButtonText: 'OK',
+                    $.ajax({
+                        type: 'POST',
+                        url: 'https://app.polizaderentas.com/api/offices/contacto',
+                        data: formData,
+                        success: function(response) {
+                            // Si la respuesta es 'success', muestra la alerta
+                            if (response.status === 'success') {
+                                Swal.fire({
+                                    icon: 'success',
+                                    title: '¡Éxito!',
+                                    text: response.message,
+                                    confirmButtonText: 'OK',
+                                });
+                            } else {
+                                Swal.fire({
+                                    icon: 'error',
+                                    title: 'Error',
+                                    text: 'Hubo un problema con el envío. Por favor, intenta nuevamente.',
+                                    confirmButtonText: 'OK',
+                                });
+                            }
+                        },
+                        error: function(xhr, status, error) {
+                            Swal.fire({
+                                icon: 'error',
+                                title: 'Error',
+                                text: 'Hubo un problema con el envío. Por favor, intenta nuevamente.',
+                                confirmButtonText: 'OK',
+                            });
+                        }
                     });
-                } else {
-                    Swal.fire({
-                        icon: 'error',
-                        title: 'Error',
-                        text: 'Hubo un problema con el envío. Por favor, intenta nuevamente.',
-                        confirmButtonText: 'OK',
-                    });
-                }
-            },
-            error: function(xhr, status, error) {
-                Swal.fire({
-                        icon: 'error',
-                        title: 'Error',
-                        text: 'Hubo un problema con el envío. Por favor, intenta nuevamente.',
-                        confirmButtonText: 'OK',
-                    });
-            }
-        });
-    });
-});
-</script>
+                });
+            });
+        </script>
 
 </body>
 

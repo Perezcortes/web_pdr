@@ -19,6 +19,32 @@
     <!-- color scheme -->
     <link id="colors" href="css/colors/scheme-01.css" rel="stylesheet" type="text/css">
 
+    <!-- Meta Pixel Code -->
+    <script>
+        ! function(f, b, e, v, n, t, s) {
+            if (f.fbq) return;
+            n = f.fbq = function() {
+                n.callMethod ?
+                    n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+            };
+            if (!f._fbq) f._fbq = n;
+            n.push = n;
+            n.loaded = !0;
+            n.version = '2.0';
+            n.queue = [];
+            t = b.createElement(e);
+            t.async = !0;
+            t.src = v;
+            s = b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t, s)
+        }(window, document, 'script',
+            'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '217583817249537');
+        fbq('track', 'PageView');
+    </script>
+    <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=217583817249537&ev=PageView&noscript=1" /></noscript>
+    <!-- End Meta Pixel Code -->
+
 </head>
 
 <body>
@@ -40,7 +66,7 @@
                                         <div class="row gx-5 align-items-center">
 
                                             <div class="col-lg-7 mb-sm-30">
-                                            <div class="subtitle s2 wow fadeInUp mb-3">Nuestros Servicios</div>
+                                                <div class="subtitle s2 wow fadeInUp mb-3">Nuestros Servicios</div>
                                                 <h1 class="slider-title">Investigación de inquilinos
                                                 </h1>
                                                 <!-- <p class="fs-4 wow fadeInRight">
@@ -81,11 +107,17 @@
                         <p>En Póliza de Rentas tu tranquilidad es lo más importante. Es por esto que nuestros procesos de investigación están diseñados para determinar el grado de confianza de una persona para afrontar un compromiso de pago mensual.</p>
                         <h3 class="wow fadeInUp mb20" data-wow-delay=".2s">Cada uno de nuestros inquilinos es evaluando con tres tipos de investigación.</h3>
                         <ol class="">
-                            <li><h4>Investigación Paramétrica</h4>En Póliza de Rentas diseñamos un algoritmo que nos emite un “score” para cada uno de nuestros inquilinos, lo que nos permite medir el grado de estabilidad y confianza de una persona de acuerdo a su forma de vida, así como a la procedencia y nivel de sus ingresos.</li>
+                            <li>
+                                <h4>Investigación Paramétrica</h4>En Póliza de Rentas diseñamos un algoritmo que nos emite un “score” para cada uno de nuestros inquilinos, lo que nos permite medir el grado de estabilidad y confianza de una persona de acuerdo a su forma de vida, así como a la procedencia y nivel de sus ingresos.
+                            </li>
                             <br>
-                            <li><h4>Buró de Crédito</h4>Consultar el buró de crédito de nuestros inquilinos nos permite conocer cual es su historial de pagos, y si nivel de endeudamiento. De esta forma, podemos conocer la forma de conducirse y afrontar sus compromisos de pago.</li>
+                            <li>
+                                <h4>Buró de Crédito</h4>Consultar el buró de crédito de nuestros inquilinos nos permite conocer cual es su historial de pagos, y si nivel de endeudamiento. De esta forma, podemos conocer la forma de conducirse y afrontar sus compromisos de pago.
+                            </li>
                             <br>
-                            <li><h4>Buró de Incidencias Legales</h4>Consultamos al inquilino en más de 80 bases de datos nacionales e internacionales. Saber si cuenta con juicios mercantiles, de arrendamiento, o de cualquier otro tipo de problema legal es fundamental para tomar una correcta decisión sobre la persona a la que se le dará posesión del patrimonio de nuestros clientes.</li>
+                            <li>
+                                <h4>Buró de Incidencias Legales</h4>Consultamos al inquilino en más de 80 bases de datos nacionales e internacionales. Saber si cuenta con juicios mercantiles, de arrendamiento, o de cualquier otro tipo de problema legal es fundamental para tomar una correcta decisión sobre la persona a la que se le dará posesión del patrimonio de nuestros clientes.
+                            </li>
                         </ol>
                         <h3 class="wow fadeInUp mb20" data-wow-delay=".2s">¡Saber en manos de quién estás dejando tu patrimonio es sumamente importante; conoce bien a tu inquilino gracias a Póliza de Rentas!</h3>
                         <a class="btn-main mb10 mt20" href="sucursales.php">Sucursales</a>
@@ -100,7 +132,7 @@
         </section>
         <!-- section close -->
 
-        <?php include 'footer.php';?>
+        <?php include 'footer.php'; ?>
 
         <!-- Javascript Files
     ================================================== -->

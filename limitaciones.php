@@ -20,6 +20,32 @@
     <!-- color scheme -->
     <link id="colors" href="css/colors/scheme-01.css" rel="stylesheet" type="text/css">
 
+    <!-- Meta Pixel Code -->
+    <script>
+        ! function(f, b, e, v, n, t, s) {
+            if (f.fbq) return;
+            n = f.fbq = function() {
+                n.callMethod ?
+                    n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+            };
+            if (!f._fbq) f._fbq = n;
+            n.push = n;
+            n.loaded = !0;
+            n.version = '2.0';
+            n.queue = [];
+            t = b.createElement(e);
+            t.async = !0;
+            t.src = v;
+            s = b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t, s)
+        }(window, document, 'script',
+            'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '217583817249537');
+        fbq('track', 'PageView');
+    </script>
+    <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=217583817249537&ev=PageView&noscript=1" /></noscript>
+    <!-- End Meta Pixel Code -->
+
 </head>
 
 <body>
@@ -100,11 +126,11 @@
                                     </p>
                                     <h5 class="wow fadeInUp mt-5 mb20 color-dor" data-wow-delay=".2s">Sanciones por Incumplimiento del Tope de Aumento de Rentas</h5>
                                     <p class="wow fadeInUp"><b>¿Qué sanciones existen por incumplir con el nuevo tope de aumento de rentas?</b><br>
-                                    El no respetar la limitación establecida, más allá de una sanción, implicará la nulidad de cualquier aumento superior a la inflación del año anterior establecido en algún contrato de arrendamiento, y solo resultará aplicable el porcentaje máximo permitido por la reforma. Ya que se trata de una disposición legal de naturaleza prohibitiva, es decir, que no admite modificación ni renuncia por voluntad de las partes.
+                                        El no respetar la limitación establecida, más allá de una sanción, implicará la nulidad de cualquier aumento superior a la inflación del año anterior establecido en algún contrato de arrendamiento, y solo resultará aplicable el porcentaje máximo permitido por la reforma. Ya que se trata de una disposición legal de naturaleza prohibitiva, es decir, que no admite modificación ni renuncia por voluntad de las partes.
                                     </p>
                                     <h5 class="wow fadeInUp mt-5 mb20 color-dor" data-wow-delay=".2s">Ámbito de aplicación de la reforma.</h5>
                                     <p class="wow fadeInUp">El presente análisis se realizó con base en la información obtenida del dictamen aprobado el 16 de agosto de 2024 por el Congreso de la Ciudad de México que modificó y aprobó el proyecto de decreto que reforma el Código Civil del Distrito Federal y surtirá sus efectos dentro de los 30 días siguientes a la fecha en que se publique el decreto de reforma en la Gaceta Oficial de la Ciudad de México. <br>
-                                    Esto implica que a partir de que se lleve a cabo la publicación del decreto, el Gobierno Capitalino señalará el plazo con el que se contará para inscribir en el registro los nuevos contratos de arrendamiento que se celebren, no debiendo perder de vista que aquellos que se encuentren en curso, se deberán inscribir en un plazo no mayor de 90 días posteriores a la entrada en vigor del registro digital de contratos. <br>
+                                        Esto implica que a partir de que se lleve a cabo la publicación del decreto, el Gobierno Capitalino señalará el plazo con el que se contará para inscribir en el registro los nuevos contratos de arrendamiento que se celebren, no debiendo perder de vista que aquellos que se encuentren en curso, se deberán inscribir en un plazo no mayor de 90 días posteriores a la entrada en vigor del registro digital de contratos. <br>
                                         <b>¿Esta reforma aplica a inmuebles habitacionales y comerciales?</b><br>
                                         Al tratarse de un artículo que se establece en el capítulo IV, del Título SEXTO, relativo al Arrendamiento de fincas urbanas destinadas a la Habitación, <b>esta reforma impactará únicamente a los inmuebles de uso habitacional,</b> por lo que quedan excluidos los inmuebles rústicos, comerciales o industriales. <br>
                                         <b>¿Esta reforma aplica a los estados de la República Mexicana o sólo es aplicable a la Ciudad de México?</b> <br>

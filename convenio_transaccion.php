@@ -19,6 +19,32 @@
     <!-- color scheme -->
     <link id="colors" href="css/colors/scheme-01.css" rel="stylesheet" type="text/css">
 
+    <!-- Meta Pixel Code -->
+    <script>
+        ! function(f, b, e, v, n, t, s) {
+            if (f.fbq) return;
+            n = f.fbq = function() {
+                n.callMethod ?
+                    n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+            };
+            if (!f._fbq) f._fbq = n;
+            n.push = n;
+            n.loaded = !0;
+            n.version = '2.0';
+            n.queue = [];
+            t = b.createElement(e);
+            t.async = !0;
+            t.src = v;
+            s = b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t, s)
+        }(window, document, 'script',
+            'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '217583817249537');
+        fbq('track', 'PageView');
+    </script>
+    <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=217583817249537&ev=PageView&noscript=1" /></noscript>
+    <!-- End Meta Pixel Code -->
+
 </head>
 
 <body>
@@ -80,9 +106,9 @@
                         <h2 class="wow fadeInUp mb20" data-wow-delay=".2s">Convenio de Transacción</h2>
                         <p>Requieres un contrato blindado, Póliza de Rentas puede apoyarte con un Convenio de Transacción firmado ante Notario Público. Gracias a este tipo de contratos, podremos firmar un acuerdo de desalojo anticipado, de tal forma que no requieras de un juicio para recuperar tu inmueble. La tranquilidad a la hora de rentar tu inmueble es importante, no lo dejes pasar y evita problemas judiciales.
 
-                        Este tipo de contratos sólo está disponible en algunos estados de la República Mexicana.
+                            Este tipo de contratos sólo está disponible en algunos estados de la República Mexicana.
 
-                        Pregunta a tu abogado.</p>
+                            Pregunta a tu abogado.</p>
                         <!-- <ul class="list-unstyled">
                             <li><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-file-earmark-lock-fill" viewBox="0 0 16 16">
                                     <path d="M7 7a1 1 0 0 1 2 0v1H7zM6 9.3c0-.042.02-.107.105-.175A.64.64 0 0 1 6.5 9h3a.64.64 0 0 1 .395.125c.085.068.105.133.105.175v2.4c0 .042-.02.107-.105.175A.64.64 0 0 1 9.5 12h-3a.64.64 0 0 1-.395-.125C6.02 11.807 6 11.742 6 11.7z" />
