@@ -126,7 +126,7 @@
                                 <img src="images/services/nosotros-01.jpg" class="img-fullwidth rounded-20 mb20" alt="Abogados Calificados">
                                 <h4>Abogados Calificados</h4>
                                 <hr class="s2">
-                                <p>Nuestros Abogados están certificados en Derecho Inmobiliario. Respaldados por un equipo altamente calificado y experimentado en oficinas centrales.</p>
+                                <p>Contamos con un equipo de abogados especializados en Derecho Inmobiliario, certificados y respaldados por una amplia experiencia. Nuestro equipo en oficinas centrales se encarga de brindar asesoría legal profesional en arrendamientos inmobiliarios en México, asegurando que cada contrato esté jurídicamente blindado.</p>
                             </div>
                         </div>
 
@@ -135,8 +135,7 @@
                                 <img src="images/services/nosotros-02.jpg" class="img-fullwidth rounded-20 mb20" alt="Protección Jurídica Inmobiliaria">
                                 <h4>Protección Jurídica Inmobiliaria</h4>
                                 <hr class="s2">
-                                <p>Nuestro enfoque se basa en una correcta investigación de cada inquilino, ya que de esta manera logramos que nuestro propietario tenga una mejor experiencia.
-                                </p>
+                                <p>En Póliza de Rentas, nuestra prioridad es la seguridad de nuestros propietarios. Realizamos investigaciones exhaustivas de cada inquilino, garantizando una experiencia de arrendamiento segura y libre de preocupaciones. Nuestro enfoque en protección jurídica inmobiliaria te asegura un respaldo sólido desde el inicio.</p>
                             </div>
                         </div>
 
@@ -145,7 +144,7 @@
                                 <img src="images/services/nosotros-03.jpg" class="img-fullwidth rounded-20 mb20" alt="Los Mejores Resultados">
                                 <h4>Los Mejores Resultados</h4>
                                 <hr class="s2">
-                                <p>La incidencia de nuestras reclamaciones es menor al 2% lo que es resultado de procesos adecuados tanto del perfilamiento como de protección.</p>
+                                <p>Gracias a nuestros procesos de perfilamiento de inquilinos y protección jurídica, logramos mantener una incidencia de reclamaciones menor al 2%. Esta baja tasa refleja la seguridad de nuestras pólizas jurídicas y la tranquilidad que ofrecemos a propietarios que buscan arrendar sus inmuebles.</p>
                             </div>
                         </div>
                     </div>
@@ -158,24 +157,26 @@
                     <div class="row justify-content-center text-center">
                         <div class="col-lg-6">
                             <div class="subtitle s2 wow fadeInUp mb-3">Nuestro objetivo</div>
-                            <h2 class="mb20 wow fadeInUp" data-wow-delay=".2s">La mejor experiencia en la renta de inmuebles.</h2>
+                            <h2 class="mb20 wow fadeInUp" data-wow-delay=".2s">La mejor experiencia en la renta de inmuebles con Póliza de Rentas</h2>
                         </div>
                     </div>
                     <div class="row justify-content-center">
                         <div class="col-lg-4">
-                            <p class="mb20 wow fadeInUp" data-wow-delay=".2s">Lograr a través de un correcto perfilamiento de inquilinos y de una adecuada protección jurídica, que todos nuestros propietarios tengan la mejor experiencia en la renta de su inmueble. De la misma manera, buscamos que nuestros inquilinos reciban un trato justo y adecuado por parte de los arrendadores.</p>
+                            <p class="mb20 wow fadeInUp" data-wow-delay=".2s">Garantizamos la <b>mejor experiencia en el arrendamiento</b> de inmuebles, mediante un <b>perfilamiento exhaustivo de inquilinos</b> y una sólida <b>protección jurídica.</b> Nuestro objetivo es que los propietarios disfruten de una renta segura y sin complicaciones, mientras que los inquilinos reciben un <b>trato justo y adecuado</b> por parte de los arrendadores.</p>
                         </div>
                         <div class="col-lg-4">
                             <ul class="list-unstyled">
                                 <li class="mb20 wow fadeInUp" data-wow-delay=".3s"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-bookmark-check-fill" viewBox="0 0 16 16">
                                         <path fill-rule="evenodd" d="M2 15.5V2a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v13.5a.5.5 0 0 1-.74.439L8 13.069l-5.26 2.87A.5.5 0 0 1 2 15.5m8.854-9.646a.5.5 0 0 0-.708-.708L7.5 7.793 6.354 6.646a.5.5 0 1 0-.708.708l1.5 1.5a.5.5 0 0 0 .708 0z" />
-                                    </svg> Confía en nuestro equipo jurídico.</li>
+                                    </svg><b>Confía en nuestros abogados expertos en arrendamiento inmobiliario</b></li>
                                 <li class="mb20 wow fadeInUp" data-wow-delay=".4s"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-bookmark-check-fill" viewBox="0 0 16 16">
                                         <path fill-rule="evenodd" d="M2 15.5V2a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v13.5a.5.5 0 0 1-.74.439L8 13.069l-5.26 2.87A.5.5 0 0 1 2 15.5m8.854-9.646a.5.5 0 0 0-.708-.708L7.5 7.793 6.354 6.646a.5.5 0 1 0-.708.708l1.5 1.5a.5.5 0 0 0 .708 0z" />
                                     </svg>Tu patrimonio en nuestras manos estará bien protegido.</li>
                                 <li class="mb20 wow fadeInUp" data-wow-delay=".5s"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-bookmark-check-fill" viewBox="0 0 16 16">
                                         <path fill-rule="evenodd" d="M2 15.5V2a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v13.5a.5.5 0 0 1-.74.439L8 13.069l-5.26 2.87A.5.5 0 0 1 2 15.5m8.854-9.646a.5.5 0 0 0-.708-.708L7.5 7.793 6.354 6.646a.5.5 0 1 0-.708.708l1.5 1.5a.5.5 0 0 0 .708 0z" />
-                                    </svg> La mejor protección jurídica a un solo precio.</li>
+                                    </svg> La <b>protección jurídica más completa</b> del mercado, con una inversión accesible para garantizar la seguridad de tu propiedad.
+
+                                </li>
 
                             </ul>
                         </div>
@@ -197,8 +198,8 @@
                         <div class="col-lg-6 mb-sm-20">
                             <div class="subtitle wow fadeInUp mb-3">Nuestro equipo</div>
                             <h2 class="wow fadeInUp" data-wow-delay=".2s">Sólo los mejores abogados</h2>
-                            <p class="wow fadeInUp">Nuestra visión es llevar experiencias positivas en protección jurídica inmobiliaria a cada ciudad del país, estableciendo sucursales encabezadas por socios representantes.</p>
-                            <p>Cada abogado recibe una calificación y comentarios respecto de su servicio por parte de propietarios e inquilinos, lo que asegura y da garantías del servicio de cada uno de nuestros abogados.</p>
+                            <p class="wow fadeInUp">Nuestra visión es ofrecer experiencias positivas de protección jurídica en toda la República Mexicana, a través de nuestras sucursales encabezadas por socios representantes especializados en arrendamiento.</p>
+                            <p>Cada uno de nuestros abogados en arrendamiento inmobiliario es evaluado y recibe retroalimentación por parte de propietarios e inquilinos, lo que garantiza un servicio de alta calidad y confianza en la protección legal de inmuebles.</p>
                             <hr class="s2">
                             <div class="spacer-10"></div>
                             <a class="btn-line mb10" href="sucursales.php">Ubica tu sucursal</a>

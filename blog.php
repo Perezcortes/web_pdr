@@ -192,6 +192,16 @@
                                 <h3 class="wow fadeInUp mt-5 mb20 color-dor" data-wow-delay=".2s"><a href="contrato-exclusividad.php" style="color: rgba(187,161,85);">Contrato de exclusividad inmobiliaria-¿Qué debe incluir?¿Cuáles son las obligaciones y derechos del asesor?</a></h3>
                                 <p class="wow fadeInUp">CONTRATO DE EXCLUSIVIDAD EN ARRENDAMIENTO INMOBILIARIO Como asesores inmobiliarios, la exclusividad no solo se limita a la comercialización de bienes inmuebles, sino que también juega un papel crucial en los servicios que un asesor inmobiliario puede ofrecer a sus clientes de manera exclusiva para la gestión del arrendamiento de sus bienes, esto fortalece las relaciones […]</p>
                                 <a href="contrato-exclusividad.php" style="color: rgba(187,161,85);"><span>LEER MAS</span></a>
+
+                                <br><br>
+
+                                <a href="contrato-exclusividad.php"><img src="images/reforma-alquiler.jpg" alt="contrato" width="150%" class="img-fluid"></a>
+
+                                <h3 class="wow fadeInUp mt-5 mb20 color-dor" data-wow-delay=".2s"><a href="contrato-exclusividad.php" style="color: rgba(187,161,85);">Propietarios de inmuebles en CDMX: ¿Cómo protegerse ante las nuevas reformas en el mercado de alquiler?</a></h3>
+                                <p class="wow fadeInUp">La Ciudad de México cierra el 2024 con cambios significativos en las regulaciones de arrendamiento, que impactan directamente a los propietarios de inmuebles en renta.
+
+                                A continuación, te presentamos un análisis detallado sobre estas reformas y algunas estrategias que puedes implementar para proteger tu inversión […]</p>
+                                <a href="reforma-alquiler.php" style="color: rgba(187,161,85);"><span>LEER MAS</span></a>
                             </div>
 
                             <div class="col-lg-4 col-md-6">
@@ -242,6 +252,14 @@
                                                 <p>Contrato de exclusividad inmobiliaria-¿Qué debe incluir?¿Cuáles son las obligaciones y derechos del asesor?</p>
                                             </a>
                                             <span>Póliza De Rentas - 11 Marzo, 2024</span>
+                                        </div>
+
+                                        <div class="col-lg-4 col-md-6 col-sm-6"><img src="images/reforma-alquiler.jpg" alt="contrato" class="img-fluid"></div>
+                                        <div class="col-lg-8 col-md-6 col-sm-6">
+                                            <a href="reforma-alquiler.php" style="color: rgb(101, 85, 36);">
+                                                <p>ropietarios de inmuebles en CDMX: ¿Cómo protegerse ante las nuevas reformas en el mercado de alquiler?</p>
+                                            </a>
+                                            <span>Póliza De Rentas - 15 Noviembre, 2024</span>
                                         </div>
                                     </div>
                                 </div>

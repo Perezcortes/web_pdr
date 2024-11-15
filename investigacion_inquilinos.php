@@ -118,7 +118,8 @@
                     <div class="col-lg-5">
                         <div class="subtitle s2 wow fadeInUp mb-3">Cómo funciona</div>
                         <h2 class="wow fadeInUp mb20" data-wow-delay=".2s">Investigación de Inquilinos</h2>
-                        <p>En Póliza de Rentas tu tranquilidad es lo más importante. Es por esto que nuestros procesos de investigación están diseñados para determinar el grado de confianza de una persona para afrontar un compromiso de pago mensual.</p>
+                        <p>En Póliza de Rentas, tu tranquilidad es nuestra prioridad. Por eso, nuestros procesos de investigación de inquilinos están diseñados para evaluar detalladamente el grado de confianza y solvencia de cada persona, asegurando su capacidad para cumplir con el pago mensual de la renta.</p>
+                        <p>Confía en nuestra investigación especializada para proteger tu propiedad y evitar futuros problemas.</p>
                         <h3 class="wow fadeInUp mb20" data-wow-delay=".2s">Cada uno de nuestros inquilinos es evaluando con tres tipos de investigación.</h3>
                         <ol class="">
                             <li>
@@ -130,10 +131,17 @@
                             </li>
                             <br>
                             <li>
-                                <h4>Buró de Incidencias Legales</h4>Consultamos al inquilino en más de 80 bases de datos nacionales e internacionales. Saber si cuenta con juicios mercantiles, de arrendamiento, o de cualquier otro tipo de problema legal es fundamental para tomar una correcta decisión sobre la persona a la que se le dará posesión del patrimonio de nuestros clientes.
+                                <h4>Buró de Incidencias Legales</h4>Consultamos al inquilino en más de 100 bases de datos nacionales e internacionales. Saber si cuenta con juicios mercantiles, de arrendamiento, o de cualquier otro tipo de problema legal es fundamental para tomar una correcta decisión sobre la persona a la que se le dará posesión del patrimonio de nuestros clientes.
                             </li>
                         </ol>
-                        <h3 class="wow fadeInUp mb20" data-wow-delay=".2s">¡Saber en manos de quién estás dejando tu patrimonio es sumamente importante; conoce bien a tu inquilino gracias a Póliza de Rentas!</h3>
+                        <h3 class="wow fadeInUp mb20" data-wow-delay=".2s">¡Con Póliza de Rentas sabrás exactamente en manos de quién estás dejando tu propiedad!
+                        </h3>
+                        <h3 class="wow fadeInUp mb20" data-wow-delay=".2s">
+                            Nuestro exhaustivo proceso de investigación te ayuda a conocer a fondo a tu inquilino, garantizando un arrendamiento seguro y libre de sorpresas.
+                        </h3>
+                        <h3 class="wow fadeInUp mb20" data-wow-delay=".2s">
+                            No pongas en riesgo tu patrimonio, asegúralo con la mejor protección jurídica en México.
+                        </h3>
                         <a class="btn-main mb10 mt20" href="sucursales.php">Sucursales</a>
                         <div class="spacer-single"></div>
                     </div>

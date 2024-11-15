@@ -182,7 +182,7 @@
                                 <img src="images/svg/collaboration-svgrepo-com.svg" class="w-80px mb20" alt="Prevenir problemas">
                                 <h4>Prevenir problemas</h4>
                                 <hr class="s2">
-                                <p>La prevención es pilar fundamental en nuestros servicios, ya que es la garantía de seguridad y confianza con cada cliente, por ello contamos con la <b>investigación de inquilinos</b> más completa de todo México.</p>
+                                <p>La prevención es clave para asegurar un arrendamiento confiable y seguro en México. En Póliza de Rentas, ofrecemos la investigación de inquilinos más completa a nivel nacional, garantizando la seguridad jurídica y confianza en cada contrato de arrendamiento.</p>
                             </div>
                         </div>
 
@@ -191,7 +191,7 @@
                                 <img src="images/svg/embedded-live-content-svgrepo-com.svg" class="w-80px mb20" alt="prever riesgos">
                                 <h4>Preveer riesgos</h4>
                                 <hr class="s2">
-                                <p>El análisis minucioso a través nuestro <b>sistema de evaluación de riesgo</b>, nos permite blindar a nuestros clientes jurídicamente, además que todas nuestras coberturas incluyen la protección contra <b>la ley de extinción de dominio.</b></p>
+                                <p>Nuestro avanzado sistema de evaluación de riesgo legal nos permite proteger jurídicamente a los propietarios en todo México. Nuestras pólizas jurídicas de arrendamiento también incluyen protección contra la Ley de Extinción de Dominio, asegurando que tu propiedad esté legalmente resguardada.</p>
                             </div>
                         </div>
 
@@ -200,7 +200,7 @@
                                 <img src="images/svg/lock-svgrepo-com.svg" class="w-80px mb20" alt="proteger la inversión">
                                 <h4>Proteger la inversión</h4>
                                 <hr class="s2">
-                                <p>Te acompañamos desde la firma del contrato y durante toda la vigencia del mismo, protegiendo tu patrimonio con atención a incidencias 24/7 a través de nuestra app.</p>
+                                <p>Te brindamos acompañamiento legal desde la firma del contrato de arrendamiento y durante toda la vigencia del mismo, protegiendo tu patrimonio con cobertura 24/7 a través de nuestra app. Con Póliza de Rentas, tu propiedad y tu inversión están siempre seguras.</p>
                             </div>
                         </div>
                     </div>
@@ -299,9 +299,8 @@
                         <div class="col-lg-6">
                             <div class="subtitle s2 wow fadeInUp mb-3">Quiénes somos</div>
                             <h2 class="wow fadeInUp" data-wow-delay=".2s">Acerca de <br> Póliza de Rentas</h2>
-                            <p class="wow fadeInUp">Somos una empresa dedicada a proteger el patrimonio de las personas,
-                                nuestros servicios están destinados a propietarios, inmobiliarias o administradores de
-                                inmuebles que buscan dar sus propiedades en arrendamiento.</p>
+                            <p class="wow fadeInUp">Somos la empresa líder en México dedicada a proteger inmuebles en arrendamiento. Nuestros servicios de pólizas jurídicas para arrendamiento garantizan una protección integral en cada contrato, brindando tranquilidad y respaldo legal tanto a propietarios como a inquilinos.</p>
+                            <p><b>¿Eres asesor inmobiliario?</b> Trabajamos contigo para asegurar el éxito de tus operaciones de arrendamiento. Con nuestro apoyo, no solo ofrecerás un servicio más profesional y de mejor calidad a tus clientes, sino que también simplificará tus actividades diarias al contar con el respaldo de un equipo experto en prevención y resolución de conflictos.</p>
                             <hr class="s2">
                             <div class="spacer-10"></div>
                             <a class="btn-main mb10" href="nosotros.php">Conoce más</a>
@@ -321,27 +320,35 @@
                                 <details>
                                     <summary class="wow fadeInUp"><strong>¿Qué es una Póliza Jurídica?</strong></summary><br>
 
-                                    Es un contrato de prestación de servicios jurídicos que te protegerá durante todo el periodo de arrendamiento.
+                                    Es un contrato de prestación de servicios legales diseñado para brindarte protección durante todo el periodo de arrendamiento de tu inmueble. Es fundamental para garantizar que tu propiedad esté respaldada legalmente frente a cualquier eventualidad, asegurando una experiencia de arrendamiento segura en México.
                                 </details>
                                 <details>
                                     <summary class="wow fadeInUp"><strong>¿Por qué es importante contratar <br> una Póliza Jurídica?</strong></summary><br>
 
-                                    Es importante ya que contarás con todo el respaldo jurídico de abogados especializados en materia inmobiliaria para ayudarte a proteger tu inmueble y prevenir o solucionar cualquier conflicto con tu futuro inquilino.
+                                    Es esencial para proteger tu propiedad con el respaldo de nuestros abogados especializados en arrendamiento inmobiliario. Esta protección te permitirá prevenir o resolver conflictos con tu inquilino de manera efectiva, garantizando que tu inversión esté segura y que cualquier problema relacionado con el arrendamiento pueda ser gestionado por expertos.
                                 </details>
                                 <details>
                                     <summary class="wow fadeInUp"><strong>¿Qué tipo de protección jurídica debo elegir?</strong></summary><br>
 
-                                    Tenemos 3 tipos de protección jurídica, contáctanos y elegiremos la más adecuada para ti.
+                                    Todas nuestras coberturas incluyen:
+                                    <ul>
+                                        <li>Investigación de inquilino</li>
+                                        <li>Perfilamiento del inquilino</li>
+                                        <li>Contrato profesional</li>
+                                        <li>Asesoramiento Jurídico</li>
+                                        <li>Resolución de conflictos</li>
+                                        <li>Recuperación de rentas vencidas Contáctanos para encontrar la protección jurídica ideal para ti.</li>
+                                    </ul>
                                 </details>
                                 <details>
                                     <summary class="wow fadeInUp"><strong>¿Es necesario investigar a mi futuro inquilino?</strong></summary><br>
 
-                                    Es fundamental que se haga una investigación de la persona a la que le darás posesión de tu inmueble, no solo para conocer si podrá cumplir adecuadamente con el pago de la renta, sino para conocer su estabilidad, historial y referencias.
+                                    Sí, investigar a tu futuro inquilino es crucial. Este proceso te permite evaluar su capacidad para cumplir con el pago de la renta, además de revisar su historial, estabilidad y referencias. Realizar una investigación de tu inquilino completa te asegura que estés arrendando tu inmueble a una persona confiable, lo que reduce los riesgos y te brinda tranquilidad.
                                 </details>
                                 <details>
                                     <summary class="wow fadeInUp"><strong>¿Cómo arrendatario obtengo algún beneficio al <br> contratar una póliza jurídica?</strong></summary><br>
 
-                                    Si claro, nosotros protegeremos tus derechos como inquilino durante todo el periodo de arrendamiento.
+                                    ¡Claro que sí! Al contratar una póliza jurídica, como arrendatario estarás protegido legalmente durante todo el periodo de arrendamiento. Esto garantiza que tus derechos como inquilino estarán respaldados, brindándote seguridad y confianza en el contrato de arrendamiento, y asegurando una experiencia de renta justa y transparente. Además, una Póliza Jurídica sirve como garantía en caso de no contar con un fiador.
                                 </details>
                             </div>
                         </div>
@@ -354,17 +361,6 @@
                     </div>
                 </div>
             </section>
-
-            <!-- <script>
-                function toggleParagraph(id) {
-                    var para = document.getElementById(id);
-                    if (para.classList.contains('hidden')) {
-                        para.classList.remove('hidden');
-                    } else {
-                        para.classList.add('hidden');
-                    }
-                }
-            </script> -->
 
             <section class=" bo-bottom">
                 <div class="container">
@@ -441,7 +437,7 @@
                                         </h2>
 
                                         <div class=" s2 mb-4">
-                                            Con nuestro probado Triángulo de la Seguridad, que se basa en prevenir, prever y proteger, tendrás las herramientas para construir un negocio sólido y rentable. Además, nuestra rigurosa <b>investigación del inquilino</b> garantiza la prevención de problemas y la tranquilidad para todas nuestras franquicias.
+                                            Con <b>Póliza de Rentas</b>, obtienes la máxima protección para tu propiedad. Nuestro exclusivo <b>Triángulo de la Seguridad</b> —basado en <b>prevenir, prever y proteger</b>— te brinda las herramientas necesarias para asegurar un <b>negocio inmobiliario sólido y rentable</b>. Además, gracias a nuestra rigurosa <b>investigación de inquilinos,</b> garantizamos la <b>prevención de problemas</b> y ofrecemos total <b>tranquilidad</b> gracias a nuestras pólizas jurídicas.
                                         </div>
 
                                         <!-- <a class="btn-main" href="https://formulario.franquicias.polizaderentas.com/">Inicia tu proceso</a>
@@ -450,7 +446,7 @@
                                     </div>
 
                                     <div class="col-lg-6">
-                                        <iframe width="100%" class="wow fadeInUp rounded-4 my-4 border-16" height="300" src="https://www.youtube.com/embed/ZuDu8hxrbbU?si=LZfZGkvi29-GUjEh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                                        <iframe width="100%" class="wow fadeInUp rounded-4 my-4 border-16" height="300" src="https://www.youtube.com/embed/e6nYd5wZ5dQ?si=pAGgv95KUX39kEQZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                                     </div>
                                 </div>
                             </div>

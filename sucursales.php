@@ -98,7 +98,7 @@
                                                 </div>
                                                 <div class="col-lg-12">
                                                     <div class="subtitle s2 mb-4">
-                                                        <p>Póliza de Rentas cuenta con más de 30 sucursales alrededor <br>
+                                                        <p>Póliza de Rentas cuenta con más de 50 sucursales alrededor <br>
                                                             de todo México, trabajando de la mano con las mejores <br>
                                                             inmobiliarias y asesores en la contratación de pólizas jurídicas
                                                             <br>

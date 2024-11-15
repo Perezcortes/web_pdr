@@ -192,6 +192,15 @@
                                                 </a>
                                                 <span>Póliza De Rentas - 11 Marzo, 2024</span>
                                             </div>
+                                            <hr>
+
+                                            <div class="col-lg-4 col-md-6 col-sm-6"><img src="images/reforma-alquiler.jpg" alt="alquiler" class="img-fluid"></div>
+                                            <div class="col-lg-8 col-md-6 col-sm-6">
+                                                <a href="reforma-alquiler.php" class="articulos">
+                                                    <p>ropietarios de inmuebles en CDMX: ¿Cómo protegerse ante las nuevas reformas en el mercado de alquiler?</p>
+                                                </a>
+                                                <span>Póliza De Rentas - 15 Noviembre, 2024</span>
+                                            </div>
                                         </div>
                                     </div>
 

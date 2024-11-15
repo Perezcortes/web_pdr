@@ -81,10 +81,10 @@
 
                                             <div class="col-lg-7 mb-sm-30">
                                                 <div class="subtitle s2 wow fadeInUp mb-3">Nuestros Servicios</div>
-                                                <h1 class="slider-title">Convenio de prevención de conflictos
+                                                <h1 class="slider-title">Servicios
                                                 </h1>
                                                 <p class="fs-4 wow fadeInRight">
-                                                    Nuestro equipo de abogados altamente capacitados ha diseñado cuatro soluciones efectivas para garantizar la seguridad y tranquilidad de tu patrimonio.
+                                                    Nuestro equipo de abogados altamente capacitados ha diseñado cinco soluciones efectivas para garantizar la seguridad y tranquilidad de tu patrimonio.
                                                 </p>
                                                 <a class="btn-main mb10 mt20" href="#todos-los-servicios">Ver todos los servicios</a>
                                                 <a class="btn-main mb10 mt20" href="sucursales.php">Sucursales</a>
@@ -121,7 +121,7 @@
                             <img src="images/svg/collaboration-svgrepo-com.svg" class="w-80px mb20" alt="collaboration">
                             <h4>Póliza Jurídica</h4>
                             <hr class="s2">
-                            <p>Nosotros nos encargamos de protegerte a tí como propietario y a tu inmueble.</p>
+                            <p>En <b>Póliza de Rentas</b>, nos encargamos de protegerte como propietario y garantizar la seguridad de tu inmueble durante todo el arrendamiento.</p>
                             <br><br>
                             <a class="btn-main mb10 mt20" href="poliza_juridica.php">Ver más</a>
                         </div>
@@ -132,7 +132,7 @@
                             <img src="images/svg/embedded-live-content-svgrepo-com.svg" class="w-80px mb20" alt="convenio">
                             <h4>Convenio de Prevención de Conflictos</h4>
                             <hr class="s2">
-                            <p>Tu contrato de arrendamiento se perfecciona de manera judicial al celebrarlo mediante un convenido de mediación privada.</p>
+                            <p>Asegura que tu <b>contrato de arrendamiento</b> tenga validez legal a través de un <b>convenio de mediación privada</b>, evitando conflictos antes de que sucedan.</p>
                             <a class="btn-main mb10 mt20" href="convenio_prevencion.php">Ver más</a>
                         </div>
                     </div>
@@ -142,32 +142,29 @@
                             <img src="images/svg/lock-svgrepo-com.svg" class="w-80px mb20" alt="lock">
                             <h4>Convenio de Transacción</h4>
                             <hr class="s2">
-                            <p>Requieres un contrato blindado, Póliza de Rentas puede apoyarte con un Convenio de Transacción firmado ante Notario Público.</p>
+                            <p>Si necesitas un <b>contrato blindado</b>, en <b>Póliza de Rentas</b> te apoyamos con un <b>Convenio de Transacción</b> firmado ante Notario Público, brindándote máxima seguridad jurídica.</p>
                             <br>
                             <a class="btn-main mb10 mt20" href="convenio_transaccion.php">Ver más</a>
                         </div>
                     </div>
-                    <div class="col-lg-4 wow fadeInLeft">
-                        <div class="padding60 sm-padding40 rounded-30 bg-color h-100 text-light">
-                            <div class="row">
-                                <div class="col-lg-12">
-                                    <h2 class="mb20 wow fadeInUp" data-wow-delay=".2s">Máxima confianza</h2>
-                                    <p>El convenio se firma ante un Mediador Certificado y se inscribe en el Tribunal Superior de Justicia Alternativa.
-
-                                        Agiliza el proceso judicial
-                                        En caso de incumplimiento, el trámite judicial es </p>
-                                </div>
-                            </div>
+                    <div class="col-lg-3 col-md-6 wow fadeInRight" data-wow-delay=".4s">
+                        <div class="p-4 pb-2 bg-grey h-100">
+                            <img src="images/svg/search.svg" class="w-80px mb20" alt="lock">
+                            <h4>Investigación de inquilinos</h4>
+                            <hr class="s2">
+                            <p>En <b>Póliza de Rentas</b>, tu tranquilidad es nuestra prioridad. Por eso, nuestros procesos de <b>investigación de inquilinos</b> están diseñados para evaluar detalladamente el grado de confianza y solvencia de cada persona, asegurando su capacidad para cumplir con el pago mensual de la renta.</p>
+                            <br>
+                            <a class="btn-main mb10 mt20" href="investigacion_inquilinos.php">Ver más</a>
                         </div>
                     </div>
-                    <div class="col-lg-4 wow fadeInLeft">
-                        <div class="padding60 sm-padding40 rounded-30 bg-color h-100 text-light">
-                            <div class="row">
-                                <div class="col-lg-12">
-                                    <h2 class="mb20 wow fadeInUp" data-wow-delay=".2s">Agiliza el proceso judicial</h2>
-                                    <p>En caso de incumplimiento, el trámite judicial es mucho más ágil, lo que te permitirá recuperar tu inmueble rápidamente.</p>
-                                </div>
-                            </div>
+                    <div class="col-lg-3 col-md-6 wow fadeInRight" data-wow-delay=".4s">
+                        <div class="p-4 pb-2 bg-grey h-100">
+                            <img src="images/svg/firma.svg" class="w-80px mb20" alt="lock">
+                            <h4>Firma electronica</h4>
+                            <hr class="s2">
+                            <p>En Póliza de Rentas, contamos con la tecnología más avanzada para la firma de contratos de arrendamiento, utilizando la Firma Electrónica Avanzada a través de una entidad de certificación autorizada por la Secretaría de Economía.</p>
+                            <br>
+                            <a class="btn-main mb10 mt20" href="firma_electronica.php">Ver más</a>
                         </div>
                     </div>
                 </div>

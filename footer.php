@@ -5,10 +5,8 @@
             <div class="col-lg-4 col-sm-6">
                 <img src="images/logo.png" alt="logo" width="143">
                 <div class="spacer-20"></div>
-                <p>Somos una empresa dedicada a proteger el patrimonio de las personas,
-                    nuestros servicios están destinados a propietarios, inmobiliarias o
-                    administradores de inmuebles que buscan dar sus propiedades en arrendamiento.
-                </p>
+                <p><b>Protección total para tu patrimonio con Póliza de Rentas</b></p>
+                <p><b>Nos especializamos en proteger el patrimonio inmobiliario de propietarios, inmobiliarias y administradores de inmuebles que buscan arrendar sus propiedades. Ofrecemos soluciones jurídicas personalizadas que garantizan la seguridad en el arrendamiento, brindando respaldo y tranquilidad en todo el proceso de renta.</b></p>
 
                 <div class="widget">
                     <h5>Síguenos</h5>

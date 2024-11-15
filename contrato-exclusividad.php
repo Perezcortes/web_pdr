@@ -162,9 +162,9 @@
                                                 </a></div>
                                         </div>
                                         <div class="row col-lg-6 col-md-6 col-sm-12">
-                                            <div class="col-lg-4 col-md-6 col-sm-6"><img src="images/limitaciones.jpeg" alt="limitaciones" class="img-fluid"></div>
-                                            <div class="col-lg-8 col-md-6 col-sm-6"><a href="limitaciones.php" class="articulos">
-                                                    <p>Limitaciones al Aumento de Renta Mensual: Impacto de la Reforma al Código Civil en los Contratos de Arrendamiento para la Ciudad de México"</p>
+                                            <div class="col-lg-4 col-md-6 col-sm-6"><img src="images/reforma-alquiler.jpg" alt="limitaciones" class="img-fluid"></div>
+                                            <div class="col-lg-8 col-md-6 col-sm-6"><a href="reforma-alquiler.php" class="articulos">
+                                                    <p>Propietarios de inmuebles en CDMX: ¿Cómo protegerse ante las nuevas reformas en el mercado de alquiler?</p>
                                                 </a></div>
                                         </div>
 
@@ -213,6 +213,15 @@
                                                     <p>Contrato de exclusividad inmobiliaria-¿Qué debe incluir?¿Cuáles son las obligaciones y derechos del asesor?</p>
                                                 </a>
                                                 <span>Póliza De Rentas - 11 Marzo, 2024</span>
+                                            </div>
+                                            <hr>
+
+                                            <div class="col-lg-4 col-md-6 col-sm-6"><img src="images/reforma-alquiler.jpg" alt="alquiler" class="img-fluid"></div>
+                                            <div class="col-lg-8 col-md-6 col-sm-6">
+                                                <a href="reforma-alquiler.php" class="articulos">
+                                                    <p>ropietarios de inmuebles en CDMX: ¿Cómo protegerse ante las nuevas reformas en el mercado de alquiler?</p>
+                                                </a>
+                                                <span>Póliza De Rentas - 15 Noviembre, 2024</span>
                                             </div>
                                         </div>
                                     </div>
