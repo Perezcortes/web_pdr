@@ -226,8 +226,8 @@
                     <div class="row align-items-center gx-5">
                         <div class="col-lg-6 mb-sm-20 position-relative">
                             <div class="images-deco-1">
-                                <img src="images/misc/1.png" class="d-img-1 wow zoomIn" data-wow-delay="0s" alt="">
-                                <img src="images/misc/2.png" class="d-img-2 wow zoomIn" data-wow-delay=".5s" data-jarallax-element="100" alt="">
+                                <img src="images/misc/1.png" class="d-img-1 wow zoomIn" data-wow-delay="0s" alt="misc">
+                                <img src="images/misc/2.png" class="d-img-2 wow zoomIn" data-wow-delay=".5s" data-jarallax-element="100" alt="misc2">
                                 <div class="d-img-3 bg-color wow zoomIn" data-wow-delay=".6s" data-jarallax-element="-50"></div>
                             </div>
                         </div>
@@ -253,7 +253,7 @@
                 <div class="container">
                     <div class="row gx-5">
                         <div class="col-lg-4 col-sm-6">
-                            <img src="images/logo.png" alt="" width="143">
+                            <img src="images/logo.png" alt="logo" width="143">
                             <div class="spacer-20"></div>
                             <p>Somos una empresa dedicada a proteger el patrimonio de las personas,
                                 nuestros servicios están destinados a propietarios, inmobiliarias o
@@ -313,7 +313,7 @@
                             <h5>Contacto</h5>
                             <div class="widget">
                                 <div class="de-icon-text">
-                                    <img src="images/svg/email-address-svgrepo-com-white.svg" class="" alt="">
+                                    <img src="images/svg/email-address-svgrepo-com-white.svg" class="" alt="email">
                                     <div class="d-text">
                                         Montes Urales 755 piso 5, oficina 5631, Lomas de Chapultepec, Miguel Hidalgo,
                                         CDMX, 11000
@@ -323,7 +323,7 @@
                                 <br>
 
                                 <div class="de-icon-text mb20">
-                                    <img src="images/svg/phone-svgrepo-com-white.svg" class="" alt="">
+                                    <img src="images/svg/phone-svgrepo-com-white.svg" class="" alt="phone">
                                     <div class="d-text">
                                         <h4>Teléfono</h4>
                                         +52 5589469764
@@ -333,7 +333,7 @@
                                 <br>
 
                                 <div class="de-icon-text mb20">
-                                    <img src="images/svg/map-pin-svgrepo-com-white.svg" class="" alt="">
+                                    <img src="images/svg/map-pin-svgrepo-com-white.svg" class="" alt="map">
                                     <div class="d-text">
                                         <h4>Email</h4>
                                         info@polizaderentas.com

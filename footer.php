@@ -64,7 +64,7 @@
                 <h5>Contacto</h5>
                 <div class="widget">
                     <div class="de-icon-text">
-                        <img src="images/svg/email-address-svgrepo-com-white.svg" class="" alt="">
+                        <img src="images/svg/email-address-svgrepo-com-white.svg" class="" alt="email">
                         <div class="d-text">
                             Montes Urales 755 piso 5, oficina 5631, Lomas de Chapultepec, Miguel Hidalgo,
                             CDMX, 11000
@@ -74,7 +74,7 @@
                     <br>
 
                     <div class="de-icon-text mb20">
-                        <img src="images/svg/phone-svgrepo-com-white.svg" class="" alt="">
+                        <img src="images/svg/phone-svgrepo-com-white.svg" class="" alt="phone">
                         <div class="d-text">
                             <h4>Teléfono</h4>
                             +52 5589469764
@@ -84,7 +84,7 @@
                     <br>
 
                     <div class="de-icon-text mb20">
-                        <img src="images/svg/map-pin-svgrepo-com-white.svg" class="" alt="">
+                        <img src="images/svg/map-pin-svgrepo-com-white.svg" class="" alt="map">
                         <div class="d-text">
                             <h4>Email</h4>
                             info@polizaderentas.com

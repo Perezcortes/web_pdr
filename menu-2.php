@@ -8,8 +8,8 @@
                             <!-- logo begin -->
                             <div id="logo">
                                 <a href="index.php">
-                                    <img class="logo-main" src="images/logo.png" alt="" width="143">
-                                    <img class="logo-mobile" src="images/logo.png" alt="" width="100">
+                                    <img class="logo-main" src="images/logo.png" alt="logo" width="143">
+                                    <img class="logo-mobile" src="images/logo.png" alt="logo" width="100">
                                 </a>
                             </div>
                             <!-- logo close -->

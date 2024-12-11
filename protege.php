@@ -157,7 +157,7 @@
                                                 </a>
                                                 <span>Póliza De Rentas - 11 Marzo, 2024</span>
                                             </div> -->
-                                            <div class="col-lg-4 col-md-6 col-sm-6"><img src="images/limitaciones.jpeg" alt="" class="img-fluid"></div>
+                                            <div class="col-lg-4 col-md-6 col-sm-6"><img src="images/limitaciones.jpeg" alt="limitaciones" class="img-fluid"></div>
                                             <div class="col-lg-8 col-md-6 col-sm-6">
                                                 <a href="limitaciones.php" class="articulos">
                                                     <p>
@@ -167,7 +167,7 @@
                                             </div>
                                             <hr>
 
-                                            <div class="col-lg-4 col-md-6 col-sm-6"><img src="images/arrendamiento.jpg" alt="" class="img-fluid"></div>
+                                            <div class="col-lg-4 col-md-6 col-sm-6"><img src="images/arrendamiento.jpg" alt="arrendamiento" class="img-fluid"></div>
                                             <div class="col-lg-8 col-md-6 col-sm-6">
                                                 <a href="arrendamiento.php" class="articulos">
                                                     <p>Arrendamiento Inmobiliario en México: Navegando con Éxito la Ley de Extinción de Dominio</p>
@@ -176,7 +176,7 @@
                                             </div>
                                             <hr>
 
-                                            <div class="col-lg-4 col-md-6 col-sm-6"><img src="images/protege.jpg" alt="" class="img-fluid"></div>
+                                            <div class="col-lg-4 col-md-6 col-sm-6"><img src="images/protege.jpg" alt="articulos" class="img-fluid"></div>
                                             <div class="col-lg-8 col-md-6 col-sm-6">
                                                 <a href="protege.php" class="articulos">
                                                     <p>Protege tu Inversión: Estafas Comunes en el Arrendamiento Inmobiliario y Cómo Resguardarte con Pólizas Jurídicas de Arrendamiento</p>
@@ -185,7 +185,7 @@
                                             </div>
                                             <hr>
 
-                                            <div class="col-lg-4 col-md-6 col-sm-6"><img src="images/contrato.jpg" alt="" class="img-fluid"></div>
+                                            <div class="col-lg-4 col-md-6 col-sm-6"><img src="images/contrato.jpg" alt="contrato" class="img-fluid"></div>
                                             <div class="col-lg-8 col-md-6 col-sm-6">
                                                 <a href="contrato-exclusividad.php" class="articulos">
                                                     <p>Contrato de exclusividad inmobiliaria-¿Qué debe incluir?¿Cuáles son las obligaciones y derechos del asesor?</p>

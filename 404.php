@@ -117,7 +117,7 @@ http_response_code(404);
                                                 <span>4</span>
                                             </section>
                                             <div class="link-container">
-                                                <a href="index.php" class="more-link"><img class="logo-mobile" src="images/logo.png" alt="" width="200"></a>
+                                                <a href="index.php" class="more-link"><img class="logo-mobile" src="images/logo.png" alt="logo" width="200"></a>
                                             </div>
                                         </div>
                                     </div>

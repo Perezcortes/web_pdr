@@ -101,7 +101,7 @@
                                     <hr>
                                     <div class="row">
                                         <div class="row col-lg-6 col-md-6 col-sm-12">
-                                            <div class="col-lg-4 col-md-6 col-sm-6"><img src="images/limitaciones.jpeg" alt="" class="img-fluid"></div>
+                                            <div class="col-lg-4 col-md-6 col-sm-6"><img src="images/limitaciones.jpeg" alt="limitaciones" class="img-fluid"></div>
                                             <div class="col-lg-8 col-md-6 col-sm-6"><a href="limitaciones.php" class="articulos">
                                                     <p>Limitaciones al Aumento de Renta Mensual: Impacto de la Reforma al Código Civil en los Contratos de Arrendamiento para la Ciudad de México"</p>
                                                 </a></div>

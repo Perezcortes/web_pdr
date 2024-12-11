@@ -136,7 +136,7 @@
                     </div>
 
                     <div class="col-lg-5">
-                        <img src="images/services/convenio-prevencion-conflictos/convenio-prevencion-conflictos-02.jpg" class="img-fluid rounded-30" alt="">
+                        <img src="images/services/convenio-prevencion-conflictos/convenio-prevencion-conflictos-02.jpg" class="img-fluid rounded-30" alt="conflicto">
                     </div>
                 </div>
             </div>
