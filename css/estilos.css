@@ -395,5 +395,9 @@ a.more-link:hover {
 }
 
 .border-16 {
-    border-radius:16px;
+    border-radius: 16px;
+}
+
+h1, h2 {
+    letter-spacing: 0 !important;
 }
