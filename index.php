@@ -222,14 +222,14 @@
 
                         <div class="col-lg-3 col-md-6 mb-sm-20 position-relative">
                             <div class="de_count wow fadeInUp">
-                                <h3><span class="timer" data-to="40" data-speed="3000"></span>+</h3>
+                                <h3><span class="timer" data-to="60" data-speed="3000"></span>+</h3>
                                 <h4>Sucursales</h4>
                             </div>
                         </div>
 
                         <div class="col-lg-3 col-md-6 mb-sm-20 position-relative">
                             <div class="de_count wow fadeInUp">
-                                <h3><span class="timer" data-to="23" data-speed="3000"></span></h3>
+                                <h3><span class="timer" data-to="27" data-speed="3000"></span></h3>
                                 <h4>Estados donde tenemos presencia</h4>
                             </div>
                         </div>
