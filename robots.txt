@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /vendor/
+Sitemap: https://polizaderentas.com/sitemap.xml
